@@ -1,0 +1,2001 @@
+,Unnamed: 0,TimeStamp,GameType,BigBlind,Table,Date,PlayerCount,TotalPot,Dealer,Board,Ante,1on1
+0,1,3036555098,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:51:43(ET)
+",6,25.5,6,"['4d', '10s', '6s', 'Qs', 'Qc']",False,False
+1,2,3036569102,HoldemNoLimit,1,MEXICO HWY,"2009-07-0617:51:43(ET)
+",6,1.5,2,,False,False
+2,3,3036555394,HoldemNoLimit,1,GERMANY HWY,"2009-07-0617:51:49(ET)
+",9,29.5,5,"['8h', '2c', 'Jc', '4d']",False,False
+3,4,3036569838,HoldemNoLimit,1,MEXICO HWY,"2009-07-0617:51:52(ET)
+",6,16.5,3,"['Ah', 'Qs', '7c', 'Qd', '7s']",False,False
+4,5,3036566896,HoldemNoLimit,1,BRADBURN RD,"2009-07-0617:51:52(ET)
+",4,6.0,4,"['9c', 'Kh', 'Kd']",False,False
+5,6,3036573254,HoldemNoLimit,1,POLLY DR,"2009-07-0617:51:54(ET)
+",2,2.0,6,,False,True
+6,7,3036573654,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:52:00(ET)
+",2,2.0,4,"['10c', '8s', 'Qd', 'Ks', '3d']",False,True
+7,8,3036573712,HoldemNoLimit,1,POLLY DR,"2009-07-0617:52:00(ET)
+",2,2.0,4,,False,True
+8,9,3036556222,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:52:05(ET)
+",6,2.5,5,,False,False
+9,10,3036574148,HoldemNoLimit,1,POLLY DR,"2009-07-0617:52:08(ET)
+",2,1.5,6,,False,True
+10,11,3036574540,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:52:13(ET)
+",2,2.0,6,,False,True
+11,12,3036574536,HoldemNoLimit,1,POLLY DR,"2009-07-0617:52:13(ET)
+",2,4.0,4,,False,True
+12,13,3036556902,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:52:18(ET)
+",6,20.0,1,"['5c', '5h', '7s']",False,False
+13,14,3036568634,HoldemNoLimit,1,BRADBURN RD,"2009-07-0617:52:21(ET)
+",5,1.5,5,,False,False
+14,15,3036557306,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:52:23(ET)
+",6,2.5,6,,False,False
+15,16,3036575118,HoldemNoLimit,1,POLLY DR,"2009-07-0617:52:23(ET)
+",2,2.0,6,,False,True
+16,17,3036575164,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:52:24(ET)
+",2,1.5,4,,False,True
+17,18,3036575562,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:52:30(ET)
+",2,14.0,6,"['5d', '6d', 'Kd', 'Ks', '9h']",False,True
+18,19,3036575644,HoldemNoLimit,1,POLLY DR,"2009-07-0617:52:30(ET)
+",2,4.0,4,,False,True
+19,20,3036569790,HoldemNoLimit,1,BRADBURN RD,"2009-07-0617:52:35(ET)
+",5,3.5,6,,False,False
+20,21,3036576152,HoldemNoLimit,1,POLLY DR,"2009-07-0617:52:39(ET)
+",2,2.0,6,,False,True
+21,22,3036576624,HoldemNoLimit,1,POLLY DR,"2009-07-0617:52:45(ET)
+",2,12.0,4,"['4s', '8c', '4d', 'Kh']",False,True
+22,23,3036576738,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:52:47(ET)
+",2,2.0,4,,False,True
+23,24,3036558560,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:52:47(ET)
+",6,72.7,2,"['5h', '7c', '3h', '6h', '8d']",False,False
+24,25,3036573602,HoldemNoLimit,1,MEXICO HWY,"2009-07-0617:52:47(ET)
+",6,6.5,4,"['7d', 'Jd', 'As', '6s']",False,False
+25,26,3036558684,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:52:49(ET)
+",6,2.5,1,,False,False
+26,27,3036570720,HoldemNoLimit,1,BRADBURN RD,"2009-07-0617:52:50(ET)
+",6,10.5,1,"['2c', 'Ah', 'Qh']",False,False
+27,28,3036577268,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:52:58(ET)
+",2,2.0,6,,False,True
+28,29,3036559302,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:53:01(ET)
+",6,2.5,1,,False,False
+29,30,3036577716,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:53:03(ET)
+",2,1.5,4,,False,True
+30,31,3036559648,HoldemNoLimit,1,SANFORD ST,"2009-07-0617:53:06(ET)
+",9,9.5,8,"['Ac', '6d', '4h', '8d']",False,False
+31,32,3036577902,HoldemNoLimit,1,POLLY DR,"2009-07-0617:53:07(ET)
+",2,6.0,6,"['2h', '6s', '9h']",False,True
+32,33,3036578068,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:53:10(ET)
+",2,11.0,6,"['Jh', '4h', '8c', '5c']",False,True
+33,34,3036560136,HoldemNoLimit,1,GERMANY HWY,"2009-07-0617:53:13(ET)
+",9,2.5,6,,False,False
+34,35,3036572282,HoldemNoLimit,1,PEARL DR,"2009-07-0617:53:14(ET)
+",9,4.5,4,"['10h', '4s', '5d', 'Qd', 'Kh']",False,False
+35,36,3036560256,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:53:15(ET)
+",6,13.0,2,"['9d', '9c', '4h']",False,False
+36,37,3036560230,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:53:16(ET)
+",6,2.0,2,,False,False
+37,38,3036572596,HoldemNoLimit,1,BRADBURN RD,"2009-07-0617:53:19(ET)
+",6,10.5,2,"['Ad', 'Js', '4h', 'Jh', '4c']",False,False
+38,39,3036576014,HoldemNoLimit,1,MEXICO HWY,"2009-07-0617:53:20(ET)
+",6,2.0,5,"['5c', '3s', '6h', '2c', '2d']",False,False
+39,40,3036578786,HoldemNoLimit,1,POLLY DR,"2009-07-0617:53:20(ET)
+",2,30.0,4,"['6s', 'Jh', '5h']",False,True
+40,41,3036579162,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:53:26(ET)
+",2,2.0,4,"['4h', '10h', '10d', '4d', '3h']",False,True
+41,42,3036579852,HoldemNoLimit,1,POLLY DR,"2009-07-0617:53:37(ET)
+",2,2.0,6,,False,True
+42,43,3036580306,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:53:44(ET)
+",2,2.0,6,,False,True
+43,44,3036561820,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:53:44(ET)
+",5,7.0,3,"['6h', '5h', '4d', 'Ah', 'Ac']",False,False
+44,45,3036577720,HoldemNoLimit,1,MEXICO HWY,"2009-07-0617:53:45(ET)
+",6,2.0,6,"['Kc', '7c', 'Ad']",False,False
+45,46,3036561940,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:53:46(ET)
+",6,1.5,3,,False,False
+46,47,3036580462,HoldemNoLimit,1,POLLY DR,"2009-07-0617:53:46(ET)
+",2,32.0,4,"['Ks', 'Qh', '3h']",False,True
+47,48,3036562302,HoldemNoLimit,1,SANFORD ST,"2009-07-0617:53:47(ET)
+",9,14.5,9,"['8d', '6s', '10']",False,False
+48,49,3036580744,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:53:51(ET)
+",2,2.0,4,"['5s', '5d', '8c']",False,True
+49,50,3036562778,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:53:54(ET)
+",6,10.5,3,"['Qc', '6s', '10']",False,False
+50,51,3036562504,HoldemNoLimit,1,GERMANY HWY,"2009-07-0617:53:56(ET)
+",9,3.5,7,,False,False
+51,52,3036575268,HoldemNoLimit,1,PEARL DR,"2009-07-0617:53:59(ET)
+",9,17.5,5,"['2h', 'Kc', 'Qs', '7d', '3d']",False,False
+52,53,3036575356,HoldemNoLimit,1,BRADBURN RD,"2009-07-0617:54:01(ET)
+",6,17.5,3,"['9h', 'Qd', 'Kc']",False,False
+53,54,3036562688,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:54:02(ET)
+",6,8.0,4,"['Kh', '4c', '4s', '2c']",False,False
+54,55,3036581488,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:54:02(ET)
+",2,1.5,6,,False,True
+55,56,3036581540,HoldemNoLimit,1,POLLY DR,"2009-07-0617:54:03(ET)
+",2,2.0,6,,False,True
+56,57,3036581816,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:54:08(ET)
+",2,6.0,4,"['6h', '4h', '8s', '3h', '8d']",False,True
+57,58,3036581948,HoldemNoLimit,1,POLLY DR,"2009-07-0617:54:10(ET)
+",2,2.0,4,,False,True
+58,59,3036564162,HoldemNoLimit,1,GRAM DR,"2009-07-0617:54:13(ET)
+",8,2.0,7,"['3s', '4h', '2d']",False,False
+59,60,3036579556,HoldemNoLimit,1,MEXICO HWY,"2009-07-0617:54:13(ET)
+",6,4.0,1,,False,False
+60,61,3036564522,HoldemNoLimit,1,SANFORD ST,"2009-07-0617:54:18(ET)
+",9,7.5,1,"['Kd', '5d', '7h']",False,False
+61,62,3036582334,HoldemNoLimit,1,POLLY DR,"2009-07-0617:54:18(ET)
+",2,1.5,6,,False,True
+62,63,3036582696,HoldemNoLimit,1,POLLY DR,"2009-07-0617:54:24(ET)
+",2,2.0,4,,False,True
+63,64,3036583126,HoldemNoLimit,1,POLLY DR,"2009-07-0617:54:30(ET)
+",2,6.0,6,"['Qs', '2h', '7h']",False,True
+64,65,3036564388,HoldemNoLimit,1,GERMANY HWY,"2009-07-0617:54:30(ET)
+",9,4.5,8,"['3s', 'Kd', '9d']",False,False
+65,66,3036565698,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:54:33(ET)
+",6,2.0,4,,False,False
+66,67,3036581346,HoldemNoLimit,1,MEXICO HWY,"2009-07-0617:54:38(ET)
+",6,2.5,2,,False,False
+67,68,3036565194,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:54:41(ET)
+",5,6.0,4,"['5s', '2c', 'Qs']",False,False
+68,69,3036566326,HoldemNoLimit,1,SANFORD ST,"2009-07-0617:54:41(ET)
+",9,18.5,2,"['10s', 'Qs', '5s', 'Js', '9c']",False,False
+69,70,3036584072,HoldemNoLimit,1,POLLY DR,"2009-07-0617:54:45(ET)
+",2,2.0,4,,False,True
+70,71,3036566616,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:54:46(ET)
+",6,2.0,5,"['4c', '4h', '7s', '2c', '10']",False,False
+71,72,3036584324,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:54:48(ET)
+",2,24.0,6,"['3h', '9c', '6d', '3s', 'Jh']",False,True
+72,73,3036584490,HoldemNoLimit,1,POLLY DR,"2009-07-0617:54:50(ET)
+",2,2.0,6,,False,True
+73,74,3036582336,HoldemNoLimit,1,MEXICO HWY,"2009-07-0617:54:55(ET)
+",6,56.5,3,"['Js', '7s', '2h', '4c']",False,False
+74,75,3036567336,HoldemNoLimit,1,GRAM DR,"2009-07-0617:54:56(ET)
+",8,2.5,8,,False,False
+75,76,3036584980,HoldemNoLimit,1,POLLY DR,"2009-07-0617:54:58(ET)
+",2,2.0,4,,False,True
+76,77,3036566384,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:55:03(ET)
+",5,10.0,5,"['8s', 'Qh', '7h', '3s', '2d']",False,False
+77,78,3036585432,HoldemNoLimit,1,POLLY DR,"2009-07-0617:55:05(ET)
+",2,2.0,6,,False,True
+78,79,3036568326,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:55:12(ET)
+",6,2.0,6,"['Qc', '2d', 'Ks', '2h']",False,False
+79,80,3036585806,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:55:13(ET)
+",2,2.0,4,"['8s', 'Js', 'Qh', '4h', '5s']",False,True
+80,81,3036585820,HoldemNoLimit,1,POLLY DR,"2009-07-0617:55:13(ET)
+",2,4.0,4,,False,True
+81,82,3036567172,HoldemNoLimit,1,GERMANY HWY,"2009-07-0617:55:18(ET)
+",9,1.5,9,,False,False
+82,83,3036568866,HoldemNoLimit,1,GRAM DR,"2009-07-0617:55:19(ET)
+",8,2.5,9,"['4h', '6d', 'Ah', 'Kd']",False,False
+83,84,3036586408,HoldemNoLimit,1,POLLY DR,"2009-07-0617:55:22(ET)
+",2,1.5,6,,False,True
+84,85,3036586884,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:55:27(ET)
+",2,6.0,6,"['2c', 'Jh', '3s', '7d', '6s']",False,True
+85,86,3036586802,HoldemNoLimit,1,POLLY DR,"2009-07-0617:55:27(ET)
+",2,1.5,4,,False,True
+86,87,3036569610,HoldemNoLimit,1,SANFORD ST,"2009-07-0617:55:28(ET)
+",9,5.5,3,"['Jh', 'Jc', '2c']",False,False
+87,88,3036587204,HoldemNoLimit,1,POLLY DR,"2009-07-0617:55:31(ET)
+",2,2.0,6,,False,True
+88,89,3036587720,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:55:38(ET)
+",2,1.5,4,,False,True
+89,90,3036581758,HoldemNoLimit,1,PEARL DR,"2009-07-0617:55:38(ET)
+",9,24.14,6,"['4d', '5s', '3c', '6s', '2s']",False,False
+90,91,3036587884,HoldemNoLimit,1,POLLY DR,"2009-07-0617:55:41(ET)
+",2,4.0,4,,False,True
+91,92,3036568584,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:55:43(ET)
+",6,34.5,5,"['Ad', '6c', '2s']",False,False
+92,93,3036570384,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:55:43(ET)
+",6,6.0,1,"['Qs', '9c', '6h']",False,False
+93,94,3036588080,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:55:44(ET)
+",2,1.5,6,,False,True
+94,95,3036588402,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:55:49(ET)
+",2,2.0,4,"['3h', '10d', '5d']",False,True
+95,96,3036588628,HoldemNoLimit,1,POLLY DR,"2009-07-0617:55:53(ET)
+",2,14.0,6,"['5h', '5c', '3d']",False,True
+96,97,3036571128,HoldemNoLimit,1,GRAM DR,"2009-07-0617:55:54(ET)
+",8,2.5,1,,False,False
+97,98,3036569304,HoldemNoLimit,1,BOEING AVE,"2009-07-0617:55:56(ET)
+",6,1.5,4,,False,False
+98,99,3036569312,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:55:56(ET)
+",6,3.0,6,"['4d', '3s', 'Qc']",False,False
+99,100,3036569382,HoldemNoLimit,1,GERMANY HWY,"2009-07-0617:55:57(ET)
+",9,5.0,1,"['3c', '5d', 'Qd']",False,False
+100,101,3036571388,HoldemNoLimit,1,SANFORD ST,"2009-07-0617:55:58(ET)
+",9,19.5,4,"['2c', '3c', 'Ac', '3d', 'Jh']",False,False
+101,102,3036587050,HoldemNoLimit,1,MEXICO HWY,"2009-07-0617:55:59(ET)
+",6,12.5,4,"['Ac', '3d', 'As']",False,False
+102,103,3036589306,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:56:04(ET)
+",2,46.0,6,"['4h', '5c', '8s', '10h', '3s']",False,True
+103,104,3036583334,HoldemNoLimit,1,MARION AVE,"2009-07-0617:56:05(ET)
+",9,4.0,8,"['6s', '9h', '10s', 'Kd', '6d']",False,False
+104,105,3036589496,HoldemNoLimit,1,POLLY DR,"2009-07-0617:56:06(ET)
+",2,30.0,4,"['7h', 'Qc', '2c', '5d', 'Js']",False,True
+105,106,3036569882,HoldemNoLimit,1,BOEING AVE,"2009-07-0617:56:08(ET)
+",6,2.5,5,,False,False
+106,107,3036572194,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:56:11(ET)
+",6,8.0,2,"['Jc', 'Ac', '10']",False,False
+107,108,3036570904,HoldemNoLimit,1,BOEING AVE,"2009-07-0617:56:23(ET)
+",6,8.5,6,"['Kh', '8s', '8c']",False,False
+108,109,3036573168,HoldemNoLimit,1,GRAM DR,"2009-07-0617:56:26(ET)
+",8,2.5,2,,False,False
+109,110,3036590926,HoldemNoLimit,1,POLLY DR,"2009-07-0617:56:29(ET)
+",2,6.0,6,"['7s', '2s', '2h']",False,True
+110,111,3036590990,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:56:30(ET)
+",2,2.0,4,"['6h', '8d', '10']",False,True
+111,112,3036571460,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:56:34(ET)
+",6,75.4,6,"['5h', '2h', '9c', '7s', 'Kc']",False,False
+112,113,3036591798,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:56:40(ET)
+",2,2.0,6,,False,True
+113,114,3036591796,HoldemNoLimit,1,POLLY DR,"2009-07-0617:56:40(ET)
+",2,4.0,4,"['6d', '6c', 'As', '3s']",False,True
+114,115,3036574216,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:56:43(ET)
+",6,21.0,3,"['6h', '5c', 'Kh', 'Kd']",False,False
+115,116,3036592206,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:56:46(ET)
+",2,2.0,4,"['Qc', 'Jc', 'Qh', 'Ad', '9s']",False,True
+116,117,3036572242,HoldemNoLimit,1,GERMANY HWY,"2009-07-0617:56:48(ET)
+",9,24.5,2,"['8h', '6s', 'Qc', '10d', '5s']",False,False
+117,118,3036592552,HoldemNoLimit,1,POLLY DR,"2009-07-0617:56:51(ET)
+",2,40.0,6,"['2d', '5d', '9s', '8h', 'Qh']",False,True
+118,119,3036572688,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:56:56(ET)
+",5,7.5,1,"['4d', '3c', 'Jd']",False,False
+119,120,3036593002,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:56:57(ET)
+",2,1.5,6,,False,True
+120,121,3036593040,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0617:56:58(ET)
+",9,2.0,5,"['3d', 'Ad', '6d', '7s']",False,False
+121,122,3036573100,HoldemNoLimit,1,BOEING AVE,"2009-07-0617:57:04(ET)
+",6,1.5,1,,False,False
+122,123,3036593350,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:57:04(ET)
+",2,38.0,4,"['6c', '7d', 'Kd', 'Kh', '10']",False,True
+123,124,3036591742,HoldemNoLimit,1,MEXICO HWY,"2009-07-0617:57:05(ET)
+",6,2.0,6,"['9h', 'Qs', '10d', '6d']",False,False
+124,125,3036576052,HoldemNoLimit,1,SANFORD ST,"2009-07-0617:57:10(ET)
+",9,20.0,5,"['3c', '8s', 'Jh', '8h', '3d']",False,False
+125,126,3036587458,HoldemNoLimit,1,MARION AVE,"2009-07-0617:57:13(ET)
+",9,1.5,9,,False,False
+126,127,3036594268,HoldemNoLimit,1,POLLY DR,"2009-07-0617:57:16(ET)
+",2,4.0,4,"['2h', '9d', '10c', '9s']",False,True
+127,128,3036573976,HoldemNoLimit,1,BOEING AVE,"2009-07-0617:57:19(ET)
+",6,1.5,2,,False,False
+128,129,3036574206,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:57:23(ET)
+",6,3.0,2,,False,False
+129,130,3036588266,HoldemNoLimit,1,MARION AVE,"2009-07-0617:57:27(ET)
+",9,5.0,1,"['8h', '2d', '10']",False,False
+130,131,3036574390,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:57:28(ET)
+",5,3.0,1,"['3s', 'Js', '8c']",False,False
+131,132,3036595012,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:57:28(ET)
+",2,2.0,6,,False,True
+132,133,3036595072,HoldemNoLimit,1,POLLY DR,"2009-07-0617:57:29(ET)
+",2,1.5,6,,False,True
+133,134,3036577486,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:57:33(ET)
+",5,9.0,4,"['Qc', '7d', 'Ah', '6h', 'Kc']",False,False
+134,135,3036588620,HoldemNoLimit,1,PEARL DR,"2009-07-0617:57:33(ET)
+",9,24.94,7,"['7c', 'Jc', 'Ad', '3s', 'Kd']",False,False
+135,136,3036595482,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:57:35(ET)
+",2,2.0,4,"['7d', '8c', '6h', 'Qd', '6d']",False,True
+136,137,3036595468,HoldemNoLimit,1,POLLY DR,"2009-07-0617:57:35(ET)
+",2,2.0,4,,False,True
+137,138,3036575266,HoldemNoLimit,1,BOEING AVE,"2009-07-0617:57:41(ET)
+",6,2.0,3,,False,False
+138,139,3036575556,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:57:46(ET)
+",6,3.0,3,"['2c', '6c', '9d']",False,False
+139,140,3036596278,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0617:57:48(ET)
+",2,1.5,6,,False,True
+140,141,3036596336,HoldemNoLimit,1,POLLY DR,"2009-07-0617:57:49(ET)
+",2,6.0,6,"['2d', '9c', '10d', 'Kh']",False,True
+141,142,3036595474,HoldemNoLimit,1,MEXICO HWY,"2009-07-0617:57:53(ET)
+",5,54.7,1,"['Qs', '7s', '5c', '8s', '8h']",False,False
+142,143,3036576432,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:58:02(ET)
+",5,2.0,2,,False,False
+143,144,3036576502,HoldemNoLimit,1,BOEING AVE,"2009-07-0617:58:03(ET)
+",6,2.5,4,,False,False
+144,145,3036597350,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0617:58:04(ET)
+",9,8.5,6,"['Kh', 'Kd', '9s', '4c']",False,False
+145,146,3036579420,HoldemNoLimit,1,SANFORD ST,"2009-07-0617:58:04(ET)
+",9,21.0,6,"['9d', 'Kc', '10c', '2h', '8d']",False,False
+146,147,3036597622,HoldemNoLimit,1,POLLY DR,"2009-07-0617:58:09(ET)
+",2,2.0,4,,False,True
+147,148,3036591670,HoldemNoLimit,1,MARION AVE,"2009-07-0617:58:18(ET)
+",9,18.0,2,,False,False
+148,149,3036577306,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:58:19(ET)
+",5,1.5,3,,False,False
+149,150,3036580840,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:58:25(ET)
+",5,2.5,5,,False,False
+150,151,3036598618,HoldemNoLimit,1,POLLY DR,"2009-07-0617:58:25(ET)
+",2,1.5,6,,False,True
+151,152,3036577832,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:58:28(ET)
+",6,19.5,4,"['6d', 'Js', '7d', '6h']",False,False
+152,153,3036598174,HoldemNoLimit,1,MEXICO HWY,"2009-07-0617:58:32(ET)
+",5,3.0,2,"['Js', '7s', '8d', '10d', '4c']",False,False
+153,154,3036599094,HoldemNoLimit,1,POLLY DR,"2009-07-0617:58:32(ET)
+",2,4.0,4,"['Qc', '7s', '7c', 'Qh', 'Ah']",False,True
+154,155,3036578514,HoldemNoLimit,1,BOEING AVE,"2009-07-0617:58:39(ET)
+",6,2.5,5,,False,False
+155,156,3036581730,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:58:41(ET)
+",5,2.0,6,"['2h', '6s', '5c', 'Qd']",False,False
+156,157,3036578584,HoldemNoLimit,1,GERMANY HWY,"2009-07-0617:58:41(ET)
+",9,2.5,3,,False,False
+157,158,3036593534,HoldemNoLimit,1,PEARL DR,"2009-07-0617:58:43(ET)
+",8,14.5,8,"['Jc', 'Qc', '7c', '3s', 'As']",False,False
+158,159,3036578736,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:58:44(ET)
+",6,2.5,5,,False,False
+159,160,3036600628,HoldemNoLimit,1,POLLY DR,"2009-07-0617:58:55(ET)
+",2,1.5,6,,False,True
+160,161,3036582814,HoldemNoLimit,1,SANFORD ST,"2009-07-0617:58:59(ET)
+",9,24.0,7,"['2h', '10h', '7s', '4s', '6d']",False,False
+161,162,3036600898,HoldemNoLimit,1,POLLY DR,"2009-07-0617:59:00(ET)
+",2,4.0,4,,False,True
+162,163,3036579800,HoldemNoLimit,1,BOEING AVE,"2009-07-0617:59:03(ET)
+",6,42.0,6,"['7s', '3h', 'As']",False,False
+163,164,3036579754,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:59:03(ET)
+",6,3.0,5,"['10c', 'Qh', 'Ks']",False,False
+164,165,3036601274,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0617:59:06(ET)
+",9,2.0,7,"['5s', '10c', '4s']",False,False
+165,166,3036579976,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:59:07(ET)
+",5,15.0,6,"['9s', '2d', '10s', 'Jc', '3s']",False,False
+166,167,3036595384,HoldemNoLimit,1,MARION AVE,"2009-07-0617:59:09(ET)
+",9,2.5,3,,False,False
+167,168,3036601448,HoldemNoLimit,1,POLLY DR,"2009-07-0617:59:10(ET)
+",2,1.5,6,,False,True
+168,169,3036583730,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:59:13(ET)
+",5,6.5,1,"['2s', '3h', '2c']",False,False
+169,170,3036601818,HoldemNoLimit,1,POLLY DR,"2009-07-0617:59:14(ET)
+",2,4.0,4,,False,True
+170,171,3036602356,HoldemNoLimit,1,POLLY DR,"2009-07-0617:59:23(ET)
+",2,12.0,6,"['2d', '8c', 'Kh']",False,True
+171,172,3036580902,HoldemNoLimit,1,GERMANY HWY,"2009-07-0617:59:24(ET)
+",9,2.5,4,,False,False
+172,173,3036596800,HoldemNoLimit,1,MARION AVE,"2009-07-0617:59:30(ET)
+",8,2.5,4,,False,False
+173,174,3036581334,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:59:31(ET)
+",5,2.5,6,"['8h', '7s', 'Qh']",False,False
+174,175,3036584934,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:59:32(ET)
+",5,2.0,2,,False,False
+175,176,3036603226,HoldemNoLimit,1,POLLY DR,"2009-07-0617:59:36(ET)
+",2,1.5,4,,False,True
+176,177,3036603324,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0617:59:37(ET)
+",9,27.0,8,"['8c', '7c', 'Ad', '2s', '9d']",False,False
+177,178,3036602918,HoldemNoLimit,1,MEXICO HWY,"2009-07-0617:59:41(ET)
+",5,2.5,4,"['Qd', 'Ah', '2s', '7h']",False,False
+178,179,3036603532,HoldemNoLimit,1,POLLY DR,"2009-07-0617:59:42(ET)
+",2,2.0,6,,False,True
+179,180,3036603958,HoldemNoLimit,1,POLLY DR,"2009-07-0617:59:46(ET)
+",2,1.5,4,,False,True
+180,181,3036598080,HoldemNoLimit,1,PEARL DR,"2009-07-0617:59:47(ET)
+",9,4.0,1,"['9s', 'Kd', 'Qd', 'Ad']",False,False
+181,182,3036585884,HoldemNoLimit,1,RAKOF AVE,"2009-07-0617:59:48(ET)
+",5,19.5,3,"['8d', 'Kh', '9h', 'Ks', 'Qh']",False,False
+182,183,3036586030,HoldemNoLimit,1,SANFORD ST,"2009-07-0617:59:50(ET)
+",9,80.5,8,"['9h', '6c', 'Jh', 'As', '6s']",False,False
+183,184,3036598344,HoldemNoLimit,1,MARION AVE,"2009-07-0617:59:52(ET)
+",9,9.0,6,"['9c', 'Kd', '8c', '6h']",False,False
+184,185,3036582432,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0617:59:52(ET)
+",5,1.5,1,,False,False
+185,186,3036604282,HoldemNoLimit,1,POLLY DR,"2009-07-0617:59:52(ET)
+",2,14.0,6,"['As', '10h', 'Qh', '4h', '10']",False,True
+186,187,3036582742,HoldemNoLimit,1,GERMANY HWY,"2009-07-0617:59:57(ET)
+",9,7.0,5,,False,False
+187,188,3036582816,HoldemNoLimit,1,KALAMAZOO,"2009-07-0617:59:58(ET)
+",5,7.0,1,"['8h', '5s', '7s', '3s', '10']",False,False
+188,189,3036605542,HoldemNoLimit,1,POLLY DR,"2009-07-0618:00:05(ET)
+",2,48.0,4,"['Qc', '3h', '6c', '3s', '7h']",False,True
+189,190,3036583510,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:00:12(ET)
+",6,5.5,2,"['Kc', '2c', '7h', '7s']",False,False
+190,191,3036583580,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:00:13(ET)
+",6,2.5,1,,False,False
+191,192,3036605866,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:00:30(ET)
+",5,6.5,5,"['2h', '2d', '8h']",False,False
+192,193,3036607398,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0618:00:33(ET)
+",9,2.5,9,"['Qs', '8s', 'Ah']",False,False
+193,194,3036584878,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:00:35(ET)
+",6,3.5,2,"['2s', 'Qd', '7h']",False,False
+194,195,3036585086,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:00:38(ET)
+",9,3.0,6,"['Qs', 'Ks', '4c']",False,False
+195,196,3036607842,HoldemNoLimit,1,POLLY DR,"2009-07-0618:00:40(ET)
+",2,1.5,6,,False,True
+196,197,3036608174,HoldemNoLimit,1,POLLY DR,"2009-07-0618:00:44(ET)
+",2,52.0,4,"['9c', 'Qh', 'Qc']",False,True
+197,198,3036585252,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:00:45(ET)
+",6,2.0,2,"['10s', 'Qh', '9c', '8d']",False,False
+198,199,3036607940,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:01:00(ET)
+",5,3.0,6,"['9h', 'Ks', 'Kc', '2h', '8h']",False,False
+199,200,3036609342,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0618:01:01(ET)
+",9,2.5,1,"['8d', '5s', 'Kh']",False,False
+200,201,3036586350,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:01:03(ET)
+",6,11.0,3,"['Kd', '8h', '5c', '9h', 'Kc']",False,False
+201,202,3036602288,HoldemNoLimit,1,MARION AVE,"2009-07-0618:01:04(ET)
+",8,1.5,7,,False,False
+202,203,3036609670,HoldemNoLimit,1,POLLY DR,"2009-07-0618:01:07(ET)
+",2,1.5,6,,False,True
+203,204,3036586594,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:01:07(ET)
+",6,24.5,3,"['4h', '10d', '3d']",False,False
+204,205,3036609988,HoldemNoLimit,1,POLLY DR,"2009-07-0618:01:12(ET)
+",2,2.0,4,"['4c', '5s', '10c', '10']",False,True
+205,206,3036603586,HoldemNoLimit,1,MARION AVE,"2009-07-0618:01:24(ET)
+",8,2.0,8,,False,False
+206,207,3036588064,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:01:31(ET)
+",9,18.0,7,"['7d', 'Qh', 'Ah', '9d', '9h']",False,False
+207,208,3036588128,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:01:34(ET)
+",6,2.5,3,,False,False
+208,209,3036611742,HoldemNoLimit,1,POLLY DR,"2009-07-0618:01:38(ET)
+",2,1.5,6,,False,True
+209,210,3036612062,HoldemNoLimit,1,POLLY DR,"2009-07-0618:01:44(ET)
+",2,4.0,4,,False,True
+210,211,3036612182,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0618:01:45(ET)
+",9,2.5,2,,False,False
+211,212,3036604852,HoldemNoLimit,1,PEARL DR,"2009-07-0618:01:46(ET)
+",8,16.0,2,"['10d', '9d', '3c', 'Jh']",False,False
+212,213,3036588844,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:01:47(ET)
+",6,93.0,4,"['2s', '5c', 'Kc', '4s', '2h']",False,False
+213,214,3036604950,HoldemNoLimit,1,MARION AVE,"2009-07-0618:01:48(ET)
+",8,13.5,9,"['Ac', '6d', '4h']",False,False
+214,215,3036589632,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:01:50(ET)
+",9,2.0,9,,False,False
+215,216,3036589690,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:01:51(ET)
+",5,2.5,5,,False,False
+216,217,3036611692,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:01:54(ET)
+",5,2.5,1,"['Kh', '4s', 'Qh', '4d']",False,False
+217,218,3036589238,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:01:55(ET)
+",6,2.5,4,,False,False
+218,219,3036612700,HoldemNoLimit,1,POLLY DR,"2009-07-0618:01:55(ET)
+",2,1.5,6,,False,True
+219,220,3036613052,HoldemNoLimit,1,POLLY DR,"2009-07-0618:02:00(ET)
+",2,2.0,4,,False,True
+220,221,3036613662,HoldemNoLimit,1,POLLY DR,"2009-07-0618:02:11(ET)
+",2,1.5,6,,False,True
+221,222,3036590856,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:02:11(ET)
+",4,2.0,6,"['7d', '2c', '4c', '6c']",False,False
+222,223,3036590906,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:02:11(ET)
+",9,44.6,1,"['Qd', '10c', '2d', 'Js', '6h']",False,False
+223,224,3036614066,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0618:02:16(ET)
+",9,2.5,3,"['Qh', '2s', 'Kd', '5s']",False,False
+224,225,3036614076,HoldemNoLimit,1,POLLY DR,"2009-07-0618:02:17(ET)
+",2,2.0,4,,False,True
+225,226,3036613380,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:02:20(ET)
+",5,3.0,2,"['3s', '4s', '10']",False,False
+226,227,3036591220,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:02:30(ET)
+",6,1.5,5,,False,False
+227,228,3036614934,HoldemNoLimit,1,POLLY DR,"2009-07-0618:02:30(ET)
+",2,8.0,6,"['Jh', '2s', '3c']",False,True
+228,229,3036591274,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:02:33(ET)
+",6,1.5,5,,False,False
+229,230,3036592188,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:02:44(ET)
+",6,10.5,6,"['3h', '6d', '2c']",False,False
+230,231,3036615834,HoldemNoLimit,1,POLLY DR,"2009-07-0618:02:44(ET)
+",2,1.5,4,,False,True
+231,232,3036591962,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:02:47(ET)
+",6,6.0,5,"['10c', 'Qd', '7c', '3h']",False,False
+232,233,3036616216,HoldemNoLimit,1,POLLY DR,"2009-07-0618:02:49(ET)
+",2,6.0,6,"['7h', 'Ah', 'Kh']",False,True
+233,234,3036593672,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:02:51(ET)
+",4,7.5,1,"['6h', '2s', 'Jd']",False,False
+234,235,3036608272,HoldemNoLimit,1,MARION AVE,"2009-07-0618:02:51(ET)
+",8,3.5,1,"['9s', '2h', '2d', '9c', '4c']",False,False
+235,236,3036592320,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:02:52(ET)
+",6,2.5,6,,False,False
+236,237,3036593908,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:02:56(ET)
+",9,16.5,2,"['5d', '8c', '2h']",False,False
+237,238,3036608522,HoldemNoLimit,1,PEARL DR,"2009-07-0618:02:57(ET)
+",8,18.5,3,"['9s', '5d', '9c', '5s', 'Ac']",False,False
+238,239,3036617332,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0618:03:03(ET)
+",9,32.0,4,"['Jd', '10d', '6h', '6s', '7c']",False,False
+239,240,3036615526,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:03:03(ET)
+",5,1.5,4,,False,False
+240,241,3036593246,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:03:08(ET)
+",6,2.5,1,,False,False
+241,242,3036617686,HoldemNoLimit,1,POLLY DR,"2009-07-0618:03:08(ET)
+",2,2.0,4,,False,True
+242,243,3036617964,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:03:12(ET)
+",2,2.0,4,"['2s', '4d', '6d', 'Ah', 'Ac']",False,True
+243,244,3036595178,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:03:13(ET)
+",5,6.0,2,,False,False
+244,245,3036593794,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:03:17(ET)
+",6,8.5,6,"['5h', 'Jc', 'Kc']",False,False
+245,246,3036593784,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:03:17(ET)
+",9,1.5,8,,False,False
+246,247,3036618282,HoldemNoLimit,1,POLLY DR,"2009-07-0618:03:17(ET)
+",2,1.5,6,,False,True
+247,248,3036616502,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:03:19(ET)
+",5,3.0,5,"['Jh', 'Kd', '4s']",False,False
+248,249,3036618686,HoldemNoLimit,1,POLLY DR,"2009-07-0618:03:22(ET)
+",2,1.5,4,,False,True
+249,250,3036618914,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:03:26(ET)
+",2,2.0,6,,False,True
+250,251,3036619180,HoldemNoLimit,1,POLLY DR,"2009-07-0618:03:30(ET)
+",2,2.0,6,,False,True
+251,252,3036594432,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:03:31(ET)
+",6,8.5,2,,False,False
+252,253,3036617272,HoldemNoLimit,1,SENECA DR,"2009-07-0618:03:33(ET)
+",6,2.5,4,,False,False
+253,254,3036596528,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:03:33(ET)
+",5,6.0,3,"['Qc', '5c', '2d']",False,False
+254,255,3036596510,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:03:33(ET)
+",9,32.0,3,"['3c', '9h', '7s', '8d', '6s']",False,False
+255,256,3036594760,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:03:34(ET)
+",9,3.5,9,,False,False
+256,257,3036619384,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:03:34(ET)
+",2,2.0,4,"['8s', 'Qs', '2h']",False,True
+257,258,3036594902,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:03:36(ET)
+",6,2.5,1,,False,False
+258,259,3036619934,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0618:03:39(ET)
+",9,7.5,5,"['Ad', 'Kd', '9s']",False,False
+259,260,3036619892,HoldemNoLimit,1,POLLY DR,"2009-07-0618:03:39(ET)
+",2,4.0,4,,False,True
+260,261,3036620094,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:03:42(ET)
+",2,1.5,6,,False,True
+261,262,3036595390,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:03:47(ET)
+",6,2.5,1,,False,False
+262,263,3036620462,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:03:48(ET)
+",2,2.0,4,"['Jd', 'Qd', '3s', '9d', '8c']",False,True
+263,264,3036620464,HoldemNoLimit,1,POLLY DR,"2009-07-0618:03:48(ET)
+",2,18.0,6,"['6h', 'Jd', 'Ad', '7s', '5c']",False,True
+264,265,3036612008,HoldemNoLimit,1,MARION AVE,"2009-07-0618:03:50(ET)
+",8,7.5,2,"['9s', '7s', '7c']",False,False
+265,266,3036621242,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:03:59(ET)
+",2,12.0,6,"['5d', '2s', '5h']",False,True
+266,267,3036596068,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:03:59(ET)
+",6,1.5,2,,False,False
+267,268,3036596228,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:04:02(ET)
+",6,38.5,2,"['5h', '2d', '4s', 'Qh', '8c']",False,False
+268,269,3036596180,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:04:03(ET)
+",6,2.5,3,"['2h', '10h', 'Qs', 'Jc']",False,False
+269,270,3036618852,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:04:04(ET)
+",5,8.0,6,"['9d', '7c', '7h']",False,False
+270,271,3036622058,HoldemNoLimit,1,POLLY DR,"2009-07-0618:04:08(ET)
+",2,1.5,4,,False,True
+271,272,3036622240,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:04:11(ET)
+",2,1.5,4,,False,True
+272,273,3036599082,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:04:14(ET)
+",5,8.5,5,"['2s', '9d', 'Kd']",False,False
+273,274,3036596954,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:04:15(ET)
+",6,2.0,3,,False,False
+274,275,3036619580,HoldemNoLimit,1,SENECA DR,"2009-07-0618:04:15(ET)
+",6,4.0,5,,False,False
+275,276,3036622458,HoldemNoLimit,1,POLLY DR,"2009-07-0618:04:15(ET)
+",2,14.0,6,"['8c', '7c', '9s', '2h']",False,True
+276,277,3036613608,HoldemNoLimit,1,PEARL DR,"2009-07-0618:04:16(ET)
+",8,5.0,4,"['5h', 'Qc', '6s']",False,False
+277,278,3036622688,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:04:18(ET)
+",2,22.0,6,"['7c', '5h', '8h', 'Ks', '10']",False,True
+278,279,3036622972,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0618:04:21(ET)
+",9,1.5,6,,False,False
+279,280,3036597288,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:04:22(ET)
+",9,2.0,1,,False,False
+280,281,3036599766,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:04:24(ET)
+",8,10.5,4,"['Ac', '8h', '10c', 'Kh']",False,False
+281,282,3036623674,HoldemNoLimit,1,POLLY DR,"2009-07-0618:04:32(ET)
+",2,4.0,4,"['Ad', '9h', 'Qs', '6h']",False,True
+282,283,3036598084,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:04:35(ET)
+",6,1.5,4,,False,False
+283,284,3036615224,HoldemNoLimit,1,MARION AVE,"2009-07-0618:04:40(ET)
+",9,8.5,3,"['Ah', '4d', 'Ac', 'Kh']",False,False
+284,285,3036624164,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:04:40(ET)
+",2,2.0,4,"['Jh', '3d', 'Qs']",False,True
+285,286,3036624596,HoldemNoLimit,1,POLLY DR,"2009-07-0618:04:45(ET)
+",2,1.5,6,,False,True
+286,287,3036601002,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:04:45(ET)
+",5,38.5,6,"['6c', '2s', '9d', '3s', '8h']",False,False
+287,288,3036598606,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:04:46(ET)
+",6,2.5,4,,False,False
+288,289,3036624702,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0618:04:46(ET)
+",9,2.5,7,,False,False
+289,290,3036598716,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:04:47(ET)
+",6,2.5,5,,False,False
+290,291,3036598724,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:04:48(ET)
+",6,7.5,3,"['10c', '6c', '2c']",False,False
+291,292,3036621300,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:04:48(ET)
+",5,1.5,1,,False,False
+292,293,3036624958,HoldemNoLimit,1,POLLY DR,"2009-07-0618:04:49(ET)
+",2,30.0,4,"['2d', '4d', 'Qd', '5d', '2h']",False,True
+293,294,3036625154,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:04:52(ET)
+",2,30.0,6,"['4c', 'Ks', 'Kh', '7c', '2c']",False,True
+294,295,3036599416,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:05:00(ET)
+",6,14.0,5,"['8h', '6h', '10s', '2c']",False,False
+295,296,3036622140,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:05:03(ET)
+",5,109.1,2,"['9c', '4s', '7c', '6h', '3d']",False,False
+296,297,3036599710,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:05:04(ET)
+",6,2.5,6,,False,False
+297,298,3036599754,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:05:07(ET)
+",9,59.48,2,"['8d', '3d', '4c', 'Qc']",False,False
+298,299,3036602644,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:05:07(ET)
+",8,4.0,5,"['3c', '8d', 'Ad', '4c']",False,False
+299,300,3036626388,HoldemNoLimit,1,POLLY DR,"2009-07-0618:05:09(ET)
+",2,1.5,6,,False,True
+300,301,3036626710,HoldemNoLimit,1,POLLY DR,"2009-07-0618:05:15(ET)
+",2,4.0,4,"['Qd', '7d', 'Kc']",False,True
+301,302,3036623090,HoldemNoLimit,1,SENECA DR,"2009-07-0618:05:16(ET)
+",6,4.5,6,,False,False
+302,303,3036600706,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:05:21(ET)
+",6,2.5,1,,False,False
+303,304,3036627180,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:05:22(ET)
+",2,2.0,4,"['10c', '4d', '9s']",False,True
+304,305,3036627274,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0618:05:22(ET)
+",8,10.5,8,"['7c', '5h', '8s', 'Kh']",False,False
+305,306,3036618346,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:05:24(ET)
+",6,8.0,2,"['8h', 'Qc', 'Qd']",False,False
+306,307,3036618372,HoldemNoLimit,1,MARION AVE,"2009-07-0618:05:24(ET)
+",9,2.5,4,,False,False
+307,308,3036600818,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:05:25(ET)
+",6,18.0,4,"['2d', '5s', 'Ac', 'As', '9c']",False,False
+308,309,3036627546,HoldemNoLimit,1,POLLY DR,"2009-07-0618:05:25(ET)
+",2,2.0,6,,False,True
+309,310,3036618446,HoldemNoLimit,1,PEARL DR,"2009-07-0618:05:26(ET)
+",8,3.0,6,"['6h', '8s', '7s', 'Qs']",False,False
+310,311,3036604274,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:05:31(ET)
+",5,7.5,1,"['Kh', 'Jd', '6d', '6c']",False,False
+311,312,3036628034,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:05:32(ET)
+",2,2.0,6,,False,True
+312,313,3036628078,HoldemNoLimit,1,POLLY DR,"2009-07-0618:05:33(ET)
+",2,2.0,4,,False,True
+313,314,3036628410,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:05:38(ET)
+",2,4.0,4,"['Jd', 'Jc', '3h', '8d', '10']",False,True
+314,315,3036628480,HoldemNoLimit,1,POLLY DR,"2009-07-0618:05:39(ET)
+",2,2.0,6,,False,True
+315,316,3036601868,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:05:43(ET)
+",6,2.5,6,,False,False
+316,317,3036619986,HoldemNoLimit,1,MARION AVE,"2009-07-0618:05:45(ET)
+",9,1.5,5,,False,False
+317,318,3036602132,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:05:46(ET)
+",5,2.5,2,,False,False
+318,319,3036624770,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:05:47(ET)
+",6,11.5,4,"['10s', 'Qc', '4c', '4d', 'Jh']",False,False
+319,320,3036629114,HoldemNoLimit,1,POLLY DR,"2009-07-0618:05:47(ET)
+",2,4.0,4,,False,True
+320,321,3036606226,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:05:52(ET)
+",8,28.0,7,"['Qh', '7s', '8c', '9d']",False,False
+321,322,3036620568,HoldemNoLimit,1,PEARL DR,"2009-07-0618:05:53(ET)
+",8,9.5,7,"['6d', '7h', 'Ad', 'Kd', '5s']",False,False
+322,323,3036629650,HoldemNoLimit,1,POLLY DR,"2009-07-0618:05:54(ET)
+",2,2.0,6,,False,True
+323,324,3036620702,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:05:55(ET)
+",6,12.5,3,"['Ac', 'Ah', 'Js']",False,False
+324,325,3036629880,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:05:58(ET)
+",2,34.0,6,"['5c', '10d', '5d', 'Ah', '3s']",False,True
+325,326,3036625854,HoldemNoLimit,1,SENECA DR,"2009-07-0618:05:59(ET)
+",6,1.5,1,,False,False
+326,327,3036630088,HoldemNoLimit,1,POLLY DR,"2009-07-0618:06:02(ET)
+",2,1.5,4,,False,True
+327,328,3036630476,HoldemNoLimit,1,POLLY DR,"2009-07-0618:06:07(ET)
+",2,1.5,6,,False,True
+328,329,3036603020,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:06:07(ET)
+",6,2.5,1,,False,False
+329,330,3036607156,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:06:07(ET)
+",5,2.5,2,,False,False
+330,331,3036630966,HoldemNoLimit,1,POLLY DR,"2009-07-0618:06:13(ET)
+",2,4.0,4,"['3c', '10s', 'As']",False,True
+331,332,3036603636,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:06:16(ET)
+",6,2.0,5,"['Ks', '9c', '6c', 'Js', 'Jd']",False,False
+332,333,3036627226,HoldemNoLimit,1,SENECA DR,"2009-07-0618:06:18(ET)
+",6,8.5,2,"['5s', '4s', '5d', 'Qd', 'Jc']",False,False
+333,334,3036622358,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:06:19(ET)
+",6,8.5,4,"['8d', '9h', 'Qs', '5s', '10']",False,False
+334,335,3036627548,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:06:22(ET)
+",5,10.5,5,"['Qs', '6s', '3h']",False,False
+335,336,3036631742,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:06:24(ET)
+",2,2.0,4,"['4c', 'Qs', '2c']",False,True
+336,337,3036631922,HoldemNoLimit,1,POLLY DR,"2009-07-0618:06:26(ET)
+",2,42.0,6,"['10d', 'Ac', '3c', '3d', '8s']",False,True
+337,338,3036604212,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:06:26(ET)
+",6,31.0,2,"['Jc', '3h', '2d', 'Kh', 'Qc']",False,False
+338,339,3036604614,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:06:31(ET)
+",9,9.0,3,"['8d', 'Qh', 'Js']",False,False
+339,340,3036623030,HoldemNoLimit,1,MARION AVE,"2009-07-0618:06:31(ET)
+",8,20.0,6,"['5s', '2c', '3d', 'Kc']",False,False
+340,341,3036632386,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:06:35(ET)
+",2,1.5,6,,False,True
+341,342,3036632744,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:06:40(ET)
+",2,2.0,4,"['5d', '3c', '6d', '8d', '2s']",False,True
+342,343,3036632804,HoldemNoLimit,1,FLAMINGO DR,"2009-07-0618:06:40(ET)
+",9,3.5,1,"['Jd', '7d', '9c']",False,False
+343,344,3036628768,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:06:43(ET)
+",5,35.5,3,"['4d', 'Ah', 'Kh']",False,False
+344,345,3036605332,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:06:47(ET)
+",5,1.5,6,,False,False
+345,346,3036629116,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:06:50(ET)
+",5,2.5,6,,False,False
+346,347,3036605630,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:06:51(ET)
+",6,7.5,4,"['6h', 'Qc', '4d', '2h']",False,False
+347,348,3036633574,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:06:53(ET)
+",2,10.0,6,"['4d', '6s', '9s', 'Ac', '2s']",False,True
+348,349,3036633762,HoldemNoLimit,1,POLLY DR,"2009-07-0618:06:54(ET)
+",2,2.0,4,,False,True
+349,350,3036625034,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:06:59(ET)
+",5,2.5,5,,False,False
+350,351,3036634190,HoldemNoLimit,1,POLLY DR,"2009-07-0618:07:00(ET)
+",2,1.5,6,,False,True
+351,352,3036634576,HoldemNoLimit,1,POLLY DR,"2009-07-0618:07:06(ET)
+",2,1.5,4,,False,True
+352,353,3036625518,HoldemNoLimit,1,PEARL DR,"2009-07-0618:07:06(ET)
+",8,7.0,8,"['Qs', '3h', '5c', '4d', 'Qc']",False,False
+353,354,3036634912,HoldemNoLimit,1,POLLY DR,"2009-07-0618:07:10(ET)
+",2,6.0,6,"['6d', 'Ah', '8d']",False,True
+354,355,3036630090,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:07:10(ET)
+",6,2.5,1,,False,False
+355,356,3036634984,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:07:11(ET)
+",2,2.0,4,"['4d', '2c', '3h']",False,True
+356,357,3036630616,HoldemNoLimit,1,SENECA DR,"2009-07-0618:07:16(ET)
+",6,10.5,3,,False,False
+357,358,3036626510,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:07:20(ET)
+",5,2.5,6,"['10s', 'Ah', '6s']",False,False
+358,359,3036635726,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:07:23(ET)
+",2,1.5,6,,False,True
+359,360,3036635728,HoldemNoLimit,1,POLLY DR,"2009-07-0618:07:23(ET)
+",2,2.0,4,,False,True
+360,361,3036607316,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:07:25(ET)
+",4,42.0,1,"['5d', '9d', 'Qd', '5s', 'Jd']",False,False
+361,362,3036631232,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:07:27(ET)
+",6,7.5,4,"['4h', 'Kc', '2d', '6s', 'Qd']",False,False
+362,363,3036636180,HoldemNoLimit,1,POLLY DR,"2009-07-0618:07:28(ET)
+",2,1.5,6,,False,True
+363,364,3036627282,HoldemNoLimit,1,MARION AVE,"2009-07-0618:07:31(ET)
+",9,14.5,8,"['8c', '5c', 'Qh']",False,False
+364,365,3036631800,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:07:35(ET)
+",6,18.0,2,"['4s', 'Ac', '2d', 'Kh']",False,False
+365,366,3036636612,HoldemNoLimit,1,POLLY DR,"2009-07-0618:07:35(ET)
+",2,36.0,4,"['Kc', '5s', 'Ac', 'Jc']",False,True
+366,367,3036608066,HoldemNoLimit,1,GRAM DR,"2009-07-0618:07:38(ET)
+",9,19.5,8,"['10s', '9s', '4d', '6c']",False,False
+367,368,3036608390,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:07:42(ET)
+",5,1.5,3,,False,False
+368,369,3036608592,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:07:50(ET)
+",5,2.5,5,,False,False
+369,370,3036632688,HoldemNoLimit,1,SENECA DR,"2009-07-0618:07:50(ET)
+",6,2.5,4,,False,False
+370,371,3036628842,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:07:51(ET)
+",5,18.0,1,"['Kc', '5s', 'Ac', '6d']",False,False
+371,372,3036608680,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:07:51(ET)
+",9,12.0,4,"['5h', '10s', '7c']",False,False
+372,373,3036637844,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:07:52(ET)
+",2,2.0,4,"['As', '7c', 'Qh', '5d', '2h']",False,True
+373,374,3036609142,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:07:53(ET)
+",4,2.0,5,"['Ac', '7s', '4h', '2d', '9c']",False,False
+374,375,3036638090,HoldemNoLimit,1,POLLY DR,"2009-07-0618:07:55(ET)
+",2,6.0,6,"['Kd', 'Jd', '9h']",False,True
+375,376,3036629324,HoldemNoLimit,1,PEARL DR,"2009-07-0618:07:58(ET)
+",8,1.5,9,,False,False
+376,377,3036609196,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:07:59(ET)
+",6,18.5,3,"['5c', 'Ac', '3d', 'Ks']",False,False
+377,378,3036609938,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:08:05(ET)
+",7,4.0,8,"['Jd', 'Qd', 'Qh']",False,False
+378,379,3036633496,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:08:06(ET)
+",5,2.5,5,,False,False
+379,380,3036639046,HoldemNoLimit,1,POLLY DR,"2009-07-0618:08:09(ET)
+",2,4.0,4,,False,True
+380,381,3036639246,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:08:11(ET)
+",2,2.0,6,,False,True
+381,382,3036609720,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:08:12(ET)
+",5,2.5,6,,False,False
+382,383,3036634194,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:08:16(ET)
+",6,2.5,6,,False,False
+383,384,3036610052,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:08:16(ET)
+",4,16.5,2,"['9c', '3d', '5c', '2s', '8h']",False,False
+384,385,3036639630,HoldemNoLimit,1,POLLY DR,"2009-07-0618:08:17(ET)
+",2,2.0,6,,False,True
+385,386,3036639704,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:08:18(ET)
+",2,2.0,4,"['10d', 'Qs', '2c']",False,True
+386,387,3036640112,HoldemNoLimit,1,POLLY DR,"2009-07-0618:08:23(ET)
+",2,2.0,4,,False,True
+387,388,3036631202,HoldemNoLimit,1,PEARL DR,"2009-07-0618:08:24(ET)
+",8,27.0,1,"['9s', '3s', '2s', '6c', 'Ad']",False,False
+388,389,3036640432,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:08:27(ET)
+",2,12.0,6,"['7d', '10h', '5h']",False,True
+389,390,3036640496,HoldemNoLimit,1,POLLY DR,"2009-07-0618:08:28(ET)
+",2,2.0,6,,False,True
+390,391,3036631542,HoldemNoLimit,1,MARION AVE,"2009-07-0618:08:29(ET)
+",8,41.0,9,"['6s', '2h', '9s', 'Qd']",False,False
+391,392,3036631572,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:08:29(ET)
+",5,10.0,2,"['Ad', '10s', 'Js', 'Qs', '2d']",False,False
+392,393,3036635206,HoldemNoLimit,1,SENECA DR,"2009-07-0618:08:36(ET)
+",6,30.5,5,,False,False
+393,394,3036611260,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:08:36(ET)
+",9,9.5,5,"['7h', 'Ks', 'As', 'Kd', 'Qc']",False,False
+394,395,3036641140,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:08:37(ET)
+",2,2.0,4,"['5h', '6s', '8c']",False,True
+395,396,3036612188,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:08:40(ET)
+",9,30.0,9,"['2h', '7h', 'Jc', '8s']",False,False
+396,397,3036635390,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:08:40(ET)
+",6,6.5,1,"['4s', 'Ks', '8c', '2c', '3h']",False,False
+397,398,3036641730,HoldemNoLimit,1,CHELSEA WAY,"2009-07-0618:08:45(ET)
+",2,2.0,6,,False,True
+398,399,3036633034,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:08:49(ET)
+",6,2.5,3,,False,False
+399,400,3036611884,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:08:49(ET)
+",6,2.5,4,,False,False
+400,401,3036635960,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:08:49(ET)
+",6,10.5,3,"['7d', '9d', '6d']",False,False
+401,402,3036613044,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:08:53(ET)
+",5,21.0,6,"['9h', '5d', '4h', '7d']",False,False
+402,403,3036613046,HoldemNoLimit,1,GRAM DR,"2009-07-0618:08:53(ET)
+",9,17.0,9,"['Jd', '8d', 'Kh', '7h']",False,False
+403,404,3036612474,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:08:59(ET)
+",4,2.0,4,"['Kh', '4s', '3s', 'Ad', '9h']",False,False
+404,405,3036612628,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:09:03(ET)
+",6,2.5,5,,False,False
+405,406,3036634354,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:09:08(ET)
+",6,80.0,4,"['7d', '10h', '4c', 'Js', 'Ah']",False,False
+406,407,3036614134,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:09:08(ET)
+",9,24.0,1,"['2c', 'Jd', '9h', 'Qd', '5d']",False,False
+407,408,3036613430,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:09:18(ET)
+",6,25.5,6,"['2d', '6c', '8s']",False,False
+408,409,3036613880,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:09:26(ET)
+",4,2.0,6,,False,False
+409,410,3036636166,HoldemNoLimit,1,MARION AVE,"2009-07-0618:09:33(ET)
+",8,2.5,1,"['Kc', '6d', '3h', '7h', '9h']",False,False
+410,411,3036636474,HoldemNoLimit,1,PEARL DR,"2009-07-0618:09:38(ET)
+",8,1.5,2,,False,False
+411,412,3036638948,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:09:40(ET)
+",6,7.5,4,"['2s', '3d', '8d', '2d', 'Js']",False,False
+412,413,3036639082,HoldemNoLimit,1,SENECA DR,"2009-07-0618:09:42(ET)
+",6,2.0,6,"['8h', '7c', 'As', '9c']",False,False
+413,414,3036614798,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:09:42(ET)
+",5,2.0,1,,False,False
+414,415,3036616448,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:09:45(ET)
+",6,3.5,2,,False,False
+415,416,3036639424,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:09:47(ET)
+",6,7.5,2,"['7c', '9s', '6d']",False,False
+416,417,3036615384,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:09:53(ET)
+",9,2.0,6,"['Kd', 'Ah', '8s']",False,False
+417,418,3036615632,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:09:57(ET)
+",6,2.5,1,,False,False
+418,419,3036617396,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:09:59(ET)
+",9,4.0,2,"['6s', 'Ah', '8h', 'Jc', 'Jh']",False,False
+419,420,3036617906,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:10:06(ET)
+",6,7.5,3,"['4s', '5d', 'Ks', '5c', '6h']",False,False
+420,421,3036616108,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:10:06(ET)
+",5,17.0,2,"['9c', '3h', 'Jc', '6c']",False,False
+421,422,3036637892,HoldemNoLimit,1,PEARL DR,"2009-07-0618:10:07(ET)
+",8,24.0,3,"['10h', '7d', '4h', '6d', '9s']",False,False
+422,423,3036618342,HoldemNoLimit,1,GRAM DR,"2009-07-0618:10:13(ET)
+",9,5.0,1,"['10s', '5s', 'Jh']",False,False
+423,424,3036638208,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:10:14(ET)
+",6,7.5,5,"['7d', '6h', '9s', '2s']",False,False
+424,425,3036641538,HoldemNoLimit,1,SENECA DR,"2009-07-0618:10:22(ET)
+",6,2.5,1,,False,False
+425,426,3036638764,HoldemNoLimit,1,MARION AVE,"2009-07-0618:10:24(ET)
+",8,7.5,2,"['5s', '6c', 'Ad']",False,False
+426,427,3036641616,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:10:25(ET)
+",6,48.0,3,"['10h', '6s', '3h', 'Ad', '10']",False,False
+427,428,3036617316,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:10:28(ET)
+",9,2.5,7,,False,False
+428,429,3036642632,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:10:43(ET)
+",6,2.5,5,"['10d', '10h', '2h']",False,False
+429,430,3036618326,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:10:43(ET)
+",5,1.5,3,,False,False
+430,431,3036640438,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:10:50(ET)
+",6,7.3,6,"['9c', 'Qs', '3s', 'Qd', '5s']",False,False
+431,432,3036643082,HoldemNoLimit,1,SENECA DR,"2009-07-0618:10:51(ET)
+",6,7.5,2,,False,False
+432,433,3036640574,HoldemNoLimit,1,PEARL DR,"2009-07-0618:10:52(ET)
+",8,5.5,4,"['Jd', 'As', '7h', '9h', '2d']",False,False
+433,434,3036621342,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:10:53(ET)
+",6,6.5,4,"['9h', 'Kd', '7h', '2d', '2s']",False,False
+434,435,3036621338,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:10:53(ET)
+",9,46.5,3,"['7h', '10s', '6s', '3s', '2c']",False,False
+435,436,3036641242,HoldemNoLimit,1,MARION AVE,"2009-07-0618:11:00(ET)
+",8,8.5,3,,False,False
+436,437,3036619376,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:11:04(ET)
+",9,13.5,8,"['10s', '2c', 'Ah']",False,False
+437,438,3036643818,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:11:05(ET)
+",6,211.5,4,"['5d', '10c', 'Kc', 'Js', 'Kh']",False,False
+438,439,3036619514,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:11:07(ET)
+",5,1.5,4,,False,False
+439,440,3036644230,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:11:11(ET)
+",6,2.5,6,,False,False
+440,441,3036644360,HoldemNoLimit,1,SENECA DR,"2009-07-0618:11:13(ET)
+",6,1.5,3,,False,False
+441,442,3036620090,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:11:16(ET)
+",5,2.5,5,,False,False
+442,443,3036623158,HoldemNoLimit,1,GRAM DR,"2009-07-0618:11:19(ET)
+",9,2.5,2,,False,False
+443,444,3036642708,HoldemNoLimit,1,MARION AVE,"2009-07-0618:11:26(ET)
+",8,2.5,4,,False,False
+444,445,3036642584,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:11:27(ET)
+",6,1.5,1,,False,False
+445,446,3036621000,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:11:32(ET)
+",6,2.5,6,,False,False
+446,447,3036645178,HoldemNoLimit,1,SENECA DR,"2009-07-0618:11:33(ET)
+",6,2.5,4,"['3d', '7c', 'Jc']",False,False
+447,448,3036624166,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:11:34(ET)
+",6,1.5,5,,False,False
+448,449,3036624212,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:11:38(ET)
+",8,10.5,4,"['3d', 'Ac', '7h']",False,False
+449,450,3036624480,HoldemNoLimit,1,GRAM DR,"2009-07-0618:11:39(ET)
+",8,2.5,3,"['8d', '6d', '6s']",False,False
+450,451,3036643522,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:11:41(ET)
+",6,1.5,2,,False,False
+451,452,3036624800,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:11:43(ET)
+",6,25.5,6,"['3c', '8s', 'Qc']",False,False
+452,453,3036643688,HoldemNoLimit,1,MARION AVE,"2009-07-0618:11:43(ET)
+",9,10.5,5,"['3s', '10s', '5c', '8c', '6h']",False,False
+453,454,3036644532,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:11:53(ET)
+",6,4.0,3,"['8c', 'Ad', '10d', '8d', '9c']",False,False
+454,455,3036646696,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:12:00(ET)
+",5,2.5,1,,False,False
+455,456,3036623084,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:12:06(ET)
+",9,2.5,9,,False,False
+456,457,3036623548,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:12:14(ET)
+",6,7.0,1,,False,False
+457,458,3036646062,HoldemNoLimit,1,PEARL DR,"2009-07-0618:12:17(ET)
+",8,3.0,6,"['5d', 'Jh', 'Qd']",False,False
+458,459,3036627536,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:12:19(ET)
+",6,54.0,1,"['9s', '2s', 'Kd', '4s', '5h']",False,False
+459,460,3036627652,HoldemNoLimit,1,GRAM DR,"2009-07-0618:12:20(ET)
+",7,2.0,4,"['8d', '7h', 'Qh']",False,False
+460,461,3036627846,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:12:23(ET)
+",7,3.0,5,"['5d', '2c', '4c', '2s', '8h']",False,False
+461,462,3036646626,HoldemNoLimit,1,MARION AVE,"2009-07-0618:12:23(ET)
+",9,23.0,6,"['Jh', '9s', '3d', 'Ah', '9d']",False,False
+462,463,3036647934,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:12:26(ET)
+",5,6.0,2,"['6h', 'Jh', '4s']",False,False
+463,464,3036624384,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:12:30(ET)
+",8,2.0,1,,False,False
+464,465,3036648322,HoldemNoLimit,1,SENECA DR,"2009-07-0618:12:32(ET)
+",6,7.5,5,"['Ad', 'Qc', '3h']",False,False
+465,466,3036647276,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:12:33(ET)
+",6,9.0,4,"['10c', 'Kd', '3s']",False,False
+466,467,3036624712,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:12:37(ET)
+",6,28.5,2,"['5d', '5h', '10h', 'Qh', 'Jh']",False,False
+467,468,3036649100,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:12:47(ET)
+",5,9.0,3,"['6h', '10h', '8s']",False,False
+468,469,3036649348,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:12:53(ET)
+",6,2.5,5,,False,False
+469,470,3036649512,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:13:04(ET)
+",6,2.5,5,,False,False
+470,471,3036650426,HoldemNoLimit,1,PEARL DR,"2009-07-0618:13:17(ET)
+",7,2.5,7,"['2s', '4h', 'Js']",False,False
+471,472,3036650730,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:13:22(ET)
+",6,19.0,6,"['9c', '5s', '5h', '8s', '3d']",False,False
+472,473,3036627228,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:13:22(ET)
+",6,8.0,3,"['7h', 'Ks', 'Kh']",False,False
+473,474,3036651016,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:13:22(ET)
+",6,7.5,6,"['3s', '10d', '3c']",False,False
+474,475,3036650818,HoldemNoLimit,1,MARION AVE,"2009-07-0618:13:23(ET)
+",9,3.0,7,"['3s', '10h', 'Ad']",False,False
+475,476,3036651174,HoldemNoLimit,1,SENECA DR,"2009-07-0618:13:24(ET)
+",6,7.0,6,"['8c', '4d', 'Qd']",False,False
+476,477,3036628404,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:13:40(ET)
+",8,1.5,2,,False,False
+477,478,3036652372,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:13:44(ET)
+",6,22.0,4,"['5s', '3c', '7c', '2h']",False,False
+478,479,3036628646,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:13:45(ET)
+",6,2.5,4,,False,False
+479,480,3036653252,HoldemNoLimit,1,PEARL DR,"2009-07-0618:13:55(ET)
+",8,12.0,8,"['10s', 'Qd', '6d']",False,False
+480,481,3036653396,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:13:57(ET)
+",6,23.85,1,"['6d', '5d', '4h', '6h', '2s']",False,False
+481,482,3036653438,HoldemNoLimit,1,MARION AVE,"2009-07-0618:13:58(ET)
+",9,31.5,8,"['10d', 'Kc', 'Qc', 'Qs']",False,False
+482,483,3036629580,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:14:01(ET)
+",6,29.0,5,"['2c', '3h', '5s', 'Ad', '8c']",False,False
+483,484,3036630080,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:14:03(ET)
+",6,2.5,2,,False,False
+484,485,3036629856,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:14:06(ET)
+",8,2.5,3,,False,False
+485,486,3036630674,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:14:10(ET)
+",8,31.5,7,"['3d', 'Qc', '9c', '8s', '10']",False,False
+486,487,3036630852,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:14:13(ET)
+",6,1.5,3,,False,False
+487,488,3036631344,HoldemNoLimit,1,GRAM DR,"2009-07-0618:14:21(ET)
+",8,3.5,6,"['Js', 'Qc', '8h']",False,False
+488,489,3036654588,HoldemNoLimit,1,SENECA DR,"2009-07-0618:14:26(ET)
+",6,165.4,1,"['9d', 'As', '10h', '2d', '3s']",False,False
+489,490,3036654660,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:14:27(ET)
+",6,9.0,1,"['Js', '7d', '2s']",False,False
+490,491,3036655630,HoldemNoLimit,1,PEARL DR,"2009-07-0618:14:30(ET)
+",7,10.5,9,"['5c', '10c', 'Qd']",False,False
+491,492,3036632122,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:14:31(ET)
+",6,1.5,4,,False,False
+492,493,3036655830,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:14:36(ET)
+",5,0.0,2,,False,False
+493,494,3036631616,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:14:36(ET)
+",8,2.5,4,,False,False
+494,495,3036632698,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:14:41(ET)
+",6,7.5,5,"['6d', '8h', '8s']",False,False
+495,496,3036632028,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:14:44(ET)
+",6,21.5,6,,False,False
+496,497,3036656588,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:14:45(ET)
+",5,2.0,3,,False,False
+497,498,3036657430,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:14:56(ET)
+",5,34.0,4,"['3d', '10d', '10h', '6h', '7s']",False,False
+498,499,3036657470,HoldemNoLimit,1,MARION AVE,"2009-07-0618:14:56(ET)
+",9,30.0,9,"['Qs', 'Kc', '10c', '9s']",False,False
+499,500,3036656366,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:15:00(ET)
+",6,74.5,5,"['Kc', '4s', '9c', '8s']",False,False
+500,501,3036657838,HoldemNoLimit,1,PEARL DR,"2009-07-0618:15:01(ET)
+",7,4.0,1,"['9c', '7d', '7c', '6h', 'Kd']",False,False
+501,502,3036656942,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:15:08(ET)
+",6,1.5,2,,False,False
+502,503,3036635040,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:15:13(ET)
+",8,18.0,8,"['Ah', '5c', 'Jc', '7h', '10']",False,False
+503,504,3036633628,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:15:15(ET)
+",7,72.9,5,"['Jh', '9s', 'Jc', '8s', '3c']",False,False
+504,505,3036633742,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:15:18(ET)
+",6,88.5,1,"['4h', '5h', 'Kh', '7s', '4d']",False,False
+505,506,3036635446,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:15:20(ET)
+",6,2.5,6,,False,False
+506,507,3036635840,HoldemNoLimit,1,GRAM DR,"2009-07-0618:15:25(ET)
+",8,4.0,7,"['7d', 'Jd', '8d']",False,False
+507,508,3036657684,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:15:26(ET)
+",6,2.5,3,,False,False
+508,509,3036660264,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:15:36(ET)
+",6,22.0,5,"['3c', 'Ad', '8d']",False,False
+509,510,3036636652,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:15:37(ET)
+",6,11.0,1,"['2d', 'Ac', 'Jd']",False,False
+510,511,3036658810,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:15:42(ET)
+",6,1.5,4,,False,False
+511,512,3036661278,HoldemNoLimit,1,MARION AVE,"2009-07-0618:15:47(ET)
+",9,3.5,1,"['Qc', 'Kd', 'Ac', 'Jd', '7d']",False,False
+512,513,3036637208,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:15:58(ET)
+",6,6.0,2,"['As', '6c', '7d']",False,False
+513,514,3036659974,HoldemNoLimit,1,SENECA DR,"2009-07-0618:16:01(ET)
+",6,2.5,2,,False,False
+514,515,3036662414,HoldemNoLimit,1,PEARL DR,"2009-07-0618:16:04(ET)
+",8,9.0,2,"['10h', '4h', '8h', '6s', '9c']",False,False
+515,516,3036660100,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:16:05(ET)
+",6,12.0,5,"['Kd', '8d', 'Ac', '8c']",False,False
+516,517,3036662560,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:16:07(ET)
+",6,2.5,6,"['Js', '10c', '6d', 'Ad']",False,False
+517,518,3036638818,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:16:07(ET)
+",6,6.5,2,"['8d', '4s', '2c', '2h', '6h']",False,False
+518,519,3036639408,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:16:15(ET)
+",8,2.0,9,"['6c', '6d', '2c']",False,False
+519,520,3036637364,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:16:21(ET)
+",6,2.5,2,"['4s', 'Kd', '7d']",False,False
+520,521,3036640218,HoldemNoLimit,1,GRAM DR,"2009-07-0618:16:26(ET)
+",8,2.0,8,"['5c', '9c', 'Qh']",False,False
+521,522,3036640428,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:16:29(ET)
+",8,12.0,1,"['6c', 'Qs', 'Qd']",False,False
+522,523,3036664058,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:16:29(ET)
+",6,14.0,1,"['Ad', '6s', '3d', '5h', '7c']",False,False
+523,524,3036664032,HoldemNoLimit,1,MARION AVE,"2009-07-0618:16:29(ET)
+",9,3.0,2,"['5s', '9s', '4d', '6c', '6s']",False,False
+524,525,3036637896,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:16:32(ET)
+",7,2.0,7,"['4c', '9d', '10s', 'Kc', '3d']",False,False
+525,526,3036640048,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:16:40(ET)
+",6,2.5,3,,False,False
+526,527,3036661968,HoldemNoLimit,1,SENECA DR,"2009-07-0618:16:43(ET)
+",6,1.5,3,,False,False
+527,528,3036662230,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:16:45(ET)
+",6,8.0,6,,False,False
+528,529,3036638858,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:16:46(ET)
+",6,2.5,3,,False,False
+529,530,3036642234,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:16:53(ET)
+",8,127.0,2,"['As', '6c', '7c', '4s', 'Jd']",False,False
+530,531,3036642346,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:16:54(ET)
+",6,2.5,3,,False,False
+531,532,3036662984,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:16:59(ET)
+",5,2.0,6,"['9c', '9s', '6c', 'Jc', '10']",False,False
+532,533,3036663350,HoldemNoLimit,1,SENECA DR,"2009-07-0618:17:05(ET)
+",6,4.0,4,"['2s', 'Qs', '3h']",False,False
+533,534,3036666388,HoldemNoLimit,1,MARION AVE,"2009-07-0618:17:05(ET)
+",9,2.0,3,"['9d', 'Kc', 'Qc', '4d']",False,False
+534,535,3036639888,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:17:07(ET)
+",6,11.5,4,"['4h', 'Jd', '6s', '7s']",False,False
+535,536,3036666564,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:17:08(ET)
+",5,27.0,2,"['6h', 'Js', '5d', '9h', 'Ah']",False,False
+536,537,3036643208,HoldemNoLimit,1,GRAM DR,"2009-07-0618:17:09(ET)
+",8,4.5,9,"['9s', '4h', 'Qc']",False,False
+537,538,3036666928,HoldemNoLimit,1,PEARL DR,"2009-07-0618:17:12(ET)
+",8,2.5,3,"['8h', 'Kh', '2h', '2c']",False,False
+538,539,3036664052,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:17:17(ET)
+",6,3.5,1,,False,False
+539,540,3036643870,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:17:18(ET)
+",6,14.5,4,"['Kc', '3c', 'Jc', '7h']",False,False
+540,541,3036640630,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:17:18(ET)
+",7,8.5,9,"['Jh', '5h', '7h', '8d', '10']",False,False
+541,542,3036642666,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:17:29(ET)
+",5,2.5,4,,False,False
+542,543,3036668304,HoldemNoLimit,1,MARION AVE,"2009-07-0618:17:33(ET)
+",9,8.5,4,"['8h', '2h', 'Js', '2s', '8d']",False,False
+543,544,3036642182,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:17:42(ET)
+",6,2.0,5,"['6c', 'Jd', '10s', '7d', '5s']",False,False
+544,545,3036642090,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:17:48(ET)
+",6,1.5,4,,False,False
+545,546,3036665468,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:17:48(ET)
+",6,7.5,2,"['Qc', '7h', '5s', '6s', '4d']",False,False
+546,547,3036643682,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:17:49(ET)
+",5,15.5,5,"['5s', '3d', '4c', '4d', '2c']",False,False
+547,548,3036669734,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:17:56(ET)
+",5,2.5,3,"['5h', '5d', '4d', 'Kc']",False,False
+548,549,3036643306,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:18:10(ET)
+",6,3.0,5,"['10s', '7c', '7h']",False,False
+549,550,3036666672,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:18:12(ET)
+",5,9.0,1,"['Kd', 'Kh', '7c']",False,False
+550,551,3036671066,HoldemNoLimit,1,MARION AVE,"2009-07-0618:18:13(ET)
+",9,12.0,5,,False,False
+551,552,3036667230,HoldemNoLimit,1,SENECA DR,"2009-07-0618:18:21(ET)
+",6,4.5,5,"['9s', 'Js', 'Jc', '6d', '7s']",False,False
+552,553,3036671776,HoldemNoLimit,1,PEARL DR,"2009-07-0618:18:24(ET)
+",7,2.5,4,,False,False
+553,554,3036644214,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:18:25(ET)
+",6,2.5,6,,False,False
+554,555,3036671858,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:18:26(ET)
+",5,24.5,5,"['Js', 'Ad', '8d']",False,False
+555,556,3036644568,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:18:29(ET)
+",9,7.5,1,"['8h', '2s', '5h', '4c', '2c']",False,False
+556,557,3036668382,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:18:38(ET)
+",6,57.26,2,"['3s', '5c', '7c', '4d', '6c']",False,False
+557,558,3036645032,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:18:42(ET)
+",7,4.0,3,"['Jc', 'Qs', 'Qd', 'Js']",False,False
+558,559,3036668944,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:18:49(ET)
+",6,25.5,3,"['8h', 'Ah', '4s', '9h', '6c']",False,False
+559,560,3036673764,HoldemNoLimit,1,PEARL DR,"2009-07-0618:18:55(ET)
+",9,17.5,7,"['Qh', '4h', '2h']",False,False
+560,561,3036646184,HoldemNoLimit,1,GRAM DR,"2009-07-0618:18:56(ET)
+",9,3.5,2,"['Qh', '4c', '2d']",False,False
+561,562,3036645960,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:18:56(ET)
+",6,2.5,1,,False,False
+562,563,3036648022,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:19:00(ET)
+",6,12.5,1,"['5c', '9d', '2h', '4c', '4s']",False,False
+563,564,3036674380,HoldemNoLimit,1,MARION AVE,"2009-07-0618:19:05(ET)
+",9,4.5,6,"['3c', '5s', '10c', '9s']",False,False
+564,565,3036646638,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:19:07(ET)
+",6,4.0,6,"['4c', 'Kh', '7h']",False,False
+565,566,3036674672,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:19:09(ET)
+",5,2.5,6,"['10c', 'Ah', '5h', '3c', 'Qd']",False,False
+566,567,3036647710,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:19:19(ET)
+",6,1.5,5,,False,False
+567,568,3036647640,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:19:20(ET)
+",5,2.0,2,,False,False
+568,569,3036647994,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:19:23(ET)
+",7,2.0,4,,False,False
+569,570,3036648618,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:19:31(ET)
+",6,9.0,6,"['Jh', '9s', '8h', 'Qd']",False,False
+570,571,3036676320,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:19:36(ET)
+",5,48.0,1,"['3c', 'Jc', '5c', '6s', '8d']",False,False
+571,572,3036648660,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:19:40(ET)
+",5,6.0,3,"['9h', 'Kh', '8h']",False,False
+572,573,3036649346,HoldemNoLimit,1,GRAM DR,"2009-07-0618:19:40(ET)
+",9,11.0,3,"['7d', '6c', '5c', '10d', 'Qc']",False,False
+573,574,3036676824,HoldemNoLimit,1,MARION AVE,"2009-07-0618:19:45(ET)
+",9,159.0,7,"['8s', '6h', '7s', 'Qd', '7h']",False,False
+574,575,3036648766,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:19:48(ET)
+",6,7.5,1,"['8c', '10c', '5s']",False,False
+575,576,3036649880,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:19:48(ET)
+",8,39.5,6,"['Kc', '7h', '9c', '5d', '2h']",False,False
+576,577,3036677244,HoldemNoLimit,1,PEARL DR,"2009-07-0618:19:51(ET)
+",9,11.0,8,"['3c', '5c', '3h', '6d', '4d']",False,False
+577,578,3036650954,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:19:54(ET)
+",6,6.5,2,"['Kd', '8c', '10']",False,False
+578,579,3036672292,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:19:55(ET)
+",5,8.0,3,"['Jh', 'Ad', 'Qh', '10']",False,False
+579,580,3036672878,HoldemNoLimit,1,SENECA DR,"2009-07-0618:20:01(ET)
+",6,6.5,6,"['9d', '4d', 'Qs', 'Ks', '10']",False,False
+580,581,3036650104,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:20:04(ET)
+",5,2.5,4,,False,False
+581,582,3036651398,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:20:10(ET)
+",6,21.0,1,"['Qs', '7c', '6d']",False,False
+582,583,3036650706,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:20:17(ET)
+",5,2.5,4,,False,False
+583,584,3036650702,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:20:22(ET)
+",6,2.0,2,,False,False
+584,585,3036651038,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:20:23(ET)
+",5,2.5,5,,False,False
+585,586,3036679378,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:20:24(ET)
+",5,2.5,2,,False,False
+586,587,3036651384,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:20:27(ET)
+",5,6.0,5,"['5c', '10h', '6d']",False,False
+587,588,3036652762,HoldemNoLimit,1,GRAM DR,"2009-07-0618:20:28(ET)
+",8,2.5,4,,False,False
+588,589,3036651882,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:20:35(ET)
+",6,3.0,1,"['6h', '3h', 'Jd', 'Kh']",False,False
+589,590,3036651548,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:20:35(ET)
+",6,1.5,3,,False,False
+590,591,3036674722,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:20:36(ET)
+",6,27.5,4,"['5c', '4h', 'Jh', '10c', '9h']",False,False
+591,592,3036652450,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:20:46(ET)
+",6,55.3,6,"['Qc', '3d', '7c', '7s', '9c']",False,False
+592,593,3036680710,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:20:46(ET)
+",5,2.5,3,"['6s', '6h', '10h', '9c', 'Ad']",False,False
+593,594,3036654180,HoldemNoLimit,1,GRAM DR,"2009-07-0618:20:47(ET)
+",8,3.5,5,"['Js', '5c', '10']",False,False
+594,595,3036675486,HoldemNoLimit,1,SENECA DR,"2009-07-0618:20:52(ET)
+",6,1.5,1,,False,False
+595,596,3036681156,HoldemNoLimit,1,PEARL DR,"2009-07-0618:20:52(ET)
+",9,3.5,9,"['Ks', 'Kd', '8s', 'Js', '8d']",False,False
+596,597,3036654598,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:20:53(ET)
+",6,22.5,2,"['5s', 'Js', '7h']",False,False
+597,598,3036655026,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:20:56(ET)
+",6,8.5,4,,False,False
+598,599,3036653066,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:21:02(ET)
+",6,13.0,4,"['Ks', '5d', '3c', 'Qs']",False,False
+599,600,3036682034,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:21:07(ET)
+",5,2.5,5,,False,False
+600,601,3036655576,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:21:07(ET)
+",8,2.5,7,,False,False
+601,602,3036676510,HoldemNoLimit,1,SENECA DR,"2009-07-0618:21:13(ET)
+",6,2.5,2,,False,False
+602,603,3036656572,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:21:21(ET)
+",9,3.0,8,"['Qh', '8h', '9h']",False,False
+603,604,3036683132,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:21:24(ET)
+",5,32.0,6,"['7h', 'As', '6c', '5h', '4d']",False,False
+604,605,3036656924,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:21:27(ET)
+",6,77.0,5,"['4c', '5c', 'Ah', '10d', '7c']",False,False
+605,606,3036657118,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:21:29(ET)
+",6,2.0,3,"['2h', '7d', '6h']",False,False
+606,607,3036677534,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:21:29(ET)
+",4,1.5,4,,False,False
+607,608,3036657536,HoldemNoLimit,1,GRAM DR,"2009-07-0618:21:34(ET)
+",8,2.0,6,"['3c', 'Ks', '10h', '2s', '7s']",False,False
+608,609,3036683730,HoldemNoLimit,1,PEARL DR,"2009-07-0618:21:34(ET)
+",9,1.5,1,,False,False
+609,610,3036654856,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:21:35(ET)
+",5,2.0,1,,False,False
+610,611,3036677684,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:21:37(ET)
+",6,1.5,5,,False,False
+611,612,3036677622,HoldemNoLimit,1,SENECA DR,"2009-07-0618:21:37(ET)
+",6,3.0,3,"['4s', '3h', '9s']",False,False
+612,613,3036683914,HoldemNoLimit,1,MARION AVE,"2009-07-0618:21:40(ET)
+",8,2.5,8,,False,False
+613,614,3036678148,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:21:44(ET)
+",6,3.0,5,"['7c', '8h', '4s']",False,False
+614,615,3036655814,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:21:50(ET)
+",5,2.0,2,,False,False
+615,616,3036655872,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:21:51(ET)
+",5,2.5,2,,False,False
+616,617,3036655994,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:21:53(ET)
+",6,48.0,5,"['9d', 'Ac', '8d', '2h', '7c']",False,False
+617,618,3036658908,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:21:54(ET)
+",6,2.5,4,"['5h', '7h', '8s', '4h']",False,False
+618,619,3036659016,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:21:55(ET)
+",8,6.0,9,"['8s', '8c', '6s']",False,False
+619,620,3036685100,HoldemNoLimit,1,PEARL DR,"2009-07-0618:21:56(ET)
+",9,22.5,2,"['6c', '4h', 'Ah', 'Qs']",False,False
+620,621,3036685200,HoldemNoLimit,1,MARION AVE,"2009-07-0618:21:58(ET)
+",8,9.2,9,"['9c', '3c', '5h', 'Kc', 'Kh']",False,False
+621,622,3036678808,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:21:59(ET)
+",6,18.5,6,"['10h', '6d', '2d', '5d', 'Jc']",False,False
+622,623,3036656742,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:22:07(ET)
+",5,2.0,3,,False,False
+623,624,3036686210,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:22:14(ET)
+",5,1.5,1,,False,False
+624,625,3036657354,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:22:17(ET)
+",5,3.5,3,,False,False
+625,626,3036659680,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:22:20(ET)
+",5,2.5,6,"['10d', '10h', '3s', '7h']",False,False
+626,627,3036657730,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:22:21(ET)
+",5,8.0,5,"['3c', '4c', '7d']",False,False
+627,628,3036660738,HoldemNoLimit,1,GRAM DR,"2009-07-0618:22:22(ET)
+",8,2.5,8,,False,False
+628,629,3036660872,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:22:23(ET)
+",9,31.5,1,"['10c', '9s', '6h', 'Jc']",False,False
+629,630,3036687134,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:22:29(ET)
+",6,2.0,2,"['9h', '4h', 'As']",False,False
+630,631,3036681088,HoldemNoLimit,1,SENECA DR,"2009-07-0618:22:45(ET)
+",6,13.5,4,"['8s', '5c', '8d']",False,False
+631,632,3036658894,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:22:47(ET)
+",6,2.5,4,,False,False
+632,633,3036681270,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:22:49(ET)
+",6,18.5,1,"['6s', '2d', 'Ad', 'Qs']",False,False
+633,634,3036662152,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:22:52(ET)
+",6,32.5,1,"['8h', '9s', '9h', 'Jc', '7h']",False,False
+634,635,3036659308,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:22:53(ET)
+",6,17.5,6,"['7s', '7h', '6h', '4c', 'Ah']",False,False
+635,636,3036688704,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:22:54(ET)
+",6,2.5,3,,False,False
+636,637,3036681750,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:22:58(ET)
+",6,184.0,6,"['2s', '6s', '8h', '4h', 'Jd']",False,False
+637,638,3036689546,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:23:07(ET)
+",6,2.0,4,"['3c', '6h', 'Ks', '3h']",False,False
+638,639,3036660442,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:23:14(ET)
+",6,1.5,5,,False,False
+639,640,3036660724,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:23:16(ET)
+",6,2.5,6,,False,False
+640,641,3036690384,HoldemNoLimit,1,PEARL DR,"2009-07-0618:23:21(ET)
+",9,3.5,3,"['Kd', '8d', '3c', '6h', 'Js']",False,False
+641,642,3036690426,HoldemNoLimit,1,MARION AVE,"2009-07-0618:23:22(ET)
+",8,3.5,1,"['Ac', '4d', '2c', '6h']",False,False
+642,643,3036661500,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:23:31(ET)
+",6,2.5,6,,False,False
+643,644,3036661634,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:23:33(ET)
+",6,2.5,1,,False,False
+644,645,3036683798,HoldemNoLimit,1,SENECA DR,"2009-07-0618:23:35(ET)
+",6,2.5,5,,False,False
+645,646,3036661706,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:23:37(ET)
+",6,125.0,1,"['3s', '4s', 'As', '3c', '8h']",False,False
+646,647,3036691504,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:23:40(ET)
+",6,9.5,5,"['8d', '8h', '3c', 'Jh', 'Ks']",False,False
+647,648,3036684048,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:23:43(ET)
+",6,17.0,2,"['8c', '10d', 'Jc', 'Ac', 'Kc']",False,False
+648,649,3036662032,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:23:43(ET)
+",6,8.0,5,,False,False
+649,650,3036662662,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:23:51(ET)
+",6,9.0,2,,False,False
+650,651,3036662606,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:23:52(ET)
+",6,3.0,1,"['10h', 'Qc', '4s', '6s', '2d']",False,False
+651,652,3036662822,HoldemNoLimit,1,GRAM DR,"2009-07-0618:23:53(ET)
+",8,9.0,9,"['7s', 'Js', '10']",False,False
+652,653,3036663922,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:24:07(ET)
+",6,2.0,6,,False,False
+653,654,3036663978,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:24:08(ET)
+",8,9.0,2,"['Jc', 'Ah', '2d', '5h']",False,False
+654,655,3036685212,HoldemNoLimit,1,SENECA DR,"2009-07-0618:24:09(ET)
+",6,18.0,6,"['Qd', '4h', '9d', '2h']",False,False
+655,656,3036693878,HoldemNoLimit,1,MARION AVE,"2009-07-0618:24:18(ET)
+",8,32.0,3,"['Kd', '2s', 'Ad', '8d', 'Kc']",False,False
+656,657,3036694086,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:24:22(ET)
+",6,10.5,6,"['Jh', '5h', '3h', '7h']",False,False
+657,658,3036665018,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:24:24(ET)
+",5,5.0,1,"['Jc', '9h', 'Jd', 'Jh', '5d']",False,False
+658,659,3036694386,HoldemNoLimit,1,PEARL DR,"2009-07-0618:24:25(ET)
+",9,8.5,4,"['9h', '3h', '5d', '2d', '9d']",False,False
+659,660,3036686696,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:24:37(ET)
+",6,2.0,3,,False,False
+660,661,3036666178,HoldemNoLimit,1,GRAM DR,"2009-07-0618:24:40(ET)
+",8,3.5,1,"['Ac', '9c', '5c']",False,False
+661,662,3036665372,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:24:44(ET)
+",6,1.5,3,,False,False
+662,663,3036665962,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:24:50(ET)
+",6,2.5,2,"['Qc', '5d', 'Jc']",False,False
+663,664,3036695948,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:24:51(ET)
+",6,7.5,1,"['Ac', '9d', '9h', 'Ks', '5s']",False,False
+664,665,3036667176,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:24:52(ET)
+",5,1.5,2,,False,False
+665,666,3036687960,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:24:59(ET)
+",5,2.5,1,"['10d', '9d', '6h', '5c']",False,False
+666,667,3036688062,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:25:00(ET)
+",6,18.5,4,"['4h', '9d', 'As', 'Qh', '8h']",False,False
+667,668,3036667750,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:25:00(ET)
+",6,30.0,4,"['9s', 'Js', '8h', 'Jc', '3s']",False,False
+668,669,3036666378,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:25:01(ET)
+",6,1.5,4,,False,False
+669,670,3036696818,HoldemNoLimit,1,MARION AVE,"2009-07-0618:25:04(ET)
+",9,201.5,4,"['8d', '7c', '6d', '2c', '10']",False,False
+670,671,3036668156,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:25:05(ET)
+",8,3.5,3,"['2d', 'Ah', '8s']",False,False
+671,672,3036666880,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:25:09(ET)
+",6,2.5,2,"['Qs', '9c', '3s', '9h', '7h']",False,False
+672,673,3036697654,HoldemNoLimit,1,PEARL DR,"2009-07-0618:25:18(ET)
+",9,2.0,5,"['8s', '10c', 'Qc', '3s']",False,False
+673,674,3036667406,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:25:19(ET)
+",5,15.0,5,"['4h', '8s', '8c']",False,False
+674,675,3036689232,HoldemNoLimit,1,SENECA DR,"2009-07-0618:25:22(ET)
+",6,2.5,1,,False,False
+675,676,3036669902,HoldemNoLimit,1,GRAM DR,"2009-07-0618:25:29(ET)
+",9,4.5,2,"['10d', '9d', '9c']",False,False
+676,677,3036698342,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:25:30(ET)
+",6,4.0,2,"['9d', 'Qc', 'Ad', '3d']",False,False
+677,678,3036668152,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:25:30(ET)
+",6,2.5,3,,False,False
+678,679,3036670264,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:25:35(ET)
+",6,20.5,5,"['4c', '9d', '4d']",False,False
+679,680,3036690160,HoldemNoLimit,1,SENECA DR,"2009-07-0618:25:38(ET)
+",6,6.5,2,"['7c', '3d', 'Qs', '10']",False,False
+680,681,3036670608,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:25:39(ET)
+",8,13.5,5,"['5s', 'Ac', '3h', 'Qh', '3c']",False,False
+681,682,3036690282,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:25:40(ET)
+",5,3.5,2,,False,False
+682,683,3036699304,HoldemNoLimit,1,PEARL DR,"2009-07-0618:25:46(ET)
+",9,15.0,6,"['Ad', '4h', '2c']",False,False
+683,684,3036669110,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:25:49(ET)
+",6,2.5,4,,False,False
+684,685,3036700056,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:25:58(ET)
+",6,4.5,3,"['Ks', '9s', '8h', '6h', 'As']",False,False
+685,686,3036669640,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:25:58(ET)
+",5,6.0,3,"['2d', '3c', 'Qd', '2h']",False,False
+686,687,3036700272,HoldemNoLimit,1,MARION AVE,"2009-07-0618:26:03(ET)
+",9,9.5,5,"['5h', '9d', '10s', '6h', 'Qs']",False,False
+687,688,3036691612,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:26:04(ET)
+",6,2.5,5,,False,False
+688,689,3036670024,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:26:06(ET)
+",6,11.0,5,"['Ks', '4h', '3s', '3c', '6s']",False,False
+689,690,3036691896,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:26:09(ET)
+",5,3.0,4,"['6c', '4s', '8s']",False,False
+690,691,3036670436,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:26:12(ET)
+",6,6.0,1,"['10h', '8d', '8s', 'Js']",False,False
+691,692,3036673488,HoldemNoLimit,1,GRAM DR,"2009-07-0618:26:22(ET)
+",9,35.0,3,"['10c', '10d', 'Qd', '3d', '8c']",False,False
+692,693,3036701668,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:26:24(ET)
+",6,7.0,4,"['10h', 'Jd', '5s', '5c', 'Qh']",False,False
+693,694,3036673832,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:26:28(ET)
+",6,2.5,6,"['Kc', '8h', 'Js', '7c', 'Ac']",False,False
+694,695,3036692926,HoldemNoLimit,1,SENECA DR,"2009-07-0618:26:29(ET)
+",6,2.5,3,,False,False
+695,696,3036702546,HoldemNoLimit,1,PEARL DR,"2009-07-0618:26:39(ET)
+",9,1.5,7,,False,False
+696,697,3036672384,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:26:46(ET)
+",6,2.5,6,,False,False
+697,698,3036693958,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:26:47(ET)
+",6,9.0,6,,False,False
+698,699,3036675266,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:26:49(ET)
+",8,4.5,6,"['3c', 'Kh', '9s', '9d', '5s']",False,False
+699,700,3036694406,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:26:54(ET)
+",4,6.0,5,"['4d', '10h', '10d', '3d', '7s']",False,False
+700,701,3036694502,HoldemNoLimit,1,SENECA DR,"2009-07-0618:26:54(ET)
+",6,51.0,4,"['Ah', '8s', '5d', 'Kh']",False,False
+701,702,3036673040,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:26:57(ET)
+",6,8.5,4,"['10c', 'Qh', '2d', '2c']",False,False
+702,703,3036703680,HoldemNoLimit,1,MARION AVE,"2009-07-0618:26:57(ET)
+",9,2.5,6,"['Ad', 'Ah', '7s', '8d', '4c']",False,False
+703,704,3036703922,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:27:02(ET)
+",6,3.0,5,"['4c', '8d', '9d']",False,False
+704,705,3036673426,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:27:02(ET)
+",6,2.5,1,,False,False
+705,706,3036704146,HoldemNoLimit,1,PEARL DR,"2009-07-0618:27:06(ET)
+",9,13.0,8,"['Kh', '10s', '3s', '8s', 'Kd']",False,False
+706,707,3036673298,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:27:07(ET)
+",5,2.5,2,,False,False
+707,708,3036674452,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:27:18(ET)
+",6,36.5,2,"['3c', '8c', 'Kh', '9h', '9d']",False,False
+708,709,3036674080,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:27:20(ET)
+",5,2.5,3,,False,False
+709,710,3036696118,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:27:24(ET)
+",6,8.5,1,,False,False
+710,711,3036705432,HoldemNoLimit,1,MARION AVE,"2009-07-0618:27:26(ET)
+",9,10.0,7,"['10d', '6h', '9c', 'Jd']",False,False
+711,712,3036677760,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:27:27(ET)
+",6,25.5,1,"['6h', 'Ad', '9s', '6d', '10']",False,False
+712,713,3036678020,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:27:30(ET)
+",8,25.5,7,"['2d', '5c', '8c', '2h', 'Qc']",False,False
+713,714,3036705954,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:27:35(ET)
+",6,106.8,6,"['7h', '8s', '8d', 'Ah', '10']",False,False
+714,715,3036675340,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:27:43(ET)
+",6,2.5,4,,False,False
+715,716,3036697668,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:27:52(ET)
+",6,28.0,2,"['9d', '7s', 'Js']",False,False
+716,717,3036676766,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:27:55(ET)
+",6,2.5,5,,False,False
+717,718,3036697972,HoldemNoLimit,1,SENECA DR,"2009-07-0618:27:57(ET)
+",6,2.5,5,,False,False
+718,719,3036676344,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:28:00(ET)
+",6,1.5,5,,False,False
+719,720,3036698146,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:28:01(ET)
+",4,1.5,6,,False,False
+720,721,3036677046,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:28:14(ET)
+",6,28.0,6,"['Jc', 'As', '5c', '8c', 'Ks']",False,False
+721,722,3036708220,HoldemNoLimit,1,PEARL DR,"2009-07-0618:28:14(ET)
+",9,3.0,9,"['10d', '10s', '9c', 'Ah', 'Jc']",False,False
+722,723,3036678142,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:28:16(ET)
+",6,1.5,3,,False,False
+723,724,3036708312,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:28:18(ET)
+",5,8.0,1,"['6s', '9c', '5h', 'Js', '6d']",False,False
+724,725,3036699430,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:28:27(ET)
+",5,3.5,2,"['10d', '9c', 'Kc', '5d', 'Qc']",False,False
+725,726,3036678848,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:28:27(ET)
+",6,14.0,6,"['8s', '3s', 'Qh', '2h', 'Ac']",False,False
+726,727,3036679112,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:28:30(ET)
+",6,8.5,4,"['5h', 'Qc', '8d']",False,False
+727,728,3036699776,HoldemNoLimit,1,SENECA DR,"2009-07-0618:28:31(ET)
+",6,10.5,6,"['8d', 'Kh', 'As']",False,False
+728,729,3036679182,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:28:31(ET)
+",7,32.0,3,"['3c', '3s', '8c', '2h', '2c']",False,False
+729,730,3036709634,HoldemNoLimit,1,MARION AVE,"2009-07-0618:28:39(ET)
+",9,8.0,8,"['9h', 'Ks', '4h']",False,False
+730,731,3036709724,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:28:42(ET)
+",6,2.5,2,,False,False
+731,732,3036700536,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:28:44(ET)
+",6,24.0,3,"['Jh', '5d', '10c', '8d', 'Jd']",False,False
+732,733,3036679138,HoldemNoLimit,1,GRAM DR,"2009-07-0618:28:48(ET)
+",9,17.5,4,"['10c', '9c', '8s', 'Qh', '4c']",False,False
+733,734,3036679120,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:28:49(ET)
+",6,2.5,1,,False,False
+734,735,3036710818,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:28:59(ET)
+",6,47.0,3,"['3d', 'Qc', '3s', '6c', '2d']",False,False
+735,736,3036681086,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:29:00(ET)
+",6,6.0,5,"['10h', 'Qh', 'Ks']",False,False
+736,737,3036711830,HoldemNoLimit,1,PEARL DR,"2009-07-0618:29:15(ET)
+",9,3.5,1,,False,False
+737,738,3036680600,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:29:17(ET)
+",6,1.5,2,,False,False
+738,739,3036680936,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:29:19(ET)
+",6,3.5,2,,False,False
+739,740,3036712160,HoldemNoLimit,1,MARION AVE,"2009-07-0618:29:19(ET)
+",9,2.5,9,,False,False
+740,741,3036682458,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:29:21(ET)
+",6,1.5,6,,False,False
+741,742,3036681092,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:29:21(ET)
+",8,2.5,8,,False,False
+742,743,3036702822,HoldemNoLimit,1,SENECA DR,"2009-07-0618:29:26(ET)
+",6,1.5,1,,False,False
+743,744,3036682834,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:29:27(ET)
+",7,2.5,4,,False,False
+744,745,3036681210,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:29:28(ET)
+",6,2.5,3,,False,False
+745,746,3036683208,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:29:33(ET)
+",5,10.5,1,"['7s', '4h', 'Kd']",False,False
+746,747,3036683616,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:29:41(ET)
+",6,19.5,1,"['2s', '4d', 'Qd', '9h']",False,False
+747,748,3036682410,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:29:41(ET)
+",6,2.5,3,,False,False
+748,749,3036682454,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:29:42(ET)
+",7,11.0,9,"['9d', 'Ac', '7c', '8d', '2c']",False,False
+749,750,3036703786,HoldemNoLimit,1,SENECA DR,"2009-07-0618:29:43(ET)
+",6,7.5,2,"['5d', 'Jd', '9h', '4c', '7h']",False,False
+750,751,3036703790,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:29:43(ET)
+",5,1.5,4,,False,False
+751,752,3036713696,HoldemNoLimit,1,PEARL DR,"2009-07-0618:29:48(ET)
+",9,4.5,2,,False,False
+752,753,3036713710,HoldemNoLimit,1,MARION AVE,"2009-07-0618:29:49(ET)
+",9,4.0,1,"['7s', '4s', '9h']",False,False
+753,754,3036683176,HoldemNoLimit,1,GRAM DR,"2009-07-0618:29:52(ET)
+",9,2.5,5,"['3s', 'Jh', '5d']",False,False
+754,755,3036704466,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:29:55(ET)
+",6,8.5,4,"['Kh', 'Kd', '5c', '3c']",False,False
+755,756,3036714644,HoldemNoLimit,1,BRADBURN RD,"2009-07-0618:30:02(ET)
+",6,3.0,4,"['9s', '5c', '7d', '8s', '2s']",False,False
+756,757,3036683158,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:30:02(ET)
+",6,14.0,4,"['6c', '3h', '9h']",False,False
+757,758,3036683856,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:30:05(ET)
+",6,2.5,4,,False,False
+758,759,3036685302,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:30:05(ET)
+",5,29.5,2,"['5c', 'Qs', '7c', '2h', 'Jh']",False,False
+759,760,3036684304,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:30:10(ET)
+",7,5.0,1,"['6h', '5d', '2c', '3d']",False,False
+760,761,3036686154,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:30:20(ET)
+",6,2.5,2,"['8s', '9h', '2d']",False,False
+761,762,3036705748,HoldemNoLimit,1,MEXICO HWY,"2009-07-0618:30:21(ET)
+",5,2.0,5,"['Jd', '9c', '3h', 'Qh']",False,False
+762,763,3036685314,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:30:24(ET)
+",6,31.0,5,"['10s', '8s', '3h', '3d', '5d']",False,False
+763,764,3036716806,HoldemNoLimit,1,PEARL DR,"2009-07-0618:30:34(ET)
+",9,190.06,3,"['5s', 'Ah', '8d', '7c', '4c']",False,False
+764,765,3036706750,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:30:36(ET)
+",6,3.0,5,"['Ad', 'Ah', 'Qs', 'Kc', '4c']",False,False
+765,766,3036686250,HoldemNoLimit,1,GRAM DR,"2009-07-0618:30:40(ET)
+",8,48.0,6,"['Js', '9s', '3c', '7d', '4c']",False,False
+766,767,3036686470,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:30:42(ET)
+",7,2.0,2,,False,False
+767,768,3036688106,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:30:53(ET)
+",6,5.0,6,"['Js', 'Ah', '2d']",False,False
+768,769,3036685992,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:30:53(ET)
+",6,64.0,5,"['6c', 'As', '10s', '5h', '4h']",False,False
+769,770,3036688464,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:30:58(ET)
+",6,87.5,3,"['2s', '8s', '10d', '7d', '6d']",False,False
+770,771,3036708176,HoldemNoLimit,1,SENECA DR,"2009-07-0618:31:03(ET)
+",6,2.5,3,,False,False
+771,772,3036689230,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:31:10(ET)
+",5,10.5,3,,False,False
+772,773,3036688946,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:31:20(ET)
+",6,36.0,6,"['7d', '8h', '10s', '4h']",False,False
+773,774,3036709484,HoldemNoLimit,1,SENECA DR,"2009-07-0618:31:26(ET)
+",6,52.0,4,"['3d', '10h', '9c', 'Qh', '2d']",False,False
+774,775,3036690822,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:31:36(ET)
+",5,2.5,4,,False,False
+775,776,3036721402,HoldemNoLimit,1,PEARL DR,"2009-07-0618:31:47(ET)
+",9,10.0,4,"['8h', '2d', '4d', '5d']",False,False
+776,777,3036690588,HoldemNoLimit,1,GRAM DR,"2009-07-0618:31:49(ET)
+",8,2.0,7,"['Qc', '9d', '3d']",False,False
+777,778,3036691716,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:31:51(ET)
+",5,7.0,6,"['Qd', '5d', '6s']",False,False
+778,779,3036691930,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:31:51(ET)
+",6,7.5,1,,False,False
+779,780,3036692168,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:32:00(ET)
+",5,2.5,4,,False,False
+780,781,3036711324,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:32:00(ET)
+",5,3.5,6,,False,False
+781,782,3036693116,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:32:14(ET)
+",5,9.5,1,"['9h', 'Kc', '5d']",False,False
+782,783,3036690700,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:32:18(ET)
+",6,34.0,6,"['8h', 'Qs', '6d', '9h', 'Kh']",False,False
+783,784,3036692414,HoldemNoLimit,1,GRAM DR,"2009-07-0618:32:18(ET)
+",8,1.5,8,,False,False
+784,785,3036712762,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:32:25(ET)
+",5,1.5,1,,False,False
+785,786,3036693992,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:32:28(ET)
+",5,2.5,5,,False,False
+786,787,3036694496,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:32:28(ET)
+",6,2.0,2,"['6c', '4c', '8h', 'Kh', 'Jd']",False,False
+787,788,3036724580,HoldemNoLimit,1,PEARL DR,"2009-07-0618:32:28(ET)
+",9,2.0,5,,False,False
+788,789,3036693310,HoldemNoLimit,1,GRAM DR,"2009-07-0618:32:33(ET)
+",8,1.5,9,,False,False
+789,790,3036693486,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:32:35(ET)
+",6,22.5,1,"['3h', '2h', 'Kh', '4c', '7s']",False,False
+790,791,3036713520,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:32:40(ET)
+",5,359.6,2,"['Jh', '9s', 'Js', 'Ac', '9c']",False,False
+791,792,3036695330,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:32:48(ET)
+",5,7.5,6,,False,False
+792,793,3036695432,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:32:50(ET)
+",5,7.5,2,"['Kd', '7d', '7s', '2h', 'Ah']",False,False
+793,794,3036692910,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:32:59(ET)
+",6,44.5,1,"['5c', '9s', 'Kd']",False,False
+794,795,3036695342,HoldemNoLimit,1,GRAM DR,"2009-07-0618:33:07(ET)
+",8,8.5,2,"['3d', 'Qs', '7d']",False,False
+795,796,3036695824,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:33:16(ET)
+",5,4.0,2,"['2s', 'Qc', '5h', 'Jd']",False,False
+796,797,3036697148,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:33:17(ET)
+",6,23.5,3,"['8s', 'Qs', '7c', '6c', '10']",False,False
+797,798,3036715732,HoldemNoLimit,1,SENECA DR,"2009-07-0618:33:18(ET)
+",6,1.5,5,,False,False
+798,799,3036697472,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:33:23(ET)
+",6,29.4,2,"['Kc', '5d', '8s']",False,False
+799,800,3036717448,HoldemNoLimit,1,SENECA DR,"2009-07-0618:33:47(ET)
+",6,8.0,6,"['10h', 'Qc', '4h']",False,False
+800,801,3036698294,HoldemNoLimit,1,GRAM DR,"2009-07-0618:33:56(ET)
+",9,4.5,3,,False,False
+801,802,3036764690,HoldemNoLimit,1,REVERE DR,"2009-07-0618:34:01(ET)
+",9,1.5,6,,False,False
+802,803,3036718530,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:34:06(ET)
+",5,18.0,3,"['6c', 'Qs', 'Js', '3d', '4c']",False,False
+803,804,3036701010,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:34:19(ET)
+",6,4.0,4,"['Ah', '2c', '3c', '9s']",False,False
+804,805,3036697414,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:34:20(ET)
+",6,1.5,2,,False,False
+805,806,3036766420,HoldemNoLimit,1,REVERE DR,"2009-07-0618:34:20(ET)
+",9,4.0,7,"['Qh', 'Ks', 'Jh']",False,False
+806,807,3036719476,HoldemNoLimit,1,SENECA DR,"2009-07-0618:34:22(ET)
+",6,2.5,1,"['Jc', '7c', '6c']",False,False
+807,808,3036700540,HoldemNoLimit,1,GRAM DR,"2009-07-0618:34:31(ET)
+",9,4.5,4,,False,False
+808,809,3036698698,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:34:41(ET)
+",6,44.0,3,"['7c', '8s', '6c', '8d']",False,False
+809,810,3036699044,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:34:45(ET)
+",6,2.5,3,,False,False
+810,811,3036721040,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:34:48(ET)
+",5,2.0,4,,False,False
+811,812,3036701966,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:34:54(ET)
+",5,3.0,3,"['4d', '7h', 'Ks', 'Kh', '2c']",False,False
+812,813,3036721444,HoldemNoLimit,1,SENECA DR,"2009-07-0618:34:57(ET)
+",6,2.0,2,"['7h', 'Qc', '5h']",False,False
+813,814,3036769274,HoldemNoLimit,1,REVERE DR,"2009-07-0618:35:00(ET)
+",8,6.0,8,"['Jc', '5s', '3s']",False,False
+814,815,3036702934,HoldemNoLimit,1,GRAM DR,"2009-07-0618:35:09(ET)
+",9,13.5,5,"['5d', '10c', '2c']",False,False
+815,816,3036722320,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:35:11(ET)
+",6,1.5,6,,False,False
+816,817,3036701114,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:35:16(ET)
+",5,6.5,4,"['6d', 'Ac', '8h', 'Kd', '7d']",False,False
+817,818,3036723268,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:35:30(ET)
+",5,2.0,1,,False,False
+818,819,3036724136,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:35:40(ET)
+",5,7.5,2,"['Qd', '3h', '3c']",False,False
+819,820,3036702008,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:35:41(ET)
+",6,26.5,4,"['4s', '6d', '5h']",False,False
+820,821,3036724362,HoldemNoLimit,1,SENECA DR,"2009-07-0618:35:44(ET)
+",5,4.5,3,"['8h', 'Ad', '2c']",False,False
+821,822,3036772722,HoldemNoLimit,1,REVERE DR,"2009-07-0618:35:47(ET)
+",9,6.5,1,"['5s', '9h', 'Jc', 'Jd', '7c']",False,False
+822,823,3036702400,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:35:48(ET)
+",6,2.0,5,"['4s', '10c', '10d', '7s']",False,False
+823,824,3036702660,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:35:52(ET)
+",6,25.0,3,"['4s', 'Js', '8c']",False,False
+824,825,3036705496,HoldemNoLimit,1,GRAM DR,"2009-07-0618:35:52(ET)
+",9,2.5,6,,False,False
+825,826,3036705554,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:35:53(ET)
+",4,7.5,5,"['Qh', '2c', 'Js']",False,False
+826,827,3036725778,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:36:10(ET)
+",6,2.5,3,,False,False
+827,828,3036703852,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:36:11(ET)
+",6,6.0,6,"['Jh', '3s', 'Ah', '7s', '8d']",False,False
+828,829,3036706600,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:36:13(ET)
+",5,3.5,6,"['5h', 'Js', 'Qc']",False,False
+829,830,3036726218,HoldemNoLimit,1,SENECA DR,"2009-07-0618:36:18(ET)
+",5,1.5,4,,False,False
+830,831,3036705484,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:36:23(ET)
+",5,10.5,5,"['6c', '8c', '4c', '4d']",False,False
+831,832,3036707482,HoldemNoLimit,1,GRAM DR,"2009-07-0618:36:30(ET)
+",9,22.0,7,"['3h', 'Ah', '10s', 'Ad']",False,False
+832,833,3036776118,HoldemNoLimit,1,REVERE DR,"2009-07-0618:36:46(ET)
+",9,6.5,2,"['2h', '4h', '9c']",False,False
+833,834,3036705740,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:36:48(ET)
+",6,2.5,5,,False,False
+834,835,3036706100,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:36:49(ET)
+",6,6.5,1,"['Qd', '10h', 'Jc', '5d', '5c']",False,False
+835,836,3036706392,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:36:54(ET)
+",6,22.0,4,"['Ks', '9d', '8d', 'Kc']",False,False
+836,837,3036709024,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:36:56(ET)
+",5,1.5,1,,False,False
+837,838,3036707942,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:37:00(ET)
+",6,2.5,1,,False,False
+838,839,3036709654,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:37:07(ET)
+",5,1.5,2,,False,False
+839,840,3036707062,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:37:11(ET)
+",6,1.5,6,,False,False
+840,841,3036709528,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:37:25(ET)
+",5,30.0,2,"['5d', 'Kc', '3c', '8s', '7c']",False,False
+841,842,3036711780,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:37:41(ET)
+",5,2.5,4,,False,False
+842,843,3036780300,HoldemNoLimit,1,REVERE DR,"2009-07-0618:37:43(ET)
+",9,2.0,3,"['Kh', '4s', '3s']",False,False
+843,844,3036712382,HoldemNoLimit,1,GRAM DR,"2009-07-0618:37:49(ET)
+",9,4.0,8,"['10d', '2d', '8d']",False,False
+844,845,3036709708,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:37:50(ET)
+",6,1.5,2,,False,False
+845,846,3036713094,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:38:01(ET)
+",5,2.5,5,,False,False
+846,847,3036710480,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:38:04(ET)
+",6,138.5,5,"['6c', '2c', '8d', '9s', '10']",False,False
+847,848,3036710474,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:38:04(ET)
+",6,1.5,3,,False,False
+848,849,3036710290,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:38:12(ET)
+",4,8.0,1,"['8s', '6c', '3c']",False,False
+849,850,3036713728,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:38:12(ET)
+",4,16.0,6,"['Js', 'Jd', '2c', '8d']",False,False
+850,851,3036711902,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:38:28(ET)
+",4,2.5,4,,False,False
+851,852,3036713858,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:38:33(ET)
+",5,3.5,3,"['Kc', 'Qs', '2c', '6s', '7d']",False,False
+852,853,3036712802,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:38:41(ET)
+",4,2.5,5,"['2d', 'Kh', '10s', 'As']",False,False
+853,854,3036712266,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:38:47(ET)
+",4,2.5,3,,False,False
+854,855,3036713344,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:38:52(ET)
+",9,26.5,4,"['4s', '8h', 'Qc', '5h', '6d']",False,False
+855,856,3036714740,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:39:13(ET)
+",5,126.0,2,"['3h', '8s', '4d', '3c', 'Ks']",False,False
+856,857,3036713690,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:39:14(ET)
+",4,1.5,4,,False,False
+857,858,3036714350,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:39:24(ET)
+",4,1.5,6,,False,False
+858,859,3036714858,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:39:33(ET)
+",4,11.5,1,"['4h', '3h', '5d']",False,False
+859,860,3036718362,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:39:34(ET)
+",6,18.0,4,"['7s', '6c', '6s', '7d']",False,False
+860,861,3036715890,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:39:34(ET)
+",6,2.0,6,"['10c', 'Kc', 'Kd', 'Ac', 'Ah']",False,False
+861,862,3036715638,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:39:46(ET)
+",4,2.5,1,,False,False
+862,863,3036717082,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:39:48(ET)
+",9,1.5,5,,False,False
+863,864,3036717576,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:39:56(ET)
+",5,2.0,3,"['As', '3d', '5s', 'Kh', 'Ah']",False,False
+864,865,3036716364,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:39:58(ET)
+",5,8.0,4,"['3s', '5d', '8c', '8h']",False,False
+865,866,3036716368,HoldemNoLimit,1,GRAM DR,"2009-07-0618:39:58(ET)
+",9,4.0,9,"['9c', 'Kd', '6d', '7d', '7c']",False,False
+866,867,3036718076,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:40:04(ET)
+",9,9.5,6,"['8c', '8h', 'Qc', '3s', '6d']",False,False
+867,868,3036717192,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:40:13(ET)
+",5,3.5,3,"['2s', '8c', '10d', '10']",False,False
+868,869,3036719372,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:40:21(ET)
+",5,9.0,4,"['3d', '4h', '7d']",False,False
+869,870,3036717968,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:40:26(ET)
+",5,2.5,5,,False,False
+870,871,3036719766,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:40:27(ET)
+",5,2.0,1,"['5d', '5s', '2s']",False,False
+871,872,3036720842,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:40:44(ET)
+",5,2.0,5,"['4h', 'Kd', '4c', '7s']",False,False
+872,873,3036719186,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:40:46(ET)
+",5,2.5,6,,False,False
+873,874,3036721216,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:40:51(ET)
+",9,18.0,7,"['Kc', '3c', 'Ks', '9h', '4s']",False,False
+874,875,3036721870,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:41:00(ET)
+",4,2.0,2,"['8s', 'Qs', 'Ah', 'Ac', '9h']",False,False
+875,876,3036720386,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:41:05(ET)
+",5,3.5,1,"['8s', 'Qs', 'Kc']",False,False
+876,877,3036722598,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:41:12(ET)
+",5,2.5,6,,False,False
+877,878,3036720612,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:41:14(ET)
+",5,2.0,4,"['Qd', 'Kd', '3h', '7d']",False,False
+878,879,3036721348,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:41:27(ET)
+",6,3.0,5,"['Kh', '5d', '8d', '7s']",False,False
+879,880,3036723566,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:41:27(ET)
+",6,15.0,2,"['Qs', 'Kd', 'Qd', '7d', 'Jc']",False,False
+880,881,3036722656,HoldemNoLimit,1,RAKOF AVE,"2009-07-0618:41:38(ET)
+",5,2.5,3,,False,False
+881,882,3036722718,HoldemNoLimit,1,GRAM DR,"2009-07-0618:41:39(ET)
+",9,9.0,1,"['3d', 'Qh', '9s']",False,False
+882,883,3036724834,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:41:50(ET)
+",4,2.0,4,,False,False
+883,884,3036723594,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:42:05(ET)
+",5,1.5,5,,False,False
+884,885,3036726094,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:42:18(ET)
+",8,71.25,8,"['3h', 'Jh', '9s', '9h', '8s']",False,False
+885,886,3036724358,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:42:19(ET)
+",5,2.5,6,,False,False
+886,887,3036725086,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:42:32(ET)
+",6,9.0,6,"['9d', 'Jd', '2s', '8s', 'Kc']",False,False
+887,888,3036726538,HoldemNoLimit,1,GRAM DR,"2009-07-0618:42:35(ET)
+",9,8.5,2,"['10h', '10c', '7c']",False,False
+888,889,3036727280,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:42:38(ET)
+",6,19.0,3,"['3c', 'Kd', '8s', 'Jd', '8d']",False,False
+889,890,3036727856,HoldemNoLimit,1,CHESAPEAKE,"2009-07-0618:42:48(ET)
+",4,1.5,6,,False,False
+890,891,3036727596,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:42:49(ET)
+",9,2.5,6,,False,False
+891,892,3036726084,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:42:51(ET)
+",5,1.5,1,,False,False
+892,893,3036728682,HoldemNoLimit,1,GRAM DR,"2009-07-0618:43:06(ET)
+",9,3.5,3,"['5h', '6d', '4s']",False,False
+893,894,3036727058,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:43:09(ET)
+",6,77.0,4,"['9s', '9c', '7d', '3s', '6c']",False,False
+894,895,3036729176,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:43:13(ET)
+",9,15.0,7,"['Qd', '7s', 'Kd', '5s']",False,False
+895,896,3036727522,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:43:14(ET)
+",6,3.5,3,"['Jc', '3d', 'Ks']",False,False
+896,897,3036727852,HoldemNoLimit,1,SENECA DR,"2009-07-0618:43:20(ET)
+",6,7.0,6,"['Qh', 'Jh', 'As']",False,False
+897,898,3036730042,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:43:29(ET)
+",6,20.0,4,"['7c', '9h', '4c', 'Qh', '4h']",False,False
+898,899,3036731088,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:43:40(ET)
+",9,3.0,8,"['4d', '7h', '6d', 'Qs']",False,False
+899,900,3036729224,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:43:43(ET)
+",5,2.0,1,,False,False
+900,901,3036729452,HoldemNoLimit,1,SENECA DR,"2009-07-0618:43:52(ET)
+",5,1.5,1,,False,False
+901,902,3036731682,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:44:04(ET)
+",9,13.0,1,"['2s', '10d', 'Jd', '5h', '6c']",False,False
+902,903,3036730166,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:44:06(ET)
+",6,11.5,5,"['2d', '4d', 'Ks']",False,False
+903,904,3036730998,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:44:11(ET)
+",5,1.5,2,,False,False
+904,905,3036730702,HoldemNoLimit,1,SENECA DR,"2009-07-0618:44:15(ET)
+",5,2.5,2,,False,False
+905,906,3036733326,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:44:15(ET)
+",9,8.5,9,"['4s', '10s', '4c', '2d', 'Ac']",False,False
+906,907,3036730960,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:44:16(ET)
+",5,2.0,4,"['9h', '2h', 'Kd', '2d']",False,False
+907,908,3036732738,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:44:26(ET)
+",6,6.5,5,"['Qs', '5c', '8d', 'Ks']",False,False
+908,909,3036731828,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:44:27(ET)
+",5,2.5,3,,False,False
+909,910,3036732464,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:44:42(ET)
+",6,8.5,4,"['3c', 'Ac', '7c', '4d', 'Kc']",False,False
+910,911,3036733108,HoldemNoLimit,1,SENECA DR,"2009-07-0618:44:50(ET)
+",6,3.5,3,,False,False
+911,912,3036733430,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:44:52(ET)
+",5,2.5,5,,False,False
+912,913,3036735920,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:44:52(ET)
+",8,4.0,1,"['9h', 'Ad', '8s', 'Js']",False,False
+913,914,3036733158,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:44:54(ET)
+",5,1.5,5,,False,False
+914,915,3036733626,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:44:59(ET)
+",6,2.0,6,,False,False
+915,916,3036735336,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:45:10(ET)
+",6,2.5,6,,False,False
+916,917,3036734208,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:45:13(ET)
+",6,3.0,5,"['Qh', 'As', '6h', '2h']",False,False
+917,918,3036735094,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:45:22(ET)
+",6,1.5,1,,False,False
+918,919,3036737724,HoldemNoLimit,1,SANFORD ST,"2009-07-0618:45:22(ET)
+",8,6.5,2,"['3c', '8c', 'Ah', '10c', '7d']",False,False
+919,920,3036735550,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:45:27(ET)
+",5,4.5,6,"['9d', '6d', '2h', '7d']",False,False
+920,921,3036734990,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:45:28(ET)
+",6,2.5,6,,False,False
+921,922,3036735208,HoldemNoLimit,1,SENECA DR,"2009-07-0618:45:30(ET)
+",6,1.5,4,,False,False
+922,923,3036736458,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:45:34(ET)
+",6,12.0,1,"['10c', '9c', '7s', '5s']",False,False
+923,924,3036736498,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:45:36(ET)
+",9,2.0,2,"['5d', 'Ah', 'As', '8s']",False,False
+924,925,3036736020,HoldemNoLimit,1,SENECA DR,"2009-07-0618:45:39(ET)
+",5,3.0,5,,False,False
+925,926,3036736136,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:45:41(ET)
+",6,40.5,2,"['9d', '3h', '2s']",False,False
+926,927,3036736132,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:45:49(ET)
+",6,3.5,6,,False,False
+927,928,3036737292,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:46:08(ET)
+",6,2.5,1,,False,False
+928,929,3036737296,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:46:08(ET)
+",6,9.0,1,"['8d', '9h', 'Ah', '10s', 'Kd']",False,False
+929,930,3036738410,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:46:13(ET)
+",6,18.0,2,"['8d', 'Ah', '2d', 'Qd', '8c']",False,False
+930,931,3036738654,HoldemNoLimit,1,SENECA DR,"2009-07-0618:46:24(ET)
+",4,15.5,6,"['As', '8c', '8h', 'Qs', '10']",False,False
+931,932,3036738326,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:46:28(ET)
+",6,7.5,2,,False,False
+932,933,3036739244,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:46:29(ET)
+",9,21.0,3,,False,False
+933,934,3036740336,HoldemNoLimit,1,BOEING AVE,"2009-07-0618:46:41(ET)
+",5,4.0,2,"['7h', '4d', 'Jc', '3s']",False,False
+934,935,3036739254,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:46:44(ET)
+",6,17.0,2,"['9d', '5d', '5s', 'Jh', '8d']",False,False
+935,936,3036740296,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:46:51(ET)
+",6,1.5,3,,False,False
+936,937,3036739844,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:46:53(ET)
+",6,22.5,3,"['4c', '2s', '8h', '3c']",False,False
+937,938,3036740828,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:46:56(ET)
+",6,2.5,3,,False,False
+938,939,3036740978,HoldemNoLimit,1,SENECA DR,"2009-07-0618:47:05(ET)
+",5,3.5,2,,False,False
+939,940,3036741680,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:47:11(ET)
+",6,2.5,4,"['Ah', 'Ad', '4d', 'Ac', 'Qc']",False,False
+940,941,3036741974,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:47:22(ET)
+",6,16.5,4,"['4h', 'Qc', 'Jc', '9h']",False,False
+941,942,3036742346,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:47:23(ET)
+",9,30.1,4,"['9c', 'Qc', 'Js', '8d', '2s']",False,False
+942,943,3036742268,HoldemNoLimit,1,SENECA DR,"2009-07-0618:47:25(ET)
+",5,2.5,3,,False,False
+943,944,3036742114,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:47:35(ET)
+",6,145.49,3,"['8d', '9c', '2d', '5d', '5s']",False,False
+944,945,3036743320,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:47:38(ET)
+",6,9.0,5,"['7h', '6c', '6s', '7d', '8c']",False,False
+945,946,3036743432,HoldemNoLimit,1,SENECA DR,"2009-07-0618:47:43(ET)
+",5,2.5,4,,False,False
+946,947,3036742950,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:47:49(ET)
+",5,12.0,4,"['10d', 'Qd', 'Jc', '10h', '3c']",False,False
+947,948,3036744176,HoldemNoLimit,1,SENECA DR,"2009-07-0618:47:53(ET)
+",5,7.5,5,"['10d', '7s', 'Jd']",False,False
+948,949,3036746014,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:48:25(ET)
+",6,2.0,6,"['2h', '8s', '5h']",False,False
+949,950,3036745598,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:48:33(ET)
+",5,34.0,4,"['Jh', '5d', '10s', '3c', '8h']",False,False
+950,951,3036746686,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:48:37(ET)
+",6,105.0,5,"['6c', '8c', '10s', '9c', '2d']",False,False
+951,952,3036747278,HoldemNoLimit,1,SENECA DR,"2009-07-0618:48:45(ET)
+",5,2.0,1,,False,False
+952,953,3036747436,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:48:50(ET)
+",6,2.5,1,,False,False
+953,954,3036747716,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:48:57(ET)
+",7,2.5,5,,False,False
+954,955,3036748644,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:49:08(ET)
+",6,7.5,2,"['8c', '5h', 'Ac', '4c', '7d']",False,False
+955,956,3036747726,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:49:09(ET)
+",5,2.5,5,"['2h', '8s', 'Ad']",False,False
+956,957,3036749396,HoldemNoLimit,1,SENECA DR,"2009-07-0618:49:11(ET)
+",5,1.5,2,,False,False
+957,958,3036749976,HoldemNoLimit,1,SENECA DR,"2009-07-0618:49:20(ET)
+",5,19.0,3,"['9s', '3c', 'Qc', 'Ac', 'Jc']",False,False
+958,959,3036749112,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:49:32(ET)
+",5,2.5,5,,False,False
+959,960,3036749120,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:49:32(ET)
+",5,39.5,6,"['8c', '10h', '2s', '4s', '7s']",False,False
+960,961,3036750140,HoldemNoLimit,1,GERMANY HWY,"2009-07-0618:49:32(ET)
+",9,2.5,7,,False,False
+961,962,3036751380,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:49:39(ET)
+",6,2.5,6,,False,False
+962,963,3036750072,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:49:50(ET)
+",5,5.0,1,"['7d', 'Qc', '6h', 'As', '5c']",False,False
+963,964,3036752890,HoldemNoLimit,1,SENECA DR,"2009-07-0618:49:59(ET)
+",5,6.5,4,"['7c', '4d', '6c', '2c']",False,False
+964,965,3036751660,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:50:00(ET)
+",6,4.5,3,"['6c', '10c', 'Qd', '8h']",False,False
+965,966,3036753164,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:50:05(ET)
+",6,26.5,1,"['5d', '7c', '3d', '8s']",False,False
+966,967,3036754734,HoldemNoLimit,1,SENECA DR,"2009-07-0618:50:26(ET)
+",5,6.5,5,,False,False
+967,968,3036752308,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:50:29(ET)
+",5,46.0,1,"['Jd', '3s', '10']",False,False
+968,969,3036753902,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:50:42(ET)
+",6,13.0,4,"['3d', '9d', '4c', 'Jd', '4s']",False,False
+969,970,3036755872,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:50:43(ET)
+",6,2.0,2,,False,False
+970,971,3036756564,HoldemNoLimit,1,SENECA DR,"2009-07-0618:50:53(ET)
+",5,2.5,1,"['Qh', '5d', '9d']",False,False
+971,972,3036757320,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:51:03(ET)
+",6,2.0,3,"['Jd', '7h', '5d', 'Js', '10']",False,False
+972,973,3036754474,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:51:07(ET)
+",5,18.0,3,"['10h', 'Ad', '10c', '6d']",False,False
+973,974,3036754730,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:51:11(ET)
+",5,73.0,2,"['Jc', 'Kh', '6d', '10s', 'Ks']",False,False
+974,975,3036759562,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:51:34(ET)
+",6,1.5,4,,False,False
+975,976,3036759608,HoldemNoLimit,1,SENECA DR,"2009-07-0618:51:35(ET)
+",6,3.5,2,"['Qd', '6d', 'As']",False,False
+976,977,3036756082,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:51:35(ET)
+",5,2.5,4,,False,False
+977,978,3036756928,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:51:51(ET)
+",5,2.5,5,,False,False
+978,979,3036760680,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:51:53(ET)
+",6,2.5,5,,False,False
+979,980,3036761192,HoldemNoLimit,1,SENECA DR,"2009-07-0618:51:59(ET)
+",6,2.5,3,,False,False
+980,981,3036757702,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:52:00(ET)
+",6,2.0,5,,False,False
+981,982,3036757882,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:52:08(ET)
+",6,10.5,6,"['2h', '2c', '10']",False,False
+982,983,3036762388,HoldemNoLimit,1,SENECA DR,"2009-07-0618:52:18(ET)
+",6,7.5,4,"['Qd', '2c', 'Ac']",False,False
+983,984,3036758872,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:52:19(ET)
+",6,2.5,6,,False,False
+984,985,3036762402,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:52:19(ET)
+",6,2.5,6,,False,False
+985,986,3036759656,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:52:33(ET)
+",5,49.0,1,"['5h', '10d', '7s', '7h', '2d']",False,False
+986,987,3036759556,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:52:36(ET)
+",6,2.5,1,,False,False
+987,988,3036759850,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:52:42(ET)
+",5,2.5,3,,False,False
+988,989,3036764182,HoldemNoLimit,1,SENECA DR,"2009-07-0618:52:46(ET)
+",6,22.0,5,"['4d', '8d', 'Ad', '9d', 'Qs']",False,False
+989,990,3036760736,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:52:54(ET)
+",4,2.5,4,,False,False
+990,991,3036765496,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:53:04(ET)
+",6,9.0,1,"['Qh', 'Js', '8h']",False,False
+991,992,3036761132,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:53:07(ET)
+",6,30.0,2,"['9s', 'Kh', '3d', '7s']",False,False
+992,993,3036762172,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:53:20(ET)
+",4,8.0,2,"['10c', '9s', 'Jd', '5d']",False,False
+993,994,3036767826,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:53:36(ET)
+",6,2.5,2,,False,False
+994,995,3036763752,HoldemNoLimit,1,HEAVENLY DR,"2009-07-0618:53:50(ET)
+",6,50.0,3,"['As', 'Kd', '5s', '4h', '3d']",False,False
+995,996,3036763898,HoldemNoLimit,1,ELMSMERE RD,"2009-07-0618:53:52(ET)
+",4,121.5,5,"['9d', '7s', '2h', '4d', '5h']",False,False
+996,997,3036763822,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:53:52(ET)
+",4,8.0,3,"['Ks', '10c', '9c', '8d', '5h']",False,False
+997,998,3036769430,HoldemNoLimit,1,SENECA DR,"2009-07-0618:54:00(ET)
+",6,7.0,6,"['Ad', '4d', '8s', 'Qh', '8h']",False,False
+998,999,3036770002,HoldemNoLimit,1,LYNN AVE,"2009-07-0618:54:09(ET)
+",6,2.5,3,,False,False
+999,1000,3036765482,HoldemNoLimit,1,KALAMAZOO,"2009-07-0618:54:18(ET)
+",5,5.0,6,"['Ks', '6d', '2s', '6h', '6s']",False,False

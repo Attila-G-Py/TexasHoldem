@@ -1,0 +1,1999 @@
+,Unnamed: 0,TimeStamp,GameType,BigBlind,Table,Date,PlayerCount,TotalPot,Dealer,Board,Ante,1on1
+0,1,3035625580,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:19:23(ET)
+",5,1.50,3,,False,False
+1,2,3035627098,HoldemNoLimit,1,SENECA DR,"2009-07-0612:19:34(ET)
+",6,24,6,"['8s', '5s', 'Kd']",False,False
+2,3,3035626132,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:19:38(ET)
+",5,8,4,"['Ks', 'Kd', 'As', '9h', '9c']",False,False
+3,4,3035626448,HoldemNoLimit,1,REVERE DR,"2009-07-0612:19:41(ET)
+",9,72.50,7,"['Jc', 'Js', '10d', '9s', '9c']",False,False
+4,5,3035627330,HoldemNoLimit,1,MARION AVE,"2009-07-0612:19:43(ET)
+",8,50,2,"['Kd', '9h', '5h', '7h', '3d']",False,False
+5,6,3035626152,HoldemNoLimit,1,PEARL DR,"2009-07-0612:19:49(ET)
+",9,36,5,"['5d', '2h', '9s', 'Js', '4d']",False,False
+6,7,3035626408,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:19:58(ET)
+",6,2.50,3,"['4d', 'Ks', '2s']",False,False
+7,8,3035627350,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:20:10(ET)
+",5,69,5,"['5c', '10s', '6c', '7c', '8c']",False,False
+8,9,3035628540,HoldemNoLimit,1,SENECA DR,"2009-07-0612:20:13(ET)
+",5,9,1,"['3s', '8h', 'Kc', 'Kd', 'Qc']",False,False
+9,10,3035628578,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:20:13(ET)
+",6,7,6,"['Qh', '8d', '5d', '9c', 'Kd']",False,False
+10,11,3035628678,HoldemNoLimit,1,REVERE DR,"2009-07-0612:20:35(ET)
+",8,3.50,8,,False,False
+11,12,3035629450,HoldemNoLimit,1,SENECA DR,"2009-07-0612:20:39(ET)
+",5,23.50,2,"['Ad', 'As', '3d', 'Jd', '9h']",False,False
+12,13,3035628122,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:20:42(ET)
+",6,20,4,"['6c', '6s', 'Jh', 'Ac']",False,False
+13,14,3035628412,HoldemNoLimit,1,PEARL DR,"2009-07-0612:20:50(ET)
+",9,2.50,6,"['6c', 'Kh', 'Jh', 'Kd', '10']",False,False
+14,15,3035629938,HoldemNoLimit,1,REVERE DR,"2009-07-0612:21:03(ET)
+",9,85,9,"['Qs', '3d', '7c', 'Ah', '7s']",False,False
+15,16,3035630612,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:21:03(ET)
+",6,3,1,"['8h', 'As', '6c', '10']",False,False
+16,17,3035630814,HoldemNoLimit,1,MARION AVE,"2009-07-0612:21:08(ET)
+",8,5.50,3,"['6h', '5c', '6d', '9d']",False,False
+17,18,3035629722,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:21:17(ET)
+",5,2.50,6,,False,False
+18,19,3035631264,HoldemNoLimit,1,SENECA DR,"2009-07-0612:21:28(ET)
+",5,14,4,"['Jh', '6h', '7s', '10s', '6d']",False,False
+19,20,3035630248,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:21:30(ET)
+",5,2.50,2,,False,False
+20,21,3035630140,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:21:37(ET)
+",6,3,5,"['Qc', 'Jc', '5c']",False,False
+21,22,3035630758,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:21:44(ET)
+",5,2.50,3,"['2s', 'As', '3s', '7h', '6s']",False,False
+22,23,3035632562,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:21:50(ET)
+",5,2.50,2,,False,False
+23,24,3035632350,HoldemNoLimit,1,REVERE DR,"2009-07-0612:22:00(ET)
+",8,2,1,"['2c', 'Qh', '3s']",False,False
+24,25,3035633148,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:22:04(ET)
+",5,1.50,3,,False,False
+25,26,3035632652,HoldemNoLimit,1,SENECA DR,"2009-07-0612:22:04(ET)
+",5,11,5,"['7s', '2d', '2s', 'Jh', 'Kc']",False,False
+26,27,3035633230,HoldemNoLimit,1,MARION AVE,"2009-07-0612:22:07(ET)
+",9,84,5,"['8s', '4h', 'Qd', '3s', '2h']",False,False
+27,28,3035631188,HoldemNoLimit,1,PEARL DR,"2009-07-0612:22:08(ET)
+",9,7.50,7,"['Kh', '3c', '10s', 'Qh']",False,False
+28,29,3035632094,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:22:20(ET)
+",5,3,4,"['3d', '2c', 'Ac']",False,False
+29,30,3035633876,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:22:23(ET)
+",5,4.50,4,"['Qh', '5s', 'Ad', 'Jd', '5h']",False,False
+30,31,3035631882,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:22:26(ET)
+",6,7.50,6,"['4h', 'Qc', '6d']",False,False
+31,32,3035633522,HoldemNoLimit,1,REVERE DR,"2009-07-0612:22:28(ET)
+",8,17,2,"['2h', '8h', '6c']",False,False
+32,33,3035633680,HoldemNoLimit,1,SENECA DR,"2009-07-0612:22:34(ET)
+",5,16,6,"['4c', '4h', '9h']",False,False
+33,34,3035632444,HoldemNoLimit,1,PEARL DR,"2009-07-0612:22:42(ET)
+",9,43.30,8,"['Jd', '7s', 'Qs', '9d', '9s']",False,False
+34,35,3035633002,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:22:46(ET)
+",5,2.50,5,,False,False
+35,36,3035632834,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:22:52(ET)
+",6,12,1,"['5h', '6s', '8c', '7d', 'Js']",False,False
+36,37,3035633604,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:23:03(ET)
+",5,9,6,"['5d', '7h', '7d', 'Ac']",False,False
+37,38,3035635446,HoldemNoLimit,1,MARION AVE,"2009-07-0612:23:03(ET)
+",9,"16.25:$5.75,$10.50",6,"['2h', '7h', '6h', '4c', 'Qd']",False,False
+38,39,3035634916,HoldemNoLimit,1,SENECA DR,"2009-07-0612:23:07(ET)
+",5,9,1,"['9c', '7s', '7h', '2s']",False,False
+39,40,3035636176,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:23:22(ET)
+",5,10.50,6,"['Jc', '2d', 'Ac', 'Jh', 'Kh']",False,False
+40,41,3035635776,HoldemNoLimit,1,REVERE DR,"2009-07-0612:23:22(ET)
+",9,6,3,"['10c', '8h', '2c', 'Ad', 'Jh']",False,False
+41,42,3035634146,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:23:28(ET)
+",6,112.20,2,"['Kd', 'Jd', '6s', '2d', 'Qs']",False,False
+42,43,3035636400,HoldemNoLimit,1,SENECA DR,"2009-07-0612:23:49(ET)
+",5,3,2,,False,False
+43,44,3035635684,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:23:59(ET)
+",5,51,2,"['Jc', 'Kh', '6h', 'Ks', '5s']",False,False
+44,45,3035637960,HoldemNoLimit,1,MARION AVE,"2009-07-0612:24:11(ET)
+",8,8,7,,False,False
+45,46,3035635892,HoldemNoLimit,1,PEARL DR,"2009-07-0612:24:15(ET)
+",9,21,9,"['4d', '9d', 'Qd', '9s', 'Ac']",False,False
+46,47,3035635846,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:24:16(ET)
+",6,56,3,"['Js', '6h', '9h', '4s', 'Ah']",False,False
+47,48,3035638314,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:24:18(ET)
+",6,1.50,1,,False,False
+48,49,3035637500,HoldemNoLimit,1,SENECA DR,"2009-07-0612:24:19(ET)
+",5,2.50,4,,False,False
+49,50,3035637270,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:24:41(ET)
+",5,51,3,"['6h', 'Jh', '5s', '9h', '8h']",False,False
+50,51,3035639256,HoldemNoLimit,1,MARION AVE,"2009-07-0612:24:41(ET)
+",9,3,8,"['4d', '9c', 'Jd']",False,False
+51,52,3035638282,HoldemNoLimit,1,SENECA DR,"2009-07-0612:24:42(ET)
+",5,14,5,"['10s', 'Qc', 'Qd', '6c', '9s']",False,False
+52,53,3035639262,HoldemNoLimit,1,REVERE DR,"2009-07-0612:24:47(ET)
+",9,11.50,4,,False,False
+53,54,3035639572,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:24:49(ET)
+",5,2,2,,False,False
+54,55,3035637756,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:25:07(ET)
+",6,7.50,4,"['6c', 'Kc', '3s', '10']",False,False
+55,56,3035638076,HoldemNoLimit,1,PEARL DR,"2009-07-0612:25:15(ET)
+",9,8.50,1,"['8d', '6d', '5h']",False,False
+56,57,3035640706,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:25:16(ET)
+",6,5,3,"['8s', '10h', '10']",False,False
+57,58,3035639978,HoldemNoLimit,1,SENECA DR,"2009-07-0612:25:30(ET)
+",5,1.50,6,,False,False
+58,59,3035638934,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:25:39(ET)
+",5,3.50,5,,False,False
+59,60,3035640430,HoldemNoLimit,1,SENECA DR,"2009-07-0612:25:42(ET)
+",5,2.50,1,,False,False
+60,61,3035639580,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:25:46(ET)
+",6,48,4,"['8c', 'Jd', 'Kh', '7s', '9c']",False,False
+61,62,3035641986,HoldemNoLimit,1,REVERE DR,"2009-07-0612:25:48(ET)
+",8,12,5,"['10s', '6c', 'Kh']",False,False
+62,63,3035641084,HoldemNoLimit,1,SENECA DR,"2009-07-0612:25:59(ET)
+",5,2,2,,False,False
+63,64,3035642586,HoldemNoLimit,1,MARION AVE,"2009-07-0612:26:01(ET)
+",9,9,9,"['Jh', '7c', '10']",False,False
+64,65,3035642698,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:26:04(ET)
+",6,6,4,"['Kd', '6c', '6d']",False,False
+65,66,3035640106,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:26:10(ET)
+",6,2.50,6,,False,False
+66,67,3035640166,HoldemNoLimit,1,PEARL DR,"2009-07-0612:26:11(ET)
+",9,8.50,2,"['5h', 'Jd', '2c', '6d']",False,False
+67,68,3035641976,HoldemNoLimit,1,SENECA DR,"2009-07-0612:26:24(ET)
+",6,3,4,,False,False
+68,69,3035643622,HoldemNoLimit,1,REVERE DR,"2009-07-0612:26:25(ET)
+",8,1.50,6,,False,False
+69,70,3035643922,HoldemNoLimit,1,MARION AVE,"2009-07-0612:26:33(ET)
+",9,4.50,1,"['8c', '7h', '7c', '8d']",False,False
+70,71,3035641032,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:26:34(ET)
+",5,10,1,"['Qd', '7c', '10c', '10d', '4c']",False,False
+71,72,3035641646,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:26:40(ET)
+",6,1.50,5,,False,False
+72,73,3035644610,HoldemNoLimit,1,REVERE DR,"2009-07-0612:26:49(ET)
+",9,16,7,"['7h', '6s', '2h']",False,False
+73,74,3035644798,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:26:54(ET)
+",6,8,5,"['2d', '9d', '2h']",False,False
+74,75,3035642322,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:26:58(ET)
+",6,10,6,"['9h', 'Js', '5c', 'Qh', '3h']",False,False
+75,76,3035642014,HoldemNoLimit,1,PEARL DR,"2009-07-0612:27:00(ET)
+",9,47.40,3,"['8h', 'Qd', '2h', '4h', '6c']",False,False
+76,77,3035642428,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:27:11(ET)
+",5,4,2,"['Kd', '3h', '7h']",False,False
+77,78,3035643846,HoldemNoLimit,1,SENECA DR,"2009-07-0612:27:14(ET)
+",4,37,5,"['8s', 'Qd', '10d', '6c', '4c']",False,False
+78,79,3035645972,HoldemNoLimit,1,MARION AVE,"2009-07-0612:27:23(ET)
+",9,20,2,"['2s', '3d', 'Ah', '7h', '2h']",False,False
+79,80,3035643806,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:27:39(ET)
+",6,2.50,1,,False,False
+80,81,3035646764,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:27:42(ET)
+",6,2.50,6,,False,False
+81,82,3035645022,HoldemNoLimit,1,SENECA DR,"2009-07-0612:27:46(ET)
+",4,1.50,6,,False,False
+82,83,3035643752,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:27:47(ET)
+",6,42.50,3,"['Ac', 'Ks', 'Qs', '5h', '4h']",False,False
+83,84,3035643756,HoldemNoLimit,1,PEARL DR,"2009-07-0612:27:49(ET)
+",8,4.50,4,,False,False
+84,85,3035647404,HoldemNoLimit,1,REVERE DR,"2009-07-0612:27:53(ET)
+",9,1.50,8,,False,False
+85,86,3035645534,HoldemNoLimit,1,SENECA DR,"2009-07-0612:28:01(ET)
+",3,2,1,,False,False
+86,87,3035644942,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:28:09(ET)
+",6,18.50,2,"['Qd', '9c', '3h', '7h', 'Qh']",False,False
+87,88,3035648088,HoldemNoLimit,1,REVERE DR,"2009-07-0612:28:10(ET)
+",9,25,9,"['7h', '4h', 'Kd']",False,False
+88,89,3035646020,HoldemNoLimit,1,SENECA DR,"2009-07-0612:28:14(ET)
+",3,1.50,2,,False,False
+89,90,3035648274,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:28:20(ET)
+",6,2.50,1,"['6d', '3h', '5s', '9s', 'As']",False,False
+90,91,3035646374,HoldemNoLimit,1,SENECA DR,"2009-07-0612:28:23(ET)
+",3,2.50,5,,False,False
+91,92,3035645284,HoldemNoLimit,1,PEARL DR,"2009-07-0612:28:28(ET)
+",8,2.50,5,,False,False
+92,93,3035648804,HoldemNoLimit,1,MARION AVE,"2009-07-0612:28:33(ET)
+",9,24,3,"['6d', 'Ac', 'Jd', '8h', '10']",False,False
+93,94,3035646830,HoldemNoLimit,1,SENECA DR,"2009-07-0612:28:36(ET)
+",3,2.50,6,,False,False
+94,95,3035646290,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:28:46(ET)
+",6,15.50,3,"['10d', '2d', '6c', '6s', '6h']",False,False
+95,96,3035649442,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:28:50(ET)
+",6,7.50,2,"['5d', '4s', '5s']",False,False
+96,97,3035647364,HoldemNoLimit,1,SENECA DR,"2009-07-0612:28:51(ET)
+",3,2,1,,False,False
+97,98,3035646202,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:28:53(ET)
+",6,2.50,4,"['7c', 'Qc', '9h', '10d', '2s']",False,False
+98,99,3035650076,HoldemNoLimit,1,REVERE DR,"2009-07-0612:28:55(ET)
+",9,3,1,"['Kc', '4d', '6s', 'Qh']",False,False
+99,100,3035646482,HoldemNoLimit,1,PEARL DR,"2009-07-0612:29:00(ET)
+",8,6,6,"['2c', '8s', 'Jc']",False,False
+100,101,3035648124,HoldemNoLimit,1,SENECA DR,"2009-07-0612:29:13(ET)
+",3,7,5,"['9c', 'Jd', '5c']",False,False
+101,102,3035647828,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:29:28(ET)
+",6,7.50,4,"['Qh', '6s', '4s', 'As']",False,False
+102,103,3035647680,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:29:31(ET)
+",6,1.50,5,,False,False
+103,104,3035648806,HoldemNoLimit,1,SENECA DR,"2009-07-0612:29:32(ET)
+",3,3,6,,False,False
+104,105,3035651080,HoldemNoLimit,1,MARION AVE,"2009-07-0612:29:34(ET)
+",8,14,4,"['5d', 'Ks', 'Kd', '5h', 'As']",False,False
+105,106,3035651692,HoldemNoLimit,1,REVERE DR,"2009-07-0612:29:34(ET)
+",9,5.50,2,"['7d', '9h', '10s', '5d', '10']",False,False
+106,107,3035651372,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:29:38(ET)
+",6,2.50,3,"['3s', 'Jc', '4s']",False,False
+107,108,3035648122,HoldemNoLimit,1,PEARL DR,"2009-07-0612:29:44(ET)
+",8,11,7,"['4d', '10c', '2s']",False,False
+108,109,3035649394,HoldemNoLimit,1,SENECA DR,"2009-07-0612:29:51(ET)
+",2,1.50,5,,False,False
+109,110,3035648440,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:29:52(ET)
+",6,1.50,6,,False,False
+110,111,3035648848,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:29:57(ET)
+",6,2,5,,False,False
+111,112,3035649662,HoldemNoLimit,1,SENECA DR,"2009-07-0612:29:58(ET)
+",2,6,1,"['Ad', '5c', 'Kh', '7d', '9s']",False,False
+112,113,3035648984,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:30:09(ET)
+",6,18,1,"['10s', '4s', 'Kc', 'Qc']",False,False
+113,114,3035652826,HoldemNoLimit,1,MARION AVE,"2009-07-0612:30:14(ET)
+",8,5,5,"['8c', '2s', '6c']",False,False
+114,115,3035653464,HoldemNoLimit,1,REVERE DR,"2009-07-0612:30:15(ET)
+",9,4,3,"['7c', 'Kh', '2h']",False,False
+115,116,3035653176,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:30:24(ET)
+",6,18.50,4,"['Qd', 'Ks', '2s', 'Js', 'Jd']",False,False
+116,117,3035650078,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:30:29(ET)
+",6,8.50,6,"['3c', '8s', '8d', '5c', 'Ac']",False,False
+117,118,3035655104,HoldemNoLimit,1,REVERE DR,"2009-07-0612:30:51(ET)
+",9,14,4,"['4c', '6h', '5d', 'Qs']",False,False
+118,119,3035650708,HoldemNoLimit,1,PEARL DR,"2009-07-0612:30:55(ET)
+",7,2.50,8,,False,False
+119,120,3035654668,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:31:00(ET)
+",6,3,5,"['Kc', '7d', '4s', 'As']",False,False
+120,121,3035650934,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:31:01(ET)
+",6,41,2,"['4d', '7d', '6d', '7c', 'Ac']",False,False
+121,122,3035652180,HoldemNoLimit,1,SENECA DR,"2009-07-0612:31:04(ET)
+",2,1.50,4,,False,False
+122,123,3035654910,HoldemNoLimit,1,MARION AVE,"2009-07-0612:31:06(ET)
+",9,4,6,,False,False
+123,124,3035652420,HoldemNoLimit,1,SENECA DR,"2009-07-0612:31:11(ET)
+",2,1.50,1,,False,False
+124,125,3035651858,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:31:17(ET)
+",6,4,1,"['9c', 'Kd', '7c']",False,False
+125,126,3035651680,HoldemNoLimit,1,PEARL DR,"2009-07-0612:31:21(ET)
+",7,12,9,"['5d', '3d', '10c', '6h']",False,False
+126,127,3035652942,HoldemNoLimit,1,SENECA DR,"2009-07-0612:31:26(ET)
+",2,2,4,"['2c', 'Jc', 'Ad', '10d', '4c']",False,False
+127,128,3035656016,HoldemNoLimit,1,MARION AVE,"2009-07-0612:31:33(ET)
+",9,17.50,7,"['3c', '10d', '7s', '7h']",False,False
+128,129,3035657280,HoldemNoLimit,1,REVERE DR,"2009-07-0612:31:39(ET)
+",9,2.50,5,"['3s', '3h', 'Qd']",False,False
+129,130,3035656692,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:31:47(ET)
+",6,2.50,6,,False,False
+130,131,3035653056,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:31:57(ET)
+",6,13.50,3,"['5h', '4s', '7s', 'Jh']",False,False
+131,132,3035653422,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:31:59(ET)
+",6,3.50,2,"['Js', '3c', '4s', '9h', 'Kc']",False,False
+132,133,3035657588,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:32:08(ET)
+",6,2.50,1,,False,False
+133,134,3035654746,HoldemNoLimit,1,SENECA DR,"2009-07-0612:32:14(ET)
+",2,1.50,1,,False,False
+134,135,3035655004,HoldemNoLimit,1,SENECA DR,"2009-07-0612:32:20(ET)
+",2,16,4,"['7c', '8s', '4c', '9h', 'Qc']",False,False
+135,136,3035659460,HoldemNoLimit,1,REVERE DR,"2009-07-0612:32:27(ET)
+",8,9,6,"['3h', '7c', '6d']",False,False
+136,137,3035658546,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:32:30(ET)
+",6,32,2,"['7d', '4s', '6s', 'Js', '9s']",False,False
+137,138,3035658618,HoldemNoLimit,1,MARION AVE,"2009-07-0612:32:32(ET)
+",8,1.50,8,,False,False
+138,139,3035654412,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:32:33(ET)
+",6,4,4,"['Qd', '4d', '2s']",False,False
+139,140,3035655348,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:32:50(ET)
+",6,2.50,3,,False,False
+140,141,3035656752,HoldemNoLimit,1,SENECA DR,"2009-07-0612:33:06(ET)
+",2,1.50,1,,False,False
+141,142,3035655736,HoldemNoLimit,1,PEARL DR,"2009-07-0612:33:08(ET)
+",8,3.50,2,,False,False
+142,143,3035656968,HoldemNoLimit,1,SENECA DR,"2009-07-0612:33:11(ET)
+",2,4,4,"['5h', '3s', '2s', '6d', '6h']",False,False
+143,144,3035656166,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:33:11(ET)
+",6,2,4,"['7c', '5c', '2d']",False,False
+144,145,3035660242,HoldemNoLimit,1,MARION AVE,"2009-07-0612:33:13(ET)
+",8,6.50,9,"['9s', 'Kc', 'Qh']",False,False
+145,146,3035661720,HoldemNoLimit,1,REVERE DR,"2009-07-0612:33:16(ET)
+",8,5,8,"['5h', '2d', '3h', '7h']",False,False
+146,147,3035660772,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:33:24(ET)
+",6,2,3,,False,False
+147,148,3035656810,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:33:36(ET)
+",6,2.50,5,,False,False
+148,149,3035656932,HoldemNoLimit,1,PEARL DR,"2009-07-0612:33:39(ET)
+",9,18.50,4,"['7h', '10s', '8c']",False,False
+149,150,3035658052,HoldemNoLimit,1,SENECA DR,"2009-07-0612:33:40(ET)
+",2,2,1,,False,False
+150,151,3035663362,HoldemNoLimit,1,REVERE DR,"2009-07-0612:33:53(ET)
+",8,16.50,9,"['5d', '7s', '4d']",False,False
+151,152,3035662034,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:33:53(ET)
+",6,8,4,"['Kh', 'Kd', '9c', '3s', '2d']",False,False
+152,153,3035657736,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:33:59(ET)
+",6,14,6,"['7s', 'Ah', '9d']",False,False
+153,154,3035658944,HoldemNoLimit,1,SENECA DR,"2009-07-0612:34:02(ET)
+",2,2,4,,False,False
+154,155,3035662436,HoldemNoLimit,1,MARION AVE,"2009-07-0612:34:03(ET)
+",9,36,2,"['9d', 'Ad', '10d', 'As', '9h']",False,False
+155,156,3035659210,HoldemNoLimit,1,SENECA DR,"2009-07-0612:34:11(ET)
+",3,4.50,4,"['8s', '10d', 'Kh', '6h', 'Qc']",False,False
+156,157,3035658594,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:34:12(ET)
+",6,43,5,"['8h', 'Js', '7c', '9d', '10']",False,False
+157,158,3035658620,HoldemNoLimit,1,PEARL DR,"2009-07-0612:34:24(ET)
+",9,7.50,5,"['7s', '9d', '3d', '6h', '3c']",False,False
+158,159,3035658774,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:34:28(ET)
+",6,24.50,1,"['4h', 'Qc', '7c', '5h']",False,False
+159,160,3035660326,HoldemNoLimit,1,SENECA DR,"2009-07-0612:34:41(ET)
+",3,8,1,"['5h', '9s', '7d']",False,False
+160,161,3035664460,HoldemNoLimit,1,MARION AVE,"2009-07-0612:34:48(ET)
+",9,3,3,"['As', '5d', 'Ah']",False,False
+161,162,3035666000,HoldemNoLimit,1,REVERE DR,"2009-07-0612:34:49(ET)
+",7,1.50,1,,False,False
+162,163,3035664834,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:34:57(ET)
+",6,21,5,"['Jd', '9s', '3h', '2h', '9c']",False,False
+163,164,3035666552,HoldemNoLimit,1,REVERE DR,"2009-07-0612:35:03(ET)
+",7,7.50,2,"['Qd', '4c', '6h', 'Ad']",False,False
+164,165,3035661298,HoldemNoLimit,1,SENECA DR,"2009-07-0612:35:05(ET)
+",3,1.50,3,,False,False
+165,166,3035660710,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:35:07(ET)
+",5,56.50,6,"['4d', '5h', '10c', '3c']",False,False
+166,167,3035660334,HoldemNoLimit,1,PEARL DR,"2009-07-0612:35:11(ET)
+",9,1.50,6,,False,False
+167,168,3035660388,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:35:12(ET)
+",6,3,2,"['Qh', 'Ah', 'Jd', '8d']",False,False
+168,169,3035661628,HoldemNoLimit,1,SENECA DR,"2009-07-0612:35:14(ET)
+",3,7,4,"['Ks', '4s', '7d', '6d']",False,False
+169,170,3035665850,HoldemNoLimit,1,MARION AVE,"2009-07-0612:35:20(ET)
+",9,2.50,4,"['10c', '9d', '7s', '6h', '10']",False,False
+170,171,3035668222,HoldemNoLimit,1,REVERE DR,"2009-07-0612:35:40(ET)
+",7,10.50,3,"['10d', '5d', '8h', '2s', '9c']",False,False
+171,172,3035661870,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:35:51(ET)
+",6,22.50,3,"['3c', 'Kc', 'Kd']",False,False
+172,173,3035663080,HoldemNoLimit,1,SENECA DR,"2009-07-0612:35:52(ET)
+",3,2.50,1,,False,False
+173,174,3035662242,HoldemNoLimit,1,PEARL DR,"2009-07-0612:36:00(ET)
+",9,10,7,"['8s', '10h', 'Qd', 'Kc', '5d']",False,False
+174,175,3035667586,HoldemNoLimit,1,MARION AVE,"2009-07-0612:36:01(ET)
+",9,2,5,"['Js', '7c', '8d']",False,False
+175,176,3035663888,HoldemNoLimit,1,SENECA DR,"2009-07-0612:36:10(ET)
+",3,2.50,3,,False,False
+176,177,3035663618,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:36:20(ET)
+",5,60,1,"['9h', '10h', 'Ks', '7s', 'Jd']",False,False
+177,178,3035668538,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:36:21(ET)
+",6,2,6,,False,False
+178,179,3035670040,HoldemNoLimit,1,REVERE DR,"2009-07-0612:36:22(ET)
+",8,3.50,5,,False,False
+179,180,3035668928,HoldemNoLimit,1,MARION AVE,"2009-07-0612:36:30(ET)
+",8,4.50,6,,False,False
+180,181,3035664556,HoldemNoLimit,1,SENECA DR,"2009-07-0612:36:30(ET)
+",3,12,4,"['9h', '2d', '7d']",False,False
+181,182,3035663540,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:36:34(ET)
+",6,1.50,4,,False,False
+182,183,3035669520,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:36:45(ET)
+",6,15,1,"['3c', '9c', 'Qs']",False,False
+183,184,3035664266,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:36:54(ET)
+",6,6.50,5,"['Qc', '6s', 'Jh']",False,False
+184,185,3035665242,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:37:02(ET)
+",5,2.50,2,,False,False
+185,186,3035670214,HoldemNoLimit,1,MARION AVE,"2009-07-0612:37:02(ET)
+",8,3,7,,False,False
+186,187,3035671914,HoldemNoLimit,1,REVERE DR,"2009-07-0612:37:06(ET)
+",8,3,6,"['8c', '8d', 'Ah']",False,False
+187,188,3035665770,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:37:15(ET)
+",5,10.50,3,"['Qd', '8s', '8h']",False,False
+188,189,3035671218,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:37:25(ET)
+",6,32,2,"['3d', '9h', 'Jc', 'Qh', '6d']",False,False
+189,190,3035671320,HoldemNoLimit,1,MARION AVE,"2009-07-0612:37:28(ET)
+",8,7.50,8,"['9h', '7s', '4d']",False,False
+190,191,3035666826,HoldemNoLimit,1,SENECA DR,"2009-07-0612:37:30(ET)
+",3,2,1,"['Ac', '9c', '7h']",False,False
+191,192,3035665946,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:37:38(ET)
+",6,17.50,6,"['5c', '7h', '5d', '6d', 'Ac']",False,False
+192,193,3035673638,HoldemNoLimit,1,REVERE DR,"2009-07-0612:37:43(ET)
+",8,11,8,"['Js', '2h', 'Qs', '7s', '2s']",False,False
+193,194,3035666290,HoldemNoLimit,1,PEARL DR,"2009-07-0612:37:47(ET)
+",9,6,8,"['10s', '10c', '2s']",False,False
+194,195,3035672478,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:37:55(ET)
+",6,2.50,3,"['Kh', '5c', '2h']",False,False
+195,196,3035668046,HoldemNoLimit,1,SENECA DR,"2009-07-0612:38:02(ET)
+",3,3,3,"['6d', 'Ad', '5d']",False,False
+196,197,3035667640,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:38:05(ET)
+",6,8,4,"['6h', '2c', 'Ks']",False,False
+197,198,3035673056,HoldemNoLimit,1,MARION AVE,"2009-07-0612:38:11(ET)
+",8,6.50,9,"['Kc', '10d', '3c']",False,False
+198,199,3035667592,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:38:21(ET)
+",6,9.50,1,"['7c', '6d', '3d']",False,False
+199,200,3035669402,HoldemNoLimit,1,SENECA DR,"2009-07-0612:38:39(ET)
+",3,1.50,4,,False,False
+200,201,3035674586,HoldemNoLimit,1,MARION AVE,"2009-07-0612:38:45(ET)
+",9,4,1,"['Jc', '4h', '7s']",False,False
+201,202,3035668734,HoldemNoLimit,1,PEARL DR,"2009-07-0612:38:51(ET)
+",9,19.50,9,"['8c', '6h', 'Jh', '9s', 'Kh']",False,False
+202,203,3035674894,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:38:51(ET)
+",6,4,4,"['7s', '2s', '8d']",False,False
+203,204,3035669910,HoldemNoLimit,1,SENECA DR,"2009-07-0612:38:54(ET)
+",3,2.50,1,,False,False
+204,205,3035669774,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:39:00(ET)
+",6,3,5,"['5s', '3c', 'Qd']",False,False
+205,206,3035669076,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:39:00(ET)
+",6,16,2,"['4h', '3c', '9c']",False,False
+206,207,3035670358,HoldemNoLimit,1,SENECA DR,"2009-07-0612:39:06(ET)
+",3,2,3,"['Ks', '8c', '6c']",False,False
+207,208,3035670932,HoldemNoLimit,1,SENECA DR,"2009-07-0612:39:22(ET)
+",3,1.50,4,,False,False
+208,209,3035671252,HoldemNoLimit,1,SENECA DR,"2009-07-0612:39:30(ET)
+",3,2,1,"['Qd', '2d', '5h']",False,False
+209,210,3035678230,HoldemNoLimit,1,REVERE DR,"2009-07-0612:39:30(ET)
+",7,5.50,9,"['3c', '8d', '3d', '5d']",False,False
+210,211,3035676486,HoldemNoLimit,1,MARION AVE,"2009-07-0612:39:30(ET)
+",9,4.50,2,,False,False
+211,212,3035671542,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:39:46(ET)
+",6,40.50,6,"['Jh', '3s', '5h', '8h', '5c']",False,False
+212,213,3035677458,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:39:53(ET)
+",6,18,5,"['9c', '2h', 'Ad']",False,False
+213,214,3035672034,HoldemNoLimit,1,SENECA DR,"2009-07-0612:39:53(ET)
+",3,2.50,3,"['3c', '7d', '4d']",False,False
+214,215,3035671138,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:39:55(ET)
+",6,9,3,"['7h', '9d', '6c', '5d']",False,False
+215,216,3035678008,HoldemNoLimit,1,MARION AVE,"2009-07-0612:40:06(ET)
+",9,3,3,"['Jd', '8h', 'Ks']",False,False
+216,217,3035672788,HoldemNoLimit,1,SENECA DR,"2009-07-0612:40:13(ET)
+",3,6.50,4,"['8h', '5d', 'Ac', '8d']",False,False
+217,218,3035680578,HoldemNoLimit,1,REVERE DR,"2009-07-0612:40:23(ET)
+",7,3,1,"['3c', '7s', 'Jh', 'Ks']",False,False
+218,219,3035672214,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:40:25(ET)
+",6,15,4,"['4h', '10c', '9h', '5c', '9c']",False,False
+219,220,3035678872,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:40:27(ET)
+",6,8,6,"['3c', '9c', '9d', '4d', 'Kh']",False,False
+220,221,3035673238,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:40:30(ET)
+",6,2.50,1,,False,False
+221,222,3035673564,HoldemNoLimit,1,SENECA DR,"2009-07-0612:40:33(ET)
+",3,2,1,"['Kc', '9d', '5d', 'Jd', '4c']",False,False
+222,223,3035672718,HoldemNoLimit,1,PEARL DR,"2009-07-0612:40:38(ET)
+",9,3,1,"['6d', '10c', '6c', 'Ks', '8c']",False,False
+223,224,3035679480,HoldemNoLimit,1,MARION AVE,"2009-07-0612:40:40(ET)
+",9,4,4,"['4s', '8c', '5c', 'Ad']",False,False
+224,225,3035674332,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:40:58(ET)
+",6,2.50,2,"['5c', '7c', '8c']",False,False
+225,226,3035674756,HoldemNoLimit,1,SENECA DR,"2009-07-0612:41:06(ET)
+",3,3,3,"['Js', '8c', '2s']",False,False
+226,227,3035682802,HoldemNoLimit,1,REVERE DR,"2009-07-0612:41:10(ET)
+",8,15.50,3,"['10d', '6s', 'Qh', 'Jc', 'Js']",False,False
+227,228,3035673954,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:41:11(ET)
+",6,13.50,5,"['Kh', '5d', '4h']",False,False
+228,229,3035681074,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:41:18(ET)
+",5,8,1,"['Qd', '8h', 'Kd']",False,False
+229,230,3035675366,HoldemNoLimit,1,SENECA DR,"2009-07-0612:41:22(ET)
+",3,1.50,4,,False,False
+230,231,3035681308,HoldemNoLimit,1,MARION AVE,"2009-07-0612:41:23(ET)
+",8,10,5,"['Ad', '10c', 'Qc', '4c', '10']",False,False
+231,232,3035675558,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:41:29(ET)
+",6,106,3,"['6c', 'As', '5h', '8d', '4h']",False,False
+232,233,3035675808,HoldemNoLimit,1,SENECA DR,"2009-07-0612:41:34(ET)
+",4,1.50,1,,False,False
+233,234,3035682058,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:41:40(ET)
+",5,10.50,2,"['2s', 'Kc', '6h', 'Qd', '8d']",False,False
+234,235,3035675288,HoldemNoLimit,1,PEARL DR,"2009-07-0612:41:46(ET)
+",9,7,2,"['4s', '9c', '4h']",False,False
+235,236,3035675328,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:41:47(ET)
+",6,68,6,"['6h', 'Js', '4s', '7d', '9d']",False,False
+236,237,3035676254,HoldemNoLimit,1,SENECA DR,"2009-07-0612:41:48(ET)
+",4,5,3,"['Jd', '10d', '9h', '4s', 'Ac']",False,False
+237,238,3035683218,HoldemNoLimit,1,MARION AVE,"2009-07-0612:42:07(ET)
+",7,8.50,6,"['10s', '2d', 'Js', '10']",False,False
+238,239,3035685908,HoldemNoLimit,1,REVERE DR,"2009-07-0612:42:23(ET)
+",7,2.50,4,"['7c', '10s', '9d', '2d', '4c']",False,False
+239,240,3035684324,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:42:35(ET)
+",5,2.50,3,,False,False
+240,241,3035677228,HoldemNoLimit,1,PEARL DR,"2009-07-0612:42:40(ET)
+",9,5.50,3,"['4d', '10d', '5c']",False,False
+241,242,3035678432,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:42:48(ET)
+",6,8,4,"['Ac', '4d', '10']",False,False
+242,243,3035677530,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:42:50(ET)
+",5,30,1,"['8d', 'Ah', '5s', '2h', 'Kh']",False,False
+243,244,3035684976,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:42:52(ET)
+",5,18.50,4,"['4s', '6s', '2c', '2s', '10']",False,False
+244,245,3035687238,HoldemNoLimit,1,REVERE DR,"2009-07-0612:42:55(ET)
+",7,10.50,5,"['Jc', 'Jh', '10']",False,False
+245,246,3035678706,HoldemNoLimit,1,SENECA DR,"2009-07-0612:42:57(ET)
+",3,2.50,4,,False,False
+246,247,3035685208,HoldemNoLimit,1,MARION AVE,"2009-07-0612:42:58(ET)
+",8,3,9,"['Ac', '4c', 'Jh']",False,False
+247,248,3035679138,HoldemNoLimit,1,SENECA DR,"2009-07-0612:43:07(ET)
+",3,2,1,"['10h', '4d', '10c', '2s', 'Ks']",False,False
+248,249,3035680104,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:43:31(ET)
+",5,26,5,"['Jh', '7d', '8c', 'Jc']",False,False
+249,250,3035680130,HoldemNoLimit,1,SENECA DR,"2009-07-0612:43:33(ET)
+",3,2,3,"['Js', '5c', '6c']",False,False
+250,251,3035679178,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:43:33(ET)
+",4,6.50,2,"['4d', '3s', '10']",False,False
+251,252,3035688870,HoldemNoLimit,1,REVERE DR,"2009-07-0612:43:36(ET)
+",7,3,6,"['7h', 'Kc', '4s', '3h']",False,False
+252,253,3035679520,HoldemNoLimit,1,PEARL DR,"2009-07-0612:43:42(ET)
+",8,7.50,4,"['Qd', '7d', '9c']",False,False
+253,254,3035687034,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:43:42(ET)
+",6,2,6,,False,False
+254,255,3035687596,HoldemNoLimit,1,MARION AVE,"2009-07-0612:43:57(ET)
+",7,17.50,1,"['5s', '9s', 'Qc', 'Kd', 'Ah']",False,False
+255,256,3035681342,HoldemNoLimit,1,SENECA DR,"2009-07-0612:44:04(ET)
+",3,6.50,4,"['10d', '10h', 'Js', '4d']",False,False
+256,257,3035680356,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:44:06(ET)
+",5,1.50,4,,False,False
+257,258,3035690378,HoldemNoLimit,1,REVERE DR,"2009-07-0612:44:09(ET)
+",7,15,8,"['7c', '7d', '3c', '6c', '5s']",False,False
+258,259,3035681968,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:44:18(ET)
+",5,2.50,6,,False,False
+259,260,3035680870,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:44:20(ET)
+",4,17.50,6,"['Qc', 'Qs', '10h', '8s', 'As']",False,False
+260,261,3035688616,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:44:23(ET)
+",4,25,1,"['Jc', '5h', '10s', '5d', '8d']",False,False
+261,262,3035682064,HoldemNoLimit,1,SENECA DR,"2009-07-0612:44:24(ET)
+",3,2,1,,False,False
+262,263,3035681498,HoldemNoLimit,1,PEARL DR,"2009-07-0612:44:36(ET)
+",8,4,6,"['4c', 'Jd', '2c']",False,False
+263,264,3035682966,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:44:44(ET)
+",5,2.50,2,,False,False
+264,265,3035692294,HoldemNoLimit,1,REVERE DR,"2009-07-0612:44:54(ET)
+",9,3.50,9,,False,False
+265,266,3035690220,HoldemNoLimit,1,MARION AVE,"2009-07-0612:45:01(ET)
+",7,13,2,"['3h', 'Jh', '4h']",False,False
+266,267,3035683694,HoldemNoLimit,1,SENECA DR,"2009-07-0612:45:07(ET)
+",4,3,3,"['5d', '5h', 'Qh', '7s']",False,False
+267,268,3035683858,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:45:09(ET)
+",5,2.50,3,,False,False
+268,269,3035682920,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:45:14(ET)
+",5,2.50,1,,False,False
+269,270,3035683580,HoldemNoLimit,1,PEARL DR,"2009-07-0612:45:32(ET)
+",8,3,7,"['8h', 'Jd', '3c']",False,False
+270,271,3035693912,HoldemNoLimit,1,REVERE DR,"2009-07-0612:45:33(ET)
+",9,4,1,,False,False
+271,272,3035684820,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:45:35(ET)
+",6,8,4,"['Qc', '3h', '9d']",False,False
+272,273,3035683724,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:45:36(ET)
+",5,95,2,"['2c', '9d', '2h', 'Jh', 'Ad']",False,False
+273,274,3035691564,HoldemNoLimit,1,MARION AVE,"2009-07-0612:45:36(ET)
+",8,6.50,3,"['9h', '6c', '4s', '8s', 'Ah']",False,False
+274,275,3035691756,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:45:40(ET)
+",6,27.50,3,"['9d', '10h', '2h']",False,False
+275,276,3035685376,HoldemNoLimit,1,SENECA DR,"2009-07-0612:45:56(ET)
+",4,4,4,"['Kh', '8c', 'Qh']",False,False
+276,277,3035695466,HoldemNoLimit,1,REVERE DR,"2009-07-0612:46:08(ET)
+",9,12.50,2,"['2h', 'Js', '2c', '10h', '6s']",False,False
+277,278,3035686772,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:46:28(ET)
+",6,130,5,"['2h', '7h', 'Jd', 'Qd', '5c']",False,False
+278,279,3035686626,HoldemNoLimit,1,SENECA DR,"2009-07-0612:46:29(ET)
+",6,6,6,"['5c', 'Jh', '4h']",False,False
+279,280,3035685656,HoldemNoLimit,1,PEARL DR,"2009-07-0612:46:29(ET)
+",7,8,8,"['Kh', 'Kc', '4s', '10c', '10']",False,False
+280,281,3035693716,HoldemNoLimit,1,MARION AVE,"2009-07-0612:46:30(ET)
+",7,2.50,4,,False,False
+281,282,3035694300,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:46:44(ET)
+",4,1.50,4,,False,False
+282,283,3035694314,HoldemNoLimit,1,MARION AVE,"2009-07-0612:46:44(ET)
+",8,3.50,5,"['3s', '4d', '3c']",False,False
+283,284,3035694710,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:46:54(ET)
+",4,8.50,5,"['5d', '7d', '3c']",False,False
+284,285,3035687132,HoldemNoLimit,1,PEARL DR,"2009-07-0612:47:10(ET)
+",8,5.50,1,"['9c', 'Qc', '10']",False,False
+285,286,3035695574,HoldemNoLimit,1,MARION AVE,"2009-07-0612:47:15(ET)
+",9,2.50,6,,False,False
+286,287,3035688294,HoldemNoLimit,1,SENECA DR,"2009-07-0612:47:17(ET)
+",6,12.50,1,"['6c', 'As', '7h']",False,False
+287,288,3035687426,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:47:18(ET)
+",6,36,3,"['8c', 'Kc', '7c', '7h', 'Jd']",False,False
+288,289,3035695786,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:47:19(ET)
+",4,1.50,1,,False,False
+289,290,3035688792,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:47:25(ET)
+",5,1.50,6,,False,False
+290,291,3035696094,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:47:27(ET)
+",4,1.50,3,,False,False
+291,292,3035689312,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:47:39(ET)
+",5,2.50,1,,False,False
+292,293,3035699574,HoldemNoLimit,1,REVERE DR,"2009-07-0612:47:40(ET)
+",9,8,3,"['5s', '10h', '10']",False,False
+293,294,3035696628,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:47:41(ET)
+",4,2.50,4,,False,False
+294,295,3035696884,HoldemNoLimit,1,MARION AVE,"2009-07-0612:47:47(ET)
+",9,54,7,"['6c', 'Ks', '5d', '9d']",False,False
+295,296,3035689006,HoldemNoLimit,1,PEARL DR,"2009-07-0612:48:01(ET)
+",8,2.50,2,,False,False
+296,297,3035689960,HoldemNoLimit,1,SENECA DR,"2009-07-0612:48:02(ET)
+",6,68.72,2,"['As', '6c', 'Ad', '9s', '6d']",False,False
+297,298,3035689996,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:48:04(ET)
+",6,2.50,2,,False,False
+298,299,3035697808,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:48:10(ET)
+",4,2,5,"['8d', '8s', '10']",False,False
+299,300,3035689366,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:48:11(ET)
+",6,2.50,4,"['6h', '10d', '3h', '2s', 'As']",False,False
+300,301,3035690762,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:48:25(ET)
+",5,1.50,3,,False,False
+301,302,3035689872,HoldemNoLimit,1,PEARL DR,"2009-07-0612:48:26(ET)
+",8,4.50,3,"['Kc', '9c', '2h', '8h', 'Qh']",False,False
+302,303,3035698724,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:48:33(ET)
+",4,1.50,1,,False,False
+303,304,3035699116,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:48:42(ET)
+",4,9.50,3,"['As', '3d', 'Kd']",False,False
+304,305,3035699122,HoldemNoLimit,1,MARION AVE,"2009-07-0612:48:42(ET)
+",9,8.50,8,"['2d', '9h', 'Jh']",False,False
+305,306,3035702772,HoldemNoLimit,1,REVERE DR,"2009-07-0612:48:51(ET)
+",9,7.50,4,"['6c', '5h', '9h']",False,False
+306,307,3035691808,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:48:53(ET)
+",6,7,4,"['9d', '3c', '10c', '9s', '9c']",False,False
+307,308,3035691080,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:49:01(ET)
+",6,4,5,"['Kc', 'Jc', '6h']",False,False
+308,309,3035691264,HoldemNoLimit,1,PEARL DR,"2009-07-0612:49:06(ET)
+",8,4,4,"['9h', '9c', '3c']",False,False
+309,310,3035692394,HoldemNoLimit,1,SENECA DR,"2009-07-0612:49:07(ET)
+",5,13,3,"['2d', '3s', 'Jc']",False,False
+310,311,3035700428,HoldemNoLimit,1,MARION AVE,"2009-07-0612:49:13(ET)
+",9,3,9,"['4d', '10c', '4c', '10h', '8s']",False,False
+311,312,3035704166,HoldemNoLimit,1,REVERE DR,"2009-07-0612:49:24(ET)
+",9,7.50,5,"['8h', '8c', 'Qc']",False,False
+312,313,3035701356,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:49:36(ET)
+",4,2.50,4,,False,False
+313,314,3035692748,HoldemNoLimit,1,PEARL DR,"2009-07-0612:49:46(ET)
+",8,4,6,"['10c', '2h', '5c', '8d']",False,False
+314,315,3035692898,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:49:51(ET)
+",6,4,6,"['2s', '9c', '10d', '8c', 'Ac']",False,False
+315,316,3035694048,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:49:55(ET)
+",6,2.50,5,,False,False
+316,317,3035705742,HoldemNoLimit,1,REVERE DR,"2009-07-0612:49:59(ET)
+",9,7,6,"['Kd', '10s', '10']",False,False
+317,318,3035694402,HoldemNoLimit,1,SENECA DR,"2009-07-0612:50:01(ET)
+",6,48,4,"['2c', '4c', '5h', '6h', '5d']",False,False
+318,319,3035702348,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:50:01(ET)
+",4,7.50,5,"['Ad', '3d', 'Js']",False,False
+319,320,3035703048,HoldemNoLimit,1,MARION AVE,"2009-07-0612:50:17(ET)
+",9,8,1,"['10h', '2d', '3h', 'Ah', '6c']",False,False
+320,321,3035693952,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:50:19(ET)
+",6,8,1,"['Ad', 'Qd', '7c', 'Ks']",False,False
+321,322,3035703416,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:50:27(ET)
+",5,6.50,1,"['10h', '2h', 'Qc']",False,False
+322,323,3035694264,HoldemNoLimit,1,PEARL DR,"2009-07-0612:50:29(ET)
+",8,3.50,7,"['9h', '7s', '4c', 'Ks', 'Jh']",False,False
+323,324,3035707752,HoldemNoLimit,1,REVERE DR,"2009-07-0612:50:39(ET)
+",8,19,7,"['10c', '9c', 'Kc', '9h', '4h']",False,False
+324,325,3035704462,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:50:52(ET)
+",4,24,3,"['3d', '10s', '4s']",False,False
+325,326,3035695614,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:51:05(ET)
+",6,2.50,2,,False,False
+326,327,3035697018,HoldemNoLimit,1,SENECA DR,"2009-07-0612:51:09(ET)
+",5,2.50,5,,False,False
+327,328,3035695972,HoldemNoLimit,1,PEARL DR,"2009-07-0612:51:15(ET)
+",9,3,8,"['8d', '8c', 'Jd', '7d', '4s']",False,False
+328,329,3035696210,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:51:22(ET)
+",6,2.50,3,"['2d', '6s', '9c']",False,False
+329,330,3035697850,HoldemNoLimit,1,SENECA DR,"2009-07-0612:51:32(ET)
+",5,33.70,6,"['10s', '6c', '8s', '8d', 'Kd']",False,False
+330,331,3035706436,HoldemNoLimit,1,MARION AVE,"2009-07-0612:51:39(ET)
+",9,10,4,"['4c', '5d', 'Jd', '4s']",False,False
+331,332,3035697198,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:51:48(ET)
+",6,54,4,"['Jd', 'As', '8h', '7c', '10']",False,False
+332,333,3035711228,HoldemNoLimit,1,REVERE DR,"2009-07-0612:51:52(ET)
+",8,12,8,"['Ks', '6s', '8s', 'Kd', '4c']",False,False
+333,334,3035698246,HoldemNoLimit,1,PEARL DR,"2009-07-0612:52:17(ET)
+",8,9.50,9,"['3h', 'Js', '6c']",False,False
+334,335,3035708498,HoldemNoLimit,1,MARION AVE,"2009-07-0612:52:27(ET)
+",9,3,5,"['5s', '5c', '6h']",False,False
+335,336,3035700126,HoldemNoLimit,1,SENECA DR,"2009-07-0612:52:34(ET)
+",5,2,1,,False,False
+336,337,3035713990,HoldemNoLimit,1,REVERE DR,"2009-07-0612:52:56(ET)
+",8,6,1,"['10h', 'Ks', '8h', 'Jc', '8d']",False,False
+337,338,3035709896,HoldemNoLimit,1,MARION AVE,"2009-07-0612:52:59(ET)
+",9,2,6,,False,False
+338,339,3035701230,HoldemNoLimit,1,SENECA DR,"2009-07-0612:53:00(ET)
+",6,4,2,,False,False
+339,340,3035700354,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:53:13(ET)
+",6,9.50,5,"['Jc', '2h', '4d', '8c', '6d']",False,False
+340,341,3035710634,HoldemNoLimit,1,MARION AVE,"2009-07-0612:53:17(ET)
+",9,19,7,"['10d', '10s', 'Js', 'Jh', '3c']",False,False
+341,342,3035715588,HoldemNoLimit,1,REVERE DR,"2009-07-0612:53:30(ET)
+",8,3.50,2,,False,False
+342,343,3035701066,HoldemNoLimit,1,PEARL DR,"2009-07-0612:53:32(ET)
+",8,7,1,"['Qh', '6c', '7d']",False,False
+343,344,3035702704,HoldemNoLimit,1,SENECA DR,"2009-07-0612:53:39(ET)
+",6,3,3,"['10s', '4c', '9h', '7s']",False,False
+344,345,3035712530,HoldemNoLimit,1,MARION AVE,"2009-07-0612:54:05(ET)
+",9,1.50,8,,False,False
+345,346,3035717260,HoldemNoLimit,1,REVERE DR,"2009-07-0612:54:07(ET)
+",8,3.50,3,,False,False
+346,347,3035702756,HoldemNoLimit,1,PEARL DR,"2009-07-0612:54:16(ET)
+",9,22.50,2,"['10h', 'Ks', '4c']",False,False
+347,348,3035702750,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:54:16(ET)
+",6,18,6,"['Ks', '7h', '9c', '6c', 'Kd']",False,False
+348,349,3035713040,HoldemNoLimit,1,MARION AVE,"2009-07-0612:54:18(ET)
+",9,2.50,9,,False,False
+349,350,3035718264,HoldemNoLimit,1,REVERE DR,"2009-07-0612:54:29(ET)
+",8,10.50,4,"['Qs', 'Qc', '10']",False,False
+350,351,3035705028,HoldemNoLimit,1,SENECA DR,"2009-07-0612:54:40(ET)
+",6,2,4,"['9h', '2c', 'Jc']",False,False
+351,352,3035704108,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:54:52(ET)
+",6,48,1,"['9s', 'Qc', '8d', '9h', '5s']",False,False
+352,353,3035706018,HoldemNoLimit,1,SENECA DR,"2009-07-0612:55:05(ET)
+",6,7,5,"['Kd', '5d', '10s', '10h', 'Jd']",False,False
+353,354,3035720000,HoldemNoLimit,1,REVERE DR,"2009-07-0612:55:06(ET)
+",9,5,5,"['7s', 'Ah', '6d', '6c']",False,False
+354,355,3035705078,HoldemNoLimit,1,PEARL DR,"2009-07-0612:55:18(ET)
+",9,3.50,3,"['6s', '5s', '10']",False,False
+355,356,3035715726,HoldemNoLimit,1,MARION AVE,"2009-07-0612:55:20(ET)
+",9,2,2,"['Ad', '9c', '7h', '8c', 'Kh']",False,False
+356,357,3035716992,HoldemNoLimit,1,MARION AVE,"2009-07-0612:55:49(ET)
+",9,2.50,3,,False,False
+357,358,3035707894,HoldemNoLimit,1,SENECA DR,"2009-07-0612:55:51(ET)
+",6,11,6,"['8s', '7d', '5s', 'Ac', 'Kh']",False,False
+358,359,3035722560,HoldemNoLimit,1,REVERE DR,"2009-07-0612:56:03(ET)
+",8,9,6,"['4c', 'Kc', 'Js']",False,False
+359,360,3035718106,HoldemNoLimit,1,MARION AVE,"2009-07-0612:56:18(ET)
+",9,2.50,4,,False,False
+360,361,3035707654,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:56:25(ET)
+",6,2.50,2,"['6c', 'Jd', '10d', '3s', 'Ad']",False,False
+361,362,3035723788,HoldemNoLimit,1,REVERE DR,"2009-07-0612:56:29(ET)
+",8,7.50,7,"['4h', '2s', 'Js']",False,False
+362,363,3035709854,HoldemNoLimit,1,SENECA DR,"2009-07-0612:56:39(ET)
+",6,11,1,"['9d', '7s', 'Jd', '8s']",False,False
+363,364,3035719322,HoldemNoLimit,1,MARION AVE,"2009-07-0612:56:47(ET)
+",9,3.50,5,"['5d', '5h', '4s']",False,False
+364,365,3035725998,HoldemNoLimit,1,REVERE DR,"2009-07-0612:57:17(ET)
+",6,19,8,"['4c', 'Ah', '9h', '9c']",False,False
+365,366,3035711288,HoldemNoLimit,1,SENECA DR,"2009-07-0612:57:17(ET)
+",6,78.30,2,"['6s', '10d', 'Ks', 'Ac', '8h']",False,False
+366,367,3035721036,HoldemNoLimit,1,MARION AVE,"2009-07-0612:57:27(ET)
+",9,8.50,6,"['7d', '9s', '7h', 'Ad']",False,False
+367,368,3035711372,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:57:31(ET)
+",6,6.50,3,,False,False
+368,369,3035712416,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:58:01(ET)
+",6,2,4,"['8h', '10c', 'Js', '9c']",False,False
+369,370,3035711584,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:58:08(ET)
+",6,6,3,"['5c', 'Js', 'Jc', '2s', '6h']",False,False
+370,371,3035722880,HoldemNoLimit,1,MARION AVE,"2009-07-0612:58:11(ET)
+",9,36,7,"['8c', '3d', '7c', '3h', '6s']",False,False
+371,372,3035713406,HoldemNoLimit,1,SENECA DR,"2009-07-0612:58:17(ET)
+",6,6,3,"['5s', 'Js', '6d', '7c']",False,False
+372,373,3035729022,HoldemNoLimit,1,REVERE DR,"2009-07-0612:58:20(ET)
+",6,7,1,"['6s', '8c', 'As']",False,False
+373,374,3035713782,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:58:38(ET)
+",6,8.50,5,"['Kh', '9d', 'Qh']",False,False
+374,375,3035713242,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:58:52(ET)
+",6,2.50,4,,False,False
+375,376,3035715216,HoldemNoLimit,1,SENECA DR,"2009-07-0612:58:59(ET)
+",5,2,4,"['2d', 'Jd', '6h']",False,False
+376,377,3035714828,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:59:05(ET)
+",6,12.50,6,"['Qd', '4h', '2d']",False,False
+377,378,3035713852,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:59:09(ET)
+",6,4,5,"['2c', 'Ks', 'Jd']",False,False
+378,379,3035731528,HoldemNoLimit,1,REVERE DR,"2009-07-0612:59:17(ET)
+",7,7.50,2,"['Jc', 'Ac', 'Qc']",False,False
+379,380,3035716444,HoldemNoLimit,1,SENECA DR,"2009-07-0612:59:31(ET)
+",5,8,5,"['5s', '10h', 'Qc']",False,False
+380,381,3035726388,HoldemNoLimit,1,MARION AVE,"2009-07-0612:59:32(ET)
+",8,1.50,8,,False,False
+381,382,3035716170,HoldemNoLimit,1,GUAM AVE,"2009-07-0612:59:38(ET)
+",6,2,1,,False,False
+382,383,3035726726,HoldemNoLimit,1,AURELIA PL,"2009-07-0612:59:40(ET)
+",6,2.50,3,"['10h', '6d', '5h', '6s', 'As']",False,False
+383,384,3035726840,HoldemNoLimit,1,MARION AVE,"2009-07-0612:59:42(ET)
+",9,9,9,"['8c', '8d', '4d', '4c', 'As']",False,False
+384,385,3035715238,HoldemNoLimit,1,RIVER ROAD,"2009-07-0612:59:45(ET)
+",6,2.50,6,,False,False
+385,386,3035733514,HoldemNoLimit,1,REVERE DR,"2009-07-0613:00:00(ET)
+",6,3,3,,False,False
+386,387,3035717568,HoldemNoLimit,1,SENECA DR,"2009-07-0613:00:00(ET)
+",6,5.50,6,"['5d', '4h', 'Jc']",False,False
+387,388,3035715972,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:00:05(ET)
+",6,2.50,1,,False,False
+388,389,3035717326,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:00:08(ET)
+",6,10.50,2,"['Js', '7d', '10']",False,False
+389,390,3035728372,HoldemNoLimit,1,MARION AVE,"2009-07-0613:00:18(ET)
+",9,2.50,1,,False,False
+390,391,3035728656,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:00:25(ET)
+",6,3.50,4,"['8d', '6h', '8c', '2s', 'Kc']",False,False
+391,392,3035716988,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:00:31(ET)
+",6,2.50,2,,False,False
+392,393,3035718236,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:00:32(ET)
+",6,54,3,"['Jd', 'Ad', '4h', 'As', '3h']",False,False
+393,394,3035729248,HoldemNoLimit,1,MARION AVE,"2009-07-0613:00:40(ET)
+",9,4,2,"['6s', '9h', '5c']",False,False
+394,395,3035719512,HoldemNoLimit,1,SENECA DR,"2009-07-0613:00:50(ET)
+",6,18.50,1,"['10h', '4c', '4d']",False,False
+395,396,3035717904,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:00:57(ET)
+",6,3.50,3,,False,False
+396,397,3035736256,HoldemNoLimit,1,REVERE DR,"2009-07-0613:00:59(ET)
+",8,2.50,5,,False,False
+397,398,3035730648,HoldemNoLimit,1,MARION AVE,"2009-07-0613:01:14(ET)
+",9,3.50,3,,False,False
+398,399,3035721420,HoldemNoLimit,1,SENECA DR,"2009-07-0613:01:37(ET)
+",6,13.50,2,"['Kc', 'As', '4s', '10c', '9h']",False,False
+399,400,3035737976,HoldemNoLimit,1,REVERE DR,"2009-07-0613:01:38(ET)
+",7,22,6,"['10c', 'Jd', 'As', '3s']",False,False
+400,401,3035732098,HoldemNoLimit,1,MARION AVE,"2009-07-0613:01:48(ET)
+",8,7.50,4,"['Jh', '6s', '2h']",False,False
+401,402,3035719876,HoldemNoLimit,1,PEARL DR,"2009-07-0613:01:51(ET)
+",9,81.50,2,"['6d', 'Jh', '9c', 'Qd', '9d']",False,False
+402,403,3035740768,HoldemNoLimit,1,REVERE DR,"2009-07-0613:02:33(ET)
+",8,6.50,7,"['9c', '8s', '10']",False,False
+403,404,3035733980,HoldemNoLimit,1,MARION AVE,"2009-07-0613:02:34(ET)
+",8,3,6,"['Jd', '4s', '5s']",False,False
+404,405,3035724766,HoldemNoLimit,1,SENECA DR,"2009-07-0613:03:05(ET)
+",6,15,3,"['Kd', 'Qh', '10d', 'Ks', '6h']",False,False
+405,406,3035735646,HoldemNoLimit,1,MARION AVE,"2009-07-0613:03:15(ET)
+",8,36,7,"['3s', '6s', 'Kc', '9s']",False,False
+406,407,3035743612,HoldemNoLimit,1,REVERE DR,"2009-07-0613:03:29(ET)
+",9,3,8,"['Ad', '4s', '4h']",False,False
+407,408,3035726312,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:03:53(ET)
+",6,2.50,4,,False,False
+408,409,3035724638,HoldemNoLimit,1,PEARL DR,"2009-07-0613:03:58(ET)
+",9,2,3,"['9s', 'Jd', '3d', '3c']",False,False
+409,410,3035727032,HoldemNoLimit,1,SENECA DR,"2009-07-0613:04:00(ET)
+",6,2.50,4,,False,False
+410,411,3035727086,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:04:10(ET)
+",6,2.50,5,,False,False
+411,412,3035738068,HoldemNoLimit,1,MARION AVE,"2009-07-0613:04:13(ET)
+",9,3.50,8,"['Qc', '3s', '3c']",False,False
+412,413,3035745652,HoldemNoLimit,1,REVERE DR,"2009-07-0613:04:14(ET)
+",9,3,9,"['4d', 'Qd', 'Jc']",False,False
+413,414,3035727994,HoldemNoLimit,1,SENECA DR,"2009-07-0613:04:24(ET)
+",6,3,5,"['9c', '9d', 'Ac', '5d', 'Qd']",False,False
+414,415,3035728208,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:04:38(ET)
+",6,40,6,"['2c', 'Jd', '2s', '9h', '7h']",False,False
+415,416,3035739446,HoldemNoLimit,1,MARION AVE,"2009-07-0613:04:45(ET)
+",9,4,9,"['2d', '10s', '4c', '3c', 'Qs']",False,False
+416,417,3035747514,HoldemNoLimit,1,REVERE DR,"2009-07-0613:04:54(ET)
+",8,9.50,1,"['8c', '5d', 'Ad']",False,False
+417,418,3035726882,HoldemNoLimit,1,PEARL DR,"2009-07-0613:04:55(ET)
+",8,3,4,"['Ah', 'Qh', '8h']",False,False
+418,419,3035740400,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:05:06(ET)
+",6,21.50,4,"['5s', '7d', '8h', 'Kd', '4h']",False,False
+419,420,3035749078,HoldemNoLimit,1,REVERE DR,"2009-07-0613:05:29(ET)
+",8,48,2,"['6s', 'Ad', '2s', '5h', '10']",False,False
+420,421,3035730446,HoldemNoLimit,1,SENECA DR,"2009-07-0613:05:30(ET)
+",6,2.50,6,,False,False
+421,422,3035730458,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:05:36(ET)
+",6,2.50,1,,False,False
+422,423,3035742048,HoldemNoLimit,1,MARION AVE,"2009-07-0613:05:42(ET)
+",9,65.20,1,"['As', '2h', 'Qh', '4s', '6h']",False,False
+423,424,3035731082,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:05:52(ET)
+",6,8.50,2,,False,False
+424,425,3035742986,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:06:02(ET)
+",6,8,5,,False,False
+425,426,3035731708,HoldemNoLimit,1,SENECA DR,"2009-07-0613:06:03(ET)
+",6,3.50,1,"['4s', 'Kc', '5h', '6d', '2s']",False,False
+426,427,3035744256,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:06:34(ET)
+",6,2,6,"['Ks', 'Ah', '8d', '9c', 'Jh']",False,False
+427,428,3035752842,HoldemNoLimit,1,REVERE DR,"2009-07-0613:06:46(ET)
+",8,2.50,3,"['10s', 'Qc', 'Kc', 'Qd', '5h']",False,False
+428,429,3035733216,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:06:47(ET)
+",6,19,3,,False,False
+429,430,3035744928,HoldemNoLimit,1,MARION AVE,"2009-07-0613:06:51(ET)
+",8,11.50,2,"['10s', 'Qh', '8h', '8c']",False,False
+430,431,3035734120,HoldemNoLimit,1,SENECA DR,"2009-07-0613:07:06(ET)
+",6,13.50,2,"['Js', '4c', '9s']",False,False
+431,432,3035745712,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:07:08(ET)
+",6,3,1,"['7h', 'Ah', 'Ad', '8h', '5c']",False,False
+432,433,3035735102,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:07:33(ET)
+",6,2,4,"['4h', '5d', 'Ah']",False,False
+433,434,3035747096,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:07:40(ET)
+",6,1.50,2,,False,False
+434,435,3035747510,HoldemNoLimit,1,MARION AVE,"2009-07-0613:07:50(ET)
+",9,18.50,3,"['3d', '3s', 'Ks', '2h', 'Jd']",False,False
+435,436,3035755838,HoldemNoLimit,1,REVERE DR,"2009-07-0613:07:51(ET)
+",7,15.50,4,"['Ac', '8d', '3s', '9s']",False,False
+436,437,3035736166,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:08:00(ET)
+",6,2.50,5,"['Kd', '9c', '2d', '4h', 'Qh']",False,False
+437,438,3035747988,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:08:02(ET)
+",6,36,3,"['5c', '6c', '10h', 'Qs']",False,False
+438,439,3035736358,HoldemNoLimit,1,SENECA DR,"2009-07-0613:08:03(ET)
+",6,2.50,3,,False,False
+439,440,3035737284,HoldemNoLimit,1,SENECA DR,"2009-07-0613:08:29(ET)
+",6,41.14,4,"['10s', '10c', '9h', '4d', '5s']",False,False
+440,441,3035757884,HoldemNoLimit,1,REVERE DR,"2009-07-0613:08:31(ET)
+",7,27.50,5,"['5s', 'Qc', '5c', '6c', '3d']",False,False
+441,442,3035749782,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:08:47(ET)
+",6,3.50,4,,False,False
+442,443,3035738338,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:08:55(ET)
+",6,2.50,6,,False,False
+443,444,3035739180,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:09:14(ET)
+",6,2.50,1,,False,False
+444,445,3035750694,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:09:16(ET)
+",6,25.50,5,"['9h', '8h', 'Kc', '3c', 'Qc']",False,False
+445,446,3035760312,HoldemNoLimit,1,REVERE DR,"2009-07-0613:09:21(ET)
+",7,7.50,6,"['Ac', '4c', 'Qc']",False,False
+446,447,3035737528,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:09:32(ET)
+",6,18,4,"['Kd', 'Ac', '5h', '8c', '9d']",False,False
+447,448,3035751834,HoldemNoLimit,1,MARION AVE,"2009-07-0613:09:50(ET)
+",9,62,4,"['6d', '2c', '5h', 'Jd']",False,False
+448,449,3035761656,HoldemNoLimit,1,REVERE DR,"2009-07-0613:09:50(ET)
+",7,13.50,7,"['6h', 'Jh', '5c', '9s', 'Qc']",False,False
+449,450,3035739114,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:10:14(ET)
+",6,2,5,,False,False
+450,451,3035763580,HoldemNoLimit,1,REVERE DR,"2009-07-0613:10:30(ET)
+",6,2,9,"['8h', '2h', '8s', '5d', '5h']",False,False
+451,452,3035753278,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:10:32(ET)
+",5,2,6,"['2h', 'Jd', 'Qs', '8s', 'Js']",False,False
+452,453,3035739946,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:10:33(ET)
+",6,8.50,2,"['Qh', '6s', '3h']",False,False
+453,454,3035765234,HoldemNoLimit,1,REVERE DR,"2009-07-0613:11:06(ET)
+",6,6.50,2,"['5s', '8h', '6d']",False,False
+454,455,3035741128,HoldemNoLimit,1,PEARL DR,"2009-07-0613:11:06(ET)
+",9,2.50,2,"['9d', '6c', 'Kd', '2d', 'Jd']",False,False
+455,456,3035741710,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:11:14(ET)
+",6,44.50,3,"['8h', '9s', '8d', '2s', '9c']",False,False
+456,457,3035754998,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:11:20(ET)
+",5,2.50,1,,False,False
+457,458,3035755396,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:11:30(ET)
+",5,2.50,3,,False,False
+458,459,3035755930,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:11:43(ET)
+",5,2.50,4,,False,False
+459,460,3035767100,HoldemNoLimit,1,REVERE DR,"2009-07-0613:11:44(ET)
+",6,33,3,"['6d', '7h', 'Qd', '8h', '4d']",False,False
+460,461,3035757264,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:12:13(ET)
+",5,6.50,5,"['2c', 'Kh', 'Qc']",False,False
+461,462,3035744478,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:12:24(ET)
+",6,2,4,,False,False
+462,463,3035769414,HoldemNoLimit,1,REVERE DR,"2009-07-0613:12:34(ET)
+",7,4.50,5,"['Qd', '5d', 'Jd']",False,False
+463,464,3035745176,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:12:42(ET)
+",6,1.50,5,,False,False
+464,465,3035758586,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:12:42(ET)
+",5,2.50,6,,False,False
+465,466,3035745446,HoldemNoLimit,1,PEARL DR,"2009-07-0613:12:59(ET)
+",9,23,3,"['5s', '8c', '8s', '2c']",False,False
+466,467,3035759408,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:13:02(ET)
+",5,24.50,1,"['8h', '10c', 'Ad', '2s']",False,False
+467,468,3035746240,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:13:08(ET)
+",6,25.50,6,"['Ad', '10d', '7d', '5d', '3h']",False,False
+468,469,3035771936,HoldemNoLimit,1,REVERE DR,"2009-07-0613:13:27(ET)
+",7,39,6,"['Ac', '7c', '9c', '6s', '10']",False,False
+469,470,3035760688,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:13:34(ET)
+",5,42.50,3,"['3d', '4h', '8c', '2h', 'Jd']",False,False
+470,471,3035747198,HoldemNoLimit,1,PEARL DR,"2009-07-0613:13:46(ET)
+",9,2.50,4,,False,False
+471,472,3035748748,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:14:11(ET)
+",6,2,1,,False,False
+472,473,3035749710,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:14:35(ET)
+",6,2.50,2,,False,False
+473,474,3035775314,HoldemNoLimit,1,REVERE DR,"2009-07-0613:14:42(ET)
+",6,1.50,7,,False,False
+474,475,3035750496,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:14:52(ET)
+",6,2.50,3,,False,False
+475,476,3035776006,HoldemNoLimit,1,REVERE DR,"2009-07-0613:14:56(ET)
+",6,2.50,9,,False,False
+476,477,3035750998,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:15:06(ET)
+",6,2.50,4,,False,False
+477,478,3035776942,HoldemNoLimit,1,REVERE DR,"2009-07-0613:15:15(ET)
+",6,1.50,2,,False,False
+478,479,3035751756,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:15:24(ET)
+",6,46.50,5,"['2d', '7h', '4h', 'Kd']",False,False
+479,480,3035777980,HoldemNoLimit,1,REVERE DR,"2009-07-0613:15:35(ET)
+",6,12,3,"['Jh', 'Ah', 'Jd', '5s']",False,False
+480,481,3035751646,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:15:42(ET)
+",6,16,3,"['4c', '5s', '4s']",False,False
+481,482,3035752606,HoldemNoLimit,1,SENECA DR,"2009-07-0613:15:59(ET)
+",5,2.50,6,,False,False
+482,483,3035753222,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:16:00(ET)
+",6,1.50,6,,False,False
+483,484,3035753284,HoldemNoLimit,1,SENECA DR,"2009-07-0613:16:16(ET)
+",6,2.50,1,,False,False
+484,485,3035780478,HoldemNoLimit,1,REVERE DR,"2009-07-0613:16:25(ET)
+",6,25.50,4,"['5s', '9h', 'Qs']",False,False
+485,486,3035754724,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:16:38(ET)
+",6,2,1,,False,False
+486,487,3035754196,HoldemNoLimit,1,SENECA DR,"2009-07-0613:16:39(ET)
+",6,4.50,2,"['3s', '10h', '3h']",False,False
+487,488,3035782202,HoldemNoLimit,1,REVERE DR,"2009-07-0613:17:00(ET)
+",6,3,5,"['5c', '7h', '9h']",False,False
+488,489,3035754674,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:17:02(ET)
+",6,2.50,4,,False,False
+489,490,3035755714,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:17:04(ET)
+",6,13.50,2,"['10c', 'Qd', 'Qh']",False,False
+490,491,3035755750,HoldemNoLimit,1,SENECA DR,"2009-07-0613:17:20(ET)
+",6,2.50,3,,False,False
+491,492,3035755350,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:17:21(ET)
+",6,2.50,5,,False,False
+492,493,3035783290,HoldemNoLimit,1,REVERE DR,"2009-07-0613:17:22(ET)
+",6,45,7,"['4d', '5d', '7h', '10']",False,False
+493,494,3035756772,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:17:29(ET)
+",6,6.50,3,"['3s', 'Qh', 'Qs']",False,False
+494,495,3035756472,HoldemNoLimit,1,SENECA DR,"2009-07-0613:17:36(ET)
+",6,8.50,4,,False,False
+495,496,3035757426,HoldemNoLimit,1,SENECA DR,"2009-07-0613:17:58(ET)
+",6,1.50,5,,False,False
+496,497,3035756802,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:17:59(ET)
+",6,7.50,6,"['3h', '10d', '9d']",False,False
+497,498,3035758522,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:18:08(ET)
+",6,51,4,"['Qs', 'Kh', 'Ks', '5s', '6h']",False,False
+498,499,3035758170,HoldemNoLimit,1,SENECA DR,"2009-07-0613:18:15(ET)
+",6,11,6,"['Jd', '2s', '9s']",False,False
+499,500,3035757956,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:18:28(ET)
+",6,11.50,1,"['4d', '8s', '5d']",False,False
+500,501,3035759142,HoldemNoLimit,1,SENECA DR,"2009-07-0613:18:38(ET)
+",6,2.50,1,,False,False
+501,502,3035758832,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:18:51(ET)
+",6,26.50,2,"['2d', '8c', 'Kd', 'Ac', 'As']",False,False
+502,503,3035760382,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:18:54(ET)
+",6,8.50,5,"['10h', '4d', 'Qs']",False,False
+503,504,3035760256,HoldemNoLimit,1,SENECA DR,"2009-07-0613:19:07(ET)
+",6,11.50,2,"['Kd', '4h', '4c']",False,False
+504,505,3035761412,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:19:19(ET)
+",6,11,6,"['Qd', '6d', '6c']",False,False
+505,506,3035760374,HoldemNoLimit,1,PEARL DR,"2009-07-0613:19:31(ET)
+",9,8,2,"['4d', '9d', '7d']",False,False
+506,507,3035760402,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:19:32(ET)
+",6,2.50,3,"['8h', 'Ac', '5c', '10s', '6h']",False,False
+507,508,3035762774,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:19:54(ET)
+",6,8.50,1,,False,False
+508,509,3035762736,HoldemNoLimit,1,SENECA DR,"2009-07-0613:20:10(ET)
+",6,1.50,3,,False,False
+509,510,3035763826,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:20:17(ET)
+",6,396,2,"['10h', '7s', 'Ks', '3s', '2c']",False,False
+510,511,3035762160,HoldemNoLimit,1,PEARL DR,"2009-07-0613:20:19(ET)
+",9,2,3,"['6d', '2c', 'Ah']",False,False
+511,512,3035762250,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:20:21(ET)
+",6,1.50,4,,False,False
+512,513,3035763076,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:20:42(ET)
+",5,6,5,"['8s', '10d', '6s', '4s', '10']",False,False
+513,514,3035763616,HoldemNoLimit,1,PEARL DR,"2009-07-0613:20:54(ET)
+",9,20.50,4,"['3d', '8c', 'As']",False,False
+514,515,3035764872,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:21:27(ET)
+",5,8,6,"['2h', '9h', '7s', 'Qh', '10']",False,False
+515,516,3035766978,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:21:34(ET)
+",6,2,3,,False,False
+516,517,3035767782,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:21:52(ET)
+",6,2.50,4,,False,False
+517,518,3035766114,HoldemNoLimit,1,PEARL DR,"2009-07-0613:21:58(ET)
+",9,2.50,5,,False,False
+518,519,3035768514,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:22:12(ET)
+",6,21,5,"['3s', '9c', 'As']",False,False
+519,520,3035767050,HoldemNoLimit,1,PEARL DR,"2009-07-0613:22:22(ET)
+",9,2,6,"['Qs', '5h', '5c', 'Ks', '6s']",False,False
+520,521,3035767234,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:22:27(ET)
+",5,1.50,3,,False,False
+521,522,3035767998,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:22:45(ET)
+",5,24.50,4,"['10h', 'Qc', '2d', 'Qd', 'Ad']",False,False
+522,523,3035770034,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:22:47(ET)
+",6,50,6,"['Qc', '8c', '3c', '7h']",False,False
+523,524,3035769488,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:23:25(ET)
+",6,2,5,"['8d', '2c', 'Qd', '6d', 'Jc']",False,False
+524,525,3035769522,HoldemNoLimit,1,PEARL DR,"2009-07-0613:23:26(ET)
+",9,179,7,"['4c', 'Qd', '8h', '10s', 'Jd']",False,False
+525,526,3035773106,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:24:02(ET)
+",6,45,1,"['7s', 'Jd', '10d', '8c']",False,False
+526,527,3035775248,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:24:56(ET)
+",6,24.50,2,"['8s', 'Jc', '3h', '2c', '3c']",False,False
+527,528,3035773062,HoldemNoLimit,1,PEARL DR,"2009-07-0613:24:56(ET)
+",9,43,8,"['5s', '7d', 'Qh', '8c', '9c']",False,False
+528,529,3035772116,HoldemNoLimit,1,MARION AVE,"2009-07-0613:24:59(ET)
+",8,25,2,"['2c', '9h', '4h', '6c', 'Kc']",False,False
+529,530,3035775472,HoldemNoLimit,1,SENECA DR,"2009-07-0613:25:23(ET)
+",6,81,6,"['Js', '3c', '2d', '4d', '4c']",False,False
+530,531,3035774478,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:26:06(ET)
+",5,2.50,1,,False,False
+531,532,3035775864,HoldemNoLimit,1,PEARL DR,"2009-07-0613:26:12(ET)
+",9,1.50,9,,False,False
+532,533,3035775100,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:26:26(ET)
+",5,1.50,3,,False,False
+533,534,3035778288,HoldemNoLimit,1,SENECA DR,"2009-07-0613:26:29(ET)
+",5,7,1,,False,False
+534,535,3035776636,HoldemNoLimit,1,PEARL DR,"2009-07-0613:26:32(ET)
+",9,10,1,"['6h', 'Jc', 'As', 'Kh', '2c']",False,False
+535,536,3035775756,HoldemNoLimit,1,MARION AVE,"2009-07-0613:26:45(ET)
+",8,2.50,3,"['Qc', '6s', 'Qh', '8c']",False,False
+536,537,3035775832,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:26:46(ET)
+",5,9,4,"['6s', '7c', 'Kc']",False,False
+537,538,3035779384,HoldemNoLimit,1,SENECA DR,"2009-07-0613:26:56(ET)
+",5,20,2,"['Qc', '3h', '2s']",False,False
+538,539,3035777462,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:27:32(ET)
+",5,8,5,,False,False
+539,540,3035781062,HoldemNoLimit,1,SENECA DR,"2009-07-0613:27:34(ET)
+",5,2,4,,False,False
+540,541,3035778120,HoldemNoLimit,1,MARION AVE,"2009-07-0613:27:51(ET)
+",8,2.50,4,"['9h', '4s', '8c', '6c']",False,False
+541,542,3035781788,HoldemNoLimit,1,SENECA DR,"2009-07-0613:27:53(ET)
+",5,1.50,5,,False,False
+542,543,3035778980,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:28:11(ET)
+",5,1.50,6,,False,False
+543,544,3035782598,HoldemNoLimit,1,SENECA DR,"2009-07-0613:28:11(ET)
+",5,4.50,6,"['10s', 'Kc', '9s']",False,False
+544,545,3035780684,HoldemNoLimit,1,PEARL DR,"2009-07-0613:28:16(ET)
+",9,2.50,2,"['2h', 'Kh', 'Qd', '4c', '9h']",False,False
+545,546,3035780520,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:28:53(ET)
+",5,8.50,1,,False,False
+546,547,3035784682,HoldemNoLimit,1,SENECA DR,"2009-07-0613:28:57(ET)
+",5,7.50,1,,False,False
+547,548,3035781718,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:29:30(ET)
+",6,1.50,3,,False,False
+548,549,3035782592,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:29:55(ET)
+",4,2,4,,False,False
+549,550,3035784510,HoldemNoLimit,1,PEARL DR,"2009-07-0613:29:58(ET)
+",9,10,3,"['Qs', '3s', '6c', '2c', '6s']",False,False
+550,551,3035782744,HoldemNoLimit,1,MARION AVE,"2009-07-0613:29:59(ET)
+",9,4,6,"['2c', 'Jc', '2d', '6c']",False,False
+551,552,3035783522,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:30:19(ET)
+",5,14,5,"['9c', '10s', '10']",False,False
+552,553,3035786034,HoldemNoLimit,1,SENECA DR,"2009-07-0613:30:30(ET)
+",6,2.50,3,,False,False
+553,554,3035784632,HoldemNoLimit,1,MARION AVE,"2009-07-0613:30:47(ET)
+",8,30.50,7,"['4h', '5s', '4c']",False,False
+554,555,3035786554,HoldemNoLimit,1,REVERE DR,"2009-07-0613:30:50(ET)
+",6,4,9,"['2c', '7s', 'Jh']",False,False
+555,556,3035786904,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:31:00(ET)
+",6,2,1,,False,False
+556,557,3035785258,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:31:04(ET)
+",6,2.50,1,,False,False
+557,558,3035787660,HoldemNoLimit,1,SENECA DR,"2009-07-0613:31:12(ET)
+",5,1.50,4,,False,False
+558,559,3035787368,HoldemNoLimit,1,PEARL DR,"2009-07-0613:31:13(ET)
+",9,11.50,4,"['4d', '4h', '5c']",False,False
+559,560,3035788500,HoldemNoLimit,1,SENECA DR,"2009-07-0613:31:30(ET)
+",5,2.50,5,,False,False
+560,561,3035788188,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:31:33(ET)
+",6,2.50,2,,False,False
+561,562,3035789288,HoldemNoLimit,1,SENECA DR,"2009-07-0613:31:48(ET)
+",6,2.50,6,,False,False
+562,563,3035789326,HoldemNoLimit,1,REVERE DR,"2009-07-0613:31:48(ET)
+",5,1.50,2,,False,False
+563,564,3035787258,HoldemNoLimit,1,MARION AVE,"2009-07-0613:31:58(ET)
+",8,2.50,8,,False,False
+564,565,3035789844,HoldemNoLimit,1,REVERE DR,"2009-07-0613:31:59(ET)
+",5,3,5,"['8c', 'Ks', '2d', '5h', 'Kh']",False,False
+565,566,3035789650,HoldemNoLimit,1,PEARL DR,"2009-07-0613:32:10(ET)
+",9,2.50,5,"['Ad', '5s', '3h', '7d', '6c']",False,False
+566,567,3035789916,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:32:16(ET)
+",6,44.50,3,"['6c', '7d', 'Kd', '9d', '10']",False,False
+567,568,3035788454,HoldemNoLimit,1,MARION AVE,"2009-07-0613:32:29(ET)
+",9,11.50,9,"['5d', '6h', '10']",False,False
+568,569,3035793046,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:32:56(ET)
+",5,2.50,1,,False,False
+569,570,3035793654,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:33:11(ET)
+",6,30,2,"['6s', '2s', '5h', '7d']",False,False
+570,571,3035790286,HoldemNoLimit,1,MARION AVE,"2009-07-0613:33:16(ET)
+",9,47,1,"['4c', '5h', 'Jc', '8c', '9d']",False,False
+571,572,3035794864,HoldemNoLimit,1,REVERE DR,"2009-07-0613:33:45(ET)
+",5,2.50,9,,False,False
+572,573,3035795282,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:33:51(ET)
+",6,2.50,3,,False,False
+573,574,3035793886,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:33:59(ET)
+",6,1.50,4,,False,False
+574,575,3035795698,HoldemNoLimit,1,REVERE DR,"2009-07-0613:34:03(ET)
+",5,4,2,,False,False
+575,576,3035792492,HoldemNoLimit,1,MARION AVE,"2009-07-0613:34:11(ET)
+",9,2,2,,False,False
+576,577,3035794672,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:34:20(ET)
+",5,2,5,,False,False
+577,578,3035796642,HoldemNoLimit,1,REVERE DR,"2009-07-0613:34:23(ET)
+",5,3.50,5,,False,False
+578,579,3035796852,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:34:28(ET)
+",6,1.50,4,,False,False
+579,580,3035797398,HoldemNoLimit,1,REVERE DR,"2009-07-0613:34:38(ET)
+",5,10.50,6,"['Qs', 'As', 'Jd']",False,False
+580,581,3035793722,HoldemNoLimit,1,MARION AVE,"2009-07-0613:34:44(ET)
+",9,2.50,3,,False,False
+581,582,3035798188,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:34:58(ET)
+",6,16,5,"['8h', '2d', '5c', '2h']",False,False
+582,583,3035796164,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:34:59(ET)
+",5,2.50,6,,False,False
+583,584,3035799176,HoldemNoLimit,1,REVERE DR,"2009-07-0613:35:15(ET)
+",5,15,7,"['8c', '10s', '6h', 'Ad', '8s']",False,False
+584,585,3035800612,HoldemNoLimit,1,REVERE DR,"2009-07-0613:35:48(ET)
+",5,9,9,"['4s', '7s', 'Qd', '9h', '3h']",False,False
+585,586,3035800418,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:35:50(ET)
+",6,197.50,6,"['6h', '4h', '4c', '5d', 'Ac']",False,False
+586,587,3035801168,HoldemNoLimit,1,SENECA DR,"2009-07-0613:36:29(ET)
+",4,2.50,3,,False,False
+587,588,3035803414,HoldemNoLimit,1,REVERE DR,"2009-07-0613:36:45(ET)
+",6,4,2,"['2s', '7d', '4c', 'Jc', 'Ks']",False,False
+588,589,3035802272,HoldemNoLimit,1,SENECA DR,"2009-07-0613:36:51(ET)
+",4,51,5,"['6d', '4s', '3d', '10']",False,False
+589,590,3035803666,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:37:06(ET)
+",6,2,1,,False,False
+590,591,3035804598,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:37:30(ET)
+",6,19.50,2,"['4d', 'Ah', '10c', '5d']",False,False
+591,592,3035804888,HoldemNoLimit,1,SENECA DR,"2009-07-0613:37:52(ET)
+",5,2.50,1,,False,False
+592,593,3035805654,HoldemNoLimit,1,SENECA DR,"2009-07-0613:38:10(ET)
+",4,1.50,2,,False,False
+593,594,3035806774,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:38:18(ET)
+",6,10.50,3,"['3h', '3d', 'Jd']",False,False
+594,595,3035806590,HoldemNoLimit,1,SENECA DR,"2009-07-0613:38:30(ET)
+",5,2,3,,False,False
+595,596,3035807784,HoldemNoLimit,1,SENECA DR,"2009-07-0613:38:58(ET)
+",4,38.50,5,"['2h', '7c', '3c', 'Qc', 'Kd']",False,False
+596,597,3035804054,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:39:05(ET)
+",6,2.50,2,,False,False
+597,598,3035804672,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:39:20(ET)
+",6,7,3,"['2s', '10h', 'Ks']",False,False
+598,599,3035810206,HoldemNoLimit,1,SENECA DR,"2009-07-0613:39:54(ET)
+",5,2.50,1,,False,False
+599,600,3035806102,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:39:55(ET)
+",6,22.50,4,"['Jd', 'Js', '8c']",False,False
+600,601,3035808428,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:40:01(ET)
+",6,10,4,"['5c', '5s', '6h', 'Ac']",False,False
+601,602,3035811316,HoldemNoLimit,1,SENECA DR,"2009-07-0613:40:21(ET)
+",5,22.50,2,"['6h', 'Jd', '10s', 'Js', 'Kd']",False,False
+602,603,3035808356,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:40:50(ET)
+",6,1.50,5,,False,False
+603,604,3035810546,HoldemNoLimit,1,PEARL DR,"2009-07-0613:40:57(ET)
+",8,2,8,"['10c', '9s', '7h']",False,False
+604,605,3035809154,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:41:10(ET)
+",6,45.50,6,"['3d', 'Jh', '7c', 'Qd']",False,False
+605,606,3035811394,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:41:11(ET)
+",6,10.50,5,"['Jc', '6c', 'Ac', '2h', '3d']",False,False
+606,607,3035813882,HoldemNoLimit,1,SENECA DR,"2009-07-0613:41:21(ET)
+",6,2.50,3,,False,False
+607,608,3035810018,HoldemNoLimit,1,MARION AVE,"2009-07-0613:41:33(ET)
+",9,2.50,1,,False,False
+608,609,3035814582,HoldemNoLimit,1,SENECA DR,"2009-07-0613:41:36(ET)
+",6,1.50,4,,False,False
+609,610,3035813150,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:41:54(ET)
+",6,2.50,6,,False,False
+610,611,3035811270,HoldemNoLimit,1,MARION AVE,"2009-07-0613:42:05(ET)
+",9,2.50,2,,False,False
+611,612,3035816198,HoldemNoLimit,1,SENECA DR,"2009-07-0613:42:12(ET)
+",6,8,5,"['9d', '2s', '8d', 'Ad', '4h']",False,False
+612,613,3035812664,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:42:39(ET)
+",6,6.50,1,"['5d', 'Qs', '3s']",False,False
+613,614,3035813116,HoldemNoLimit,1,MARION AVE,"2009-07-0613:42:51(ET)
+",9,1.50,3,,False,False
+614,615,3035820992,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:42:57(ET)
+",9,133.30,6,"['4s', '2c', '4c', '8h', '5h']",False,False
+615,616,3035815378,HoldemNoLimit,1,RIVER ROAD,"2009-07-0613:42:58(ET)
+",2,18,2,,False,False
+616,617,3035814184,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:43:17(ET)
+",5,151.50,2,"['6h', '4s', 'Ah', '4h', 'Jc']",False,False
+617,618,3035814374,HoldemNoLimit,1,MARION AVE,"2009-07-0613:43:22(ET)
+",9,1.50,4,,False,False
+618,619,3035815088,HoldemNoLimit,1,MARION AVE,"2009-07-0613:43:38(ET)
+",9,11.16,5,"['7c', 'Ks', '4d']",False,False
+619,620,3035824132,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:44:05(ET)
+",9,7.50,7,"['Kd', '6h', 'Qd']",False,False
+620,621,3035816840,HoldemNoLimit,1,MARION AVE,"2009-07-0613:44:24(ET)
+",9,3,6,"['4c', 'Kd', 'Ah']",False,False
+621,622,3035826274,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:44:51(ET)
+",9,30.50,8,"['3d', '6s', '7h', 'Jh', '10']",False,False
+622,623,3035817980,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:44:52(ET)
+",5,1.50,3,,False,False
+623,624,3035818486,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:45:05(ET)
+",5,43,4,"['Js', 'Qh', '7d', '9d', '2c']",False,False
+624,625,3035818582,HoldemNoLimit,1,MARION AVE,"2009-07-0613:45:07(ET)
+",9,13,7,"['7d', 'Ah', '9d', '2c', '5d']",False,False
+625,626,3035829390,HoldemNoLimit,1,REVERE DR,"2009-07-0613:46:03(ET)
+",8,20.50,5,"['5h', 'Jc', '9d', '2c', '7h']",False,False
+626,627,3035821520,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:46:19(ET)
+",5,2.50,6,"['4d', '2c', '4c', '10']",False,False
+627,628,3035830124,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:46:20(ET)
+",9,13.50,9,"['8c', '8h', 'As', '8s', 'Qs']",False,False
+628,629,3035821594,HoldemNoLimit,1,MARION AVE,"2009-07-0613:46:21(ET)
+",9,7.50,8,"['4c', 'Qs', 'As', '4h', '6c']",False,False
+629,630,3035831778,HoldemNoLimit,1,REVERE DR,"2009-07-0613:46:56(ET)
+",8,12,6,"['Kh', '6d', 'Jc', '8s', 'Jh']",False,False
+630,631,3035823028,HoldemNoLimit,1,MARION AVE,"2009-07-0613:46:57(ET)
+",9,2.50,9,,False,False
+631,632,3035823792,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:47:15(ET)
+",5,7.50,1,"['As', '6h', '2d']",False,False
+632,633,3035827624,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:47:25(ET)
+",6,2.50,5,,False,False
+633,634,3035828250,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:47:42(ET)
+",6,2.50,6,,False,False
+634,635,3035825060,HoldemNoLimit,1,MARION AVE,"2009-07-0613:47:48(ET)
+",9,2,1,,False,False
+635,636,3035825232,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:47:51(ET)
+",5,2,2,"['4d', '6s', '10']",False,False
+636,637,3035829072,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:48:02(ET)
+",6,51,1,"['4h', 'As', '7c', '4c', 'Ks']",False,False
+637,638,3035835430,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:48:07(ET)
+",9,108,1,"['As', '9d', '10c', '4h', '8s']",False,False
+638,639,3035826004,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:48:11(ET)
+",5,12,3,"['6s', '4c', '8h']",False,False
+639,640,3035835552,HoldemNoLimit,1,REVERE DR,"2009-07-0613:48:11(ET)
+",8,42.60,7,"['Qh', 'Ac', 'Kd', '9d', '6h']",False,False
+640,641,3035826284,HoldemNoLimit,1,MARION AVE,"2009-07-0613:48:17(ET)
+",9,3,2,"['4c', '8d', 'Ac']",False,False
+641,642,3035826998,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:48:35(ET)
+",5,28,4,"['10c', '5d', '10s', '5s', 'Qc']",False,False
+642,643,3035831138,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:48:51(ET)
+",6,2.50,2,,False,False
+643,644,3035830052,HoldemNoLimit,1,PEARL DR,"2009-07-0613:49:04(ET)
+",7,1.50,9,,False,False
+644,645,3035828360,HoldemNoLimit,1,MARION AVE,"2009-07-0613:49:09(ET)
+",9,3,3,"['3s', '4c', '8d']",False,False
+645,646,3035832346,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:49:19(ET)
+",6,2.50,3,,False,False
+646,647,3035830768,HoldemNoLimit,1,PEARL DR,"2009-07-0613:49:22(ET)
+",7,2.50,1,,False,False
+647,648,3035839324,HoldemNoLimit,1,REVERE DR,"2009-07-0613:49:27(ET)
+",8,20,8,"['Ks', '8h', 'Qs', '8d', '2c']",False,False
+648,649,3035829350,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:49:35(ET)
+",6,2.50,6,,False,False
+649,650,3035833182,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:49:35(ET)
+",5,6,4,"['8s', '3h', 'Jd', 'Kd']",False,False
+650,651,3035831802,HoldemNoLimit,1,PEARL DR,"2009-07-0613:49:46(ET)
+",7,1.50,4,,False,False
+651,652,3035833210,HoldemNoLimit,1,SENECA DR,"2009-07-0613:49:54(ET)
+",6,2.50,6,,False,False
+652,653,3035830240,HoldemNoLimit,1,MARION AVE,"2009-07-0613:49:58(ET)
+",9,2.50,4,,False,False
+653,654,3035830388,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:50:01(ET)
+",5,7.30,1,"['6c', '4c', '10']",False,False
+654,655,3035834420,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:50:02(ET)
+",5,7.50,5,"['2h', '5h', '4h', '6s', '3h']",False,False
+655,656,3035841204,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:50:02(ET)
+",9,20.40,2,"['2h', '3c', '10c', '2c', '6s']",False,False
+656,657,3035832488,HoldemNoLimit,1,PEARL DR,"2009-07-0613:50:05(ET)
+",7,4.50,5,"['9c', '7c', '5c']",False,False
+657,658,3035834120,HoldemNoLimit,1,SENECA DR,"2009-07-0613:50:22(ET)
+",6,8.50,1,,False,False
+658,659,3035831466,HoldemNoLimit,1,MARION AVE,"2009-07-0613:50:28(ET)
+",9,2,5,,False,False
+659,660,3035836094,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:50:36(ET)
+",6,14.50,1,"['10c', '5s', '6c']",False,False
+660,661,3035833994,HoldemNoLimit,1,PEARL DR,"2009-07-0613:50:42(ET)
+",8,7,6,"['6s', '8d', '2h', '7c']",False,False
+661,662,3035843882,HoldemNoLimit,1,REVERE DR,"2009-07-0613:50:51(ET)
+",8,11.50,9,"['2d', 'As', '3d']",False,False
+662,663,3035832532,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:50:55(ET)
+",5,2.50,2,,False,False
+663,664,3035832576,HoldemNoLimit,1,MARION AVE,"2009-07-0613:50:56(ET)
+",9,2.50,6,,False,False
+664,665,3035835442,HoldemNoLimit,1,SENECA DR,"2009-07-0613:50:58(ET)
+",6,2.50,2,,False,False
+665,666,3035844590,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:51:07(ET)
+",9,18,3,"['As', '6d', '4c', '5d']",False,False
+666,667,3035835846,HoldemNoLimit,1,SENECA DR,"2009-07-0613:51:09(ET)
+",5,6.50,3,,False,False
+667,668,3035833568,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:51:19(ET)
+",6,1.50,3,,False,False
+668,669,3035835996,HoldemNoLimit,1,PEARL DR,"2009-07-0613:51:27(ET)
+",8,8,7,"['Ah', '10s', '10']",False,False
+669,670,3035834042,HoldemNoLimit,1,MARION AVE,"2009-07-0613:51:31(ET)
+",9,7.50,7,,False,False
+670,671,3035834028,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:51:32(ET)
+",6,3,4,"['Qd', '7c', 'Kh']",False,False
+671,672,3035837088,HoldemNoLimit,1,SENECA DR,"2009-07-0613:51:42(ET)
+",5,3,4,"['5s', '2d', 'Qh', '3c']",False,False
+672,673,3035835016,HoldemNoLimit,1,MARION AVE,"2009-07-0613:51:55(ET)
+",8,2.50,8,"['9d', 'Kc', '7d', '4c']",False,False
+673,674,3035835950,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:52:18(ET)
+",6,8.50,5,,False,False
+674,675,3035839010,HoldemNoLimit,1,SENECA DR,"2009-07-0613:52:26(ET)
+",5,1.50,6,,False,False
+675,676,3035848394,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:52:27(ET)
+",9,27,4,"['4h', '9d', '7h']",False,False
+676,677,3035838446,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:52:30(ET)
+",6,5.50,2,"['10c', 'Jh', 'Jc', 'Qs', '4c']",False,False
+677,678,3035838682,HoldemNoLimit,1,PEARL DR,"2009-07-0613:52:33(ET)
+",8,3.50,8,"['Ad', '10c', '3h', '6c']",False,False
+678,679,3035836596,HoldemNoLimit,1,MARION AVE,"2009-07-0613:52:34(ET)
+",8,4.72,9,"['10s', '8d', 'Kh', '2h']",False,False
+679,680,3035839424,HoldemNoLimit,1,SENECA DR,"2009-07-0613:52:38(ET)
+",5,181,1,"['9s', '7h', '8c', 'Qs', '6c']",False,False
+680,681,3035837138,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:52:47(ET)
+",6,15.50,6,"['4c', 'Js', 'Qh', '9d', 'As']",False,False
+681,682,3035838370,HoldemNoLimit,1,MARION AVE,"2009-07-0613:53:17(ET)
+",9,2.50,2,,False,False
+682,683,3035838770,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:53:27(ET)
+",6,2.50,1,,False,False
+683,684,3035841170,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:53:29(ET)
+",6,55,3,"['3d', '2s', '9c', '5s']",False,False
+684,685,3035851426,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:53:30(ET)
+",9,5,5,"['3d', '4d', '2h', '6d', '8s']",False,False
+685,686,3035842232,HoldemNoLimit,1,SENECA DR,"2009-07-0613:53:43(ET)
+",5,7.50,2,"['10d', '9s', 'Ah', '4c', '3h']",False,False
+686,687,3035839462,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:53:44(ET)
+",6,2.50,2,,False,False
+687,688,3035840156,HoldemNoLimit,1,MARION AVE,"2009-07-0613:54:01(ET)
+",8,2.50,3,"['8h', '10h', '3c']",False,False
+688,689,3035840770,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:54:16(ET)
+",6,2.50,3,"['3c', 'As', 'Js', '5h', '2c']",False,False
+689,690,3035843716,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:54:21(ET)
+",6,2,4,,False,False
+690,691,3035844742,HoldemNoLimit,1,SENECA DR,"2009-07-0613:54:38(ET)
+",5,9.50,3,"['Kh', '9c', '2c']",False,False
+691,692,3035844658,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:54:43(ET)
+",6,19.50,5,"['Qd', '5c', '8c', '5s', '9c']",False,False
+692,693,3035842030,HoldemNoLimit,1,MARION AVE,"2009-07-0613:54:46(ET)
+",8,2.50,4,,False,False
+693,694,3035855796,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:54:53(ET)
+",9,2.50,6,"['Kh', 'Qs', '9s']",False,False
+694,695,3035842948,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:55:08(ET)
+",6,27,4,"['8h', '5h', '4s']",False,False
+695,696,3035846486,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:55:26(ET)
+",6,2,6,,False,False
+696,697,3035846772,HoldemNoLimit,1,SENECA DR,"2009-07-0613:55:28(ET)
+",4,17.50,4,"['5c', 'Qs', '7h', 'Qh', 'Jd']",False,False
+697,698,3035844080,HoldemNoLimit,1,MARION AVE,"2009-07-0613:55:37(ET)
+",8,2.50,5,"['8s', 'Js', '2s']",False,False
+698,699,3035847352,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:55:45(ET)
+",6,34.50,1,"['Kd', '5c', 'Qd', '3c', '7c']",False,False
+699,700,3035845174,HoldemNoLimit,1,AURELIA PL,"2009-07-0613:56:03(ET)
+",5,3.50,5,,False,False
+700,701,3035848574,HoldemNoLimit,1,SENECA DR,"2009-07-0613:56:09(ET)
+",4,2.50,1,,False,False
+701,702,3035845854,HoldemNoLimit,1,MARION AVE,"2009-07-0613:56:20(ET)
+",8,5.50,6,,False,False
+702,703,3035860394,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:56:22(ET)
+",9,1.50,7,,False,False
+703,704,3035849464,HoldemNoLimit,1,SENECA DR,"2009-07-0613:56:29(ET)
+",4,2.50,2,,False,False
+704,705,3035850746,HoldemNoLimit,1,SENECA DR,"2009-07-0613:56:58(ET)
+",5,37.50,3,"['Jc', '10h', 'Jd', '3d', '3h']",False,False
+705,706,3035850730,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:56:58(ET)
+",6,45,2,"['6d', '5d', '5c', '7c', '2h']",False,False
+706,707,3035862352,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:57:01(ET)
+",8,46.50,8,"['8s', '7c', '8d', 'Jd', '6s']",False,False
+707,708,3035847884,HoldemNoLimit,1,MARION AVE,"2009-07-0613:57:09(ET)
+",8,2.50,7,,False,False
+708,709,3035848716,HoldemNoLimit,1,MARION AVE,"2009-07-0613:57:28(ET)
+",9,2.50,8,,False,False
+709,710,3035853198,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:57:50(ET)
+",6,4.50,3,"['3c', '5h', '9s', 'Qd']",False,False
+710,711,3035849696,HoldemNoLimit,1,MARION AVE,"2009-07-0613:57:53(ET)
+",9,4.50,9,"['7c', '10h', 'Qc']",False,False
+711,712,3035853472,HoldemNoLimit,1,SENECA DR,"2009-07-0613:58:00(ET)
+",5,127.60,4,"['Kh', 'Kd', '9h', '3d', '2h']",False,False
+712,713,3035854654,HoldemNoLimit,1,GUAM AVE,"2009-07-0613:58:22(ET)
+",6,6,4,"['8s', '10c', '4d', 'Jh', 'Js']",False,False
+713,714,3035867134,HoldemNoLimit,1,REVERE DR,"2009-07-0613:58:33(ET)
+",8,2,9,"['9s', '6c', '9d']",False,False
+714,715,3035851524,HoldemNoLimit,1,MARION AVE,"2009-07-0613:58:37(ET)
+",9,2.50,1,,False,False
+715,716,3035855474,HoldemNoLimit,1,SENECA DR,"2009-07-0613:58:46(ET)
+",5,4,6,,False,False
+716,717,3035868168,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:58:52(ET)
+",8,2.50,9,,False,False
+717,718,3035868310,HoldemNoLimit,1,REVERE DR,"2009-07-0613:58:54(ET)
+",9,33,1,"['9h', 'Jh', 'Kh', '5s', 'Qd']",False,False
+718,719,3035852980,HoldemNoLimit,1,MARION AVE,"2009-07-0613:59:10(ET)
+",7,7.50,2,"['9s', '7h', '10']",False,False
+719,720,3035857146,HoldemNoLimit,1,SENECA DR,"2009-07-0613:59:22(ET)
+",5,2,1,"['Js', 'Kc', '6c', '8c']",False,False
+720,721,3035870020,HoldemNoLimit,1,QUEENS PL,"2009-07-0613:59:29(ET)
+",9,10.50,2,"['9c', 'Kd', 'Kh']",False,False
+721,722,3035855996,HoldemNoLimit,1,PEARL DR,"2009-07-0613:59:31(ET)
+",8,5,5,"['Qc', '5h', '8d', '4d', '10']",False,False
+722,723,3035854622,HoldemNoLimit,1,MARION AVE,"2009-07-0613:59:49(ET)
+",7,2,5,"['2d', '2c', '5h']",False,False
+723,724,3035871800,HoldemNoLimit,1,REVERE DR,"2009-07-0614:00:03(ET)
+",9,26.50,2,"['Jh', '5c', 'Kd', '4h', '7h']",False,False
+724,725,3035858894,HoldemNoLimit,1,SENECA DR,"2009-07-0614:00:04(ET)
+",5,1.50,2,,False,False
+725,726,3035859826,HoldemNoLimit,1,SENECA DR,"2009-07-0614:00:23(ET)
+",5,82,3,"['9c', '9s', '2d', '10s', '2c']",False,False
+726,727,3035858654,HoldemNoLimit,1,PEARL DR,"2009-07-0614:00:36(ET)
+",9,7.50,6,"['Ks', '3h', '2h']",False,False
+727,728,3035857290,HoldemNoLimit,1,MARION AVE,"2009-07-0614:00:53(ET)
+",7,11.50,7,"['9d', '8d', '7h']",False,False
+728,729,3035874572,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:00:55(ET)
+",8,46.50,3,"['Ah', '7s', '5h', '2c', '4s']",False,False
+729,730,3035874702,HoldemNoLimit,1,REVERE DR,"2009-07-0614:00:57(ET)
+",8,3,3,"['As', 'Js', '7h']",False,False
+730,731,3035860768,HoldemNoLimit,1,PEARL DR,"2009-07-0614:01:26(ET)
+",9,2.50,7,,False,False
+731,732,3035876408,HoldemNoLimit,1,REVERE DR,"2009-07-0614:01:27(ET)
+",8,3.50,4,"['4s', 'Jc', '8c']",False,False
+732,733,3035877714,HoldemNoLimit,1,REVERE DR,"2009-07-0614:01:49(ET)
+",8,2,6,"['Qh', '9h', 'Js']",False,False
+733,734,3035877808,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:01:50(ET)
+",8,3,4,"['Ks', '2c', 'Kh', '9c']",False,False
+734,735,3035863846,HoldemNoLimit,1,SENECA DR,"2009-07-0614:01:50(ET)
+",4,1.50,5,,False,False
+735,736,3035859786,HoldemNoLimit,1,MARION AVE,"2009-07-0614:01:52(ET)
+",8,4,8,"['2h', '8s', '3s']",False,False
+736,737,3035864126,HoldemNoLimit,1,SENECA DR,"2009-07-0614:01:57(ET)
+",4,2.50,6,,False,False
+737,738,3035862108,HoldemNoLimit,1,PEARL DR,"2009-07-0614:01:57(ET)
+",9,27.50,8,"['5s', '4d', 'Qh']",False,False
+738,739,3035864710,HoldemNoLimit,1,SENECA DR,"2009-07-0614:02:08(ET)
+",4,2.50,1,,False,False
+739,740,3035879228,HoldemNoLimit,1,REVERE DR,"2009-07-0614:02:09(ET)
+",8,9.50,7,"['Qc', 'Kh', '5c']",False,False
+740,741,3035865324,HoldemNoLimit,1,SENECA DR,"2009-07-0614:02:22(ET)
+",4,27,2,"['7c', 'Qh', 'Qd', '3c', 'Kh']",False,False
+741,742,3035881428,HoldemNoLimit,1,REVERE DR,"2009-07-0614:02:44(ET)
+",8,36,8,"['5c', '10s', 'Kc', '10h', '2d']",False,False
+743,744,3035864876,HoldemNoLimit,1,PEARL DR,"2009-07-0614:03:00(ET)
+",9,7.50,9,"['5c', 'Ks', '6s']",False,False
+744,745,3035862802,HoldemNoLimit,1,MARION AVE,"2009-07-0614:03:03(ET)
+",8,39.44,9,"['Jc', 'Kd', '10h', '8s']",False,False
+745,746,3035867378,HoldemNoLimit,1,SENECA DR,"2009-07-0614:03:06(ET)
+",4,2.50,3,,False,False
+746,747,3035868142,HoldemNoLimit,1,SENECA DR,"2009-07-0614:03:22(ET)
+",5,3,6,,False,False
+747,748,3035866348,HoldemNoLimit,1,PEARL DR,"2009-07-0614:03:38(ET)
+",9,5,1,"['9d', '5s', '10c', 'Jd', '10']",False,False
+748,749,3035884682,HoldemNoLimit,1,REVERE DR,"2009-07-0614:03:39(ET)
+",8,13,9,"['3s', '10c', 'Ah']",False,False
+749,750,3035869518,HoldemNoLimit,1,SENECA DR,"2009-07-0614:03:51(ET)
+",5,21,1,"['4h', '3h', 'Jc', 'Ad']",False,False
+750,751,3035885818,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:04:00(ET)
+",8,8.50,6,,False,False
+751,752,3035865530,HoldemNoLimit,1,MARION AVE,"2009-07-0614:04:09(ET)
+",8,18.70,1,"['5s', '10d', '3h', '7s', '8h']",False,False
+752,753,3035887100,HoldemNoLimit,1,REVERE DR,"2009-07-0614:04:23(ET)
+",8,24,1,"['7h', '4h', '5d', '2c', 'As']",False,False
+753,754,3035869120,HoldemNoLimit,1,PEARL DR,"2009-07-0614:04:40(ET)
+",9,10.50,2,"['4s', 'Kc', 'Jc']",False,False
+754,755,3035888166,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:04:40(ET)
+",9,3.50,8,"['2s', '3d', '8h', '2c', '10']",False,False
+755,756,3035867750,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:05:01(ET)
+",6,21.50,1,"['10c', '7s', 'Jc', '5h', 'As']",False,False
+756,757,3035870878,HoldemNoLimit,1,SENECA DR,"2009-07-0614:05:21(ET)
+",6,2.50,2,,False,False
+757,758,3035891254,HoldemNoLimit,1,REVERE DR,"2009-07-0614:05:34(ET)
+",8,4.50,2,"['Ah', 'Ks', '4h']",False,False
+758,759,3035871450,HoldemNoLimit,1,PEARL DR,"2009-07-0614:05:36(ET)
+",9,7.50,3,"['Jd', '4s', '3s']",False,False
+759,760,3035871640,HoldemNoLimit,1,SENECA DR,"2009-07-0614:05:37(ET)
+",6,23.50,3,"['10h', 'Jc', '7h', 'Ad', '5h']",False,False
+760,761,3035870454,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:06:04(ET)
+",6,2,2,"['10h', 'Kd', '7h']",False,False
+761,762,3035893060,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:06:06(ET)
+",9,3.50,9,,False,False
+762,763,3035893156,HoldemNoLimit,1,REVERE DR,"2009-07-0614:06:07(ET)
+",8,18,3,"['7d', 'Ks', 'Qc', 'Kd', '10']",False,False
+763,764,3035873640,HoldemNoLimit,1,PEARL DR,"2009-07-0614:06:24(ET)
+",9,11,4,"['8c', '9c', 'Jd', 'Kh', '3h']",False,False
+764,765,3035894886,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:06:38(ET)
+",8,1.50,1,,False,False
+765,766,3035872100,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:06:40(ET)
+",6,2.50,3,,False,False
+766,767,3035872438,HoldemNoLimit,1,MARION AVE,"2009-07-0614:06:47(ET)
+",9,3,2,"['Ks', 'Kd', '6c']",False,False
+767,768,3035895942,HoldemNoLimit,1,REVERE DR,"2009-07-0614:06:57(ET)
+",8,1.50,4,,False,False
+768,769,3035873014,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:07:00(ET)
+",6,1.50,4,,False,False
+769,770,3035896176,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:07:01(ET)
+",9,2.50,2,,False,False
+770,771,3035873416,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:07:10(ET)
+",6,17,5,"['Qh', '5c', '5s', 'Jd', 'Qd']",False,False
+771,772,3035897124,HoldemNoLimit,1,REVERE DR,"2009-07-0614:07:17(ET)
+",6,3,6,"['Kh', '3d', 'Qs']",False,False
+772,773,3035876614,HoldemNoLimit,1,SENECA DR,"2009-07-0614:07:21(ET)
+",6,6.50,4,"['As', '2h', 'Jc']",False,False
+773,774,3035897856,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:07:29(ET)
+",9,129.68,3,"['8s', '7d', '9d', '5c', '9h']",False,False
+774,775,3035876482,HoldemNoLimit,1,PEARL DR,"2009-07-0614:07:31(ET)
+",9,4,5,"['8d', '7h', '4s']",False,False
+775,776,3035874660,HoldemNoLimit,1,MARION AVE,"2009-07-0614:07:36(ET)
+",9,13,3,"['4s', '8c', '2h', '9c']",False,False
+776,777,3035898630,HoldemNoLimit,1,REVERE DR,"2009-07-0614:07:42(ET)
+",6,26,7,"['Js', '4s', '4d', 'Kc', '8d']",False,False
+777,778,3035878066,HoldemNoLimit,1,SENECA DR,"2009-07-0614:07:49(ET)
+",6,2.50,5,,False,False
+778,779,3035875616,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:07:59(ET)
+",6,2.50,6,,False,False
+779,780,3035878712,HoldemNoLimit,1,SENECA DR,"2009-07-0614:08:01(ET)
+",6,8.50,6,"['8s', 'As', '7d']",False,False
+780,781,3035878482,HoldemNoLimit,1,PEARL DR,"2009-07-0614:08:10(ET)
+",9,2.50,6,,False,False
+781,782,3035876400,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:08:17(ET)
+",6,31,1,"['8h', '10s', '10']",False,False
+782,783,3035901576,HoldemNoLimit,1,REVERE DR,"2009-07-0614:08:29(ET)
+",7,2,1,"['Qh', '5c', 'Js']",False,False
+783,784,3035902534,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:08:48(ET)
+",9,2,4,,False,False
+784,785,3035878020,HoldemNoLimit,1,MARION AVE,"2009-07-0614:08:52(ET)
+",9,50.47,4,"['Kh', 'Kc', 'Jc', '7h', '5c']",False,False
+785,786,3035902888,HoldemNoLimit,1,REVERE DR,"2009-07-0614:08:52(ET)
+",6,5.50,2,"['5h', '8h', 'Jh', '2h', '2d']",False,False
+786,787,3035878144,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:08:55(ET)
+",6,7,2,"['5d', '5s', '2h']",False,False
+787,788,3035881784,HoldemNoLimit,1,SENECA DR,"2009-07-0614:08:58(ET)
+",6,19,1,"['2d', '6s', '10s', 'Ks']",False,False
+788,789,3035904448,HoldemNoLimit,1,REVERE DR,"2009-07-0614:09:17(ET)
+",6,10,3,"['Jd', 'Qh', '8d', '2h', '10']",False,False
+789,790,3035904656,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:09:20(ET)
+",9,2.50,5,,False,False
+790,791,3035906502,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:09:49(ET)
+",8,10,6,"['8c', '7s', 'Jd', '10s', '10']",False,False
+791,792,3035880946,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:09:52(ET)
+",6,2.50,3,,False,False
+792,793,3035884884,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:09:52(ET)
+",6,3.50,2,"['8d', '3d', '10']",False,False
+793,794,3035884512,HoldemNoLimit,1,SENECA DR,"2009-07-0614:09:53(ET)
+",6,"132.40:$115.50,$16.90",2,"['Js', '3c', '7s', '3s', '2s']",False,False
+794,795,3035906966,HoldemNoLimit,1,REVERE DR,"2009-07-0614:09:56(ET)
+",6,7.50,4,"['8d', '6d', '2d', '7h', '4h']",False,False
+795,796,3035881640,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:10:09(ET)
+",6,6,4,,False,False
+796,797,3035882086,HoldemNoLimit,1,MARION AVE,"2009-07-0614:10:20(ET)
+",9,1.50,5,,False,False
+797,798,3035908428,HoldemNoLimit,1,REVERE DR,"2009-07-0614:10:20(ET)
+",8,3,6,"['10c', '3c', 'Js']",False,False
+798,799,3035886634,HoldemNoLimit,1,SENECA DR,"2009-07-0614:10:40(ET)
+",4,0,3,,False,False
+799,800,3035882866,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:10:40(ET)
+",6,2.50,5,,False,False
+800,801,3035909878,HoldemNoLimit,1,REVERE DR,"2009-07-0614:10:43(ET)
+",8,31.90,7,"['6d', '5s', '10d', '5d', '5c']",False,False
+801,802,3035887222,HoldemNoLimit,1,SENECA DR,"2009-07-0614:10:49(ET)
+",4,2.50,4,,False,False
+802,803,3035910468,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:10:54(ET)
+",8,11.50,7,"['Ad', '7h', '6h']",False,False
+803,804,3035883774,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:11:02(ET)
+",6,2.50,6,,False,False
+804,805,3035887996,HoldemNoLimit,1,SENECA DR,"2009-07-0614:11:04(ET)
+",5,10.50,6,"['2s', '10d', '7d']",False,False
+805,806,3035884152,HoldemNoLimit,1,MARION AVE,"2009-07-0614:11:11(ET)
+",8,2,6,"['2c', '10h', 'Js', '4c', 'Ad']",False,False
+806,807,3035912510,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:11:24(ET)
+",9,7.50,8,"['4c', '5d', '5s', 'Kh']",False,False
+807,808,3035889522,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:11:27(ET)
+",6,0,4,,False,False
+808,809,3035912514,HoldemNoLimit,1,REVERE DR,"2009-07-0614:11:28(ET)
+",8,2,8,"['6h', '7s', 'Ks']",False,False
+809,810,3035884824,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:11:30(ET)
+",6,131.90,1,"['3c', '8s', 'Qs', 'As', '2d']",False,False
+810,811,3035889716,HoldemNoLimit,1,SENECA DR,"2009-07-0614:11:41(ET)
+",6,2.50,1,,False,False
+811,812,3035913978,HoldemNoLimit,1,REVERE DR,"2009-07-0614:11:51(ET)
+",8,18,9,"['3c', '5h', '6h', 'Qd']",False,False
+812,813,3035890470,HoldemNoLimit,1,SENECA DR,"2009-07-0614:11:55(ET)
+",5,1.50,2,,False,False
+813,814,3035914214,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:11:56(ET)
+",8,2.50,9,,False,False
+814,815,3035891144,HoldemNoLimit,1,SENECA DR,"2009-07-0614:12:08(ET)
+",6,8,3,"['6h', '3h', '5d', 'Qd']",False,False
+815,816,3035886858,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:12:19(ET)
+",5,1.50,2,,False,False
+816,817,3035887254,HoldemNoLimit,1,MARION AVE,"2009-07-0614:12:25(ET)
+",9,3.50,7,,False,False
+817,818,3035887392,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:12:28(ET)
+",5,1.50,3,,False,False
+818,819,3035892556,HoldemNoLimit,1,SENECA DR,"2009-07-0614:12:38(ET)
+",6,14.50,4,"['9h', '8d', 'Ad']",False,False
+819,820,3035890422,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:12:46(ET)
+",5,1.50,5,,False,False
+820,821,3035888240,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:12:47(ET)
+",5,7.50,4,"['Ks', '2h', '7c']",False,False
+821,822,3035917498,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:12:48(ET)
+",8,8,1,"['Qh', 'Kh', '5s', '5d']",False,False
+822,823,3035917584,HoldemNoLimit,1,REVERE DR,"2009-07-0614:12:50(ET)
+",8,2.50,1,,False,False
+823,824,3035891120,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:12:59(ET)
+",6,20,6,"['2d', '3s', '5s', '4s', 'Qs']",False,False
+824,825,3035893884,HoldemNoLimit,1,SENECA DR,"2009-07-0614:13:05(ET)
+",6,2.50,5,,False,False
+825,826,3035918822,HoldemNoLimit,1,REVERE DR,"2009-07-0614:13:10(ET)
+",8,10.50,2,,False,False
+826,827,3035889370,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:13:12(ET)
+",5,34,5,"['5s', '2d', '7c', 'Ad', 'As']",False,False
+827,828,3035889634,HoldemNoLimit,1,MARION AVE,"2009-07-0614:13:19(ET)
+",8,2.50,8,,False,False
+828,829,3035894814,HoldemNoLimit,1,SENECA DR,"2009-07-0614:13:24(ET)
+",6,8.50,6,,False,False
+829,830,3035920008,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:13:31(ET)
+",8,2.50,2,,False,False
+830,831,3035921060,HoldemNoLimit,1,REVERE DR,"2009-07-0614:13:48(ET)
+",9,12.50,3,"['6s', 'Kd', '3s']",False,False
+831,832,3035921452,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:13:54(ET)
+",8,81,3,"['As', '10c', 'Js', '6c', '9s']",False,False
+832,833,3035896670,HoldemNoLimit,1,SENECA DR,"2009-07-0614:13:59(ET)
+",6,2,1,"['Js', 'Qh', '6h']",False,False
+833,834,3035892104,HoldemNoLimit,1,MARION AVE,"2009-07-0614:14:13(ET)
+",7,14.50,9,"['4d', '2s', '8d']",False,False
+834,835,3035892162,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:14:14(ET)
+",5,11.50,6,,False,False
+835,836,3035895112,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:14:20(ET)
+",5,3,2,"['10d', 'Jc', '5c']",False,False
+836,837,3035924018,HoldemNoLimit,1,REVERE DR,"2009-07-0614:14:38(ET)
+",9,10.50,4,"['10d', '10s', 'Jh']",False,False
+837,838,3035896500,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:14:47(ET)
+",6,191,3,"['9d', '2c', '6s', '8d', '10']",False,False
+838,839,3035894078,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:14:55(ET)
+",5,2,2,,False,False
+839,840,3035925368,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:15:02(ET)
+",8,36,4,"['4d', '6s', '7h', 'Ks', '5h']",False,False
+840,841,3035894562,HoldemNoLimit,1,MARION AVE,"2009-07-0614:15:07(ET)
+",8,4,2,,False,False
+841,842,3035894720,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:15:12(ET)
+",5,1.50,3,,False,False
+842,843,3035895964,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:15:38(ET)
+",5,1.50,4,,False,False
+843,844,3035898368,HoldemNoLimit,1,SENECA DR,"2009-07-0614:15:38(ET)
+",6,2.50,2,,False,False
+844,845,3035899154,HoldemNoLimit,1,SENECA DR,"2009-07-0614:15:51(ET)
+",6,6.50,3,,False,False
+845,846,3035896848,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:15:59(ET)
+",5,154.88,5,"['8s', '2c', '9d', '3h', '5c']",False,False
+846,847,3035896998,HoldemNoLimit,1,MARION AVE,"2009-07-0614:16:02(ET)
+",8,2.50,3,,False,False
+847,848,3035929254,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:16:09(ET)
+",9,2,5,"['3s', '4s', '9h', '3h']",False,False
+848,849,3035900286,HoldemNoLimit,1,SENECA DR,"2009-07-0614:16:14(ET)
+",6,1.50,4,,False,False
+849,850,3035900998,HoldemNoLimit,1,SENECA DR,"2009-07-0614:16:25(ET)
+",6,1.50,5,,False,False
+850,851,3035898280,HoldemNoLimit,1,MARION AVE,"2009-07-0614:16:31(ET)
+",8,15.44,4,"['8h', 'Jh', '6d', '6h', '2c']",False,False
+851,852,3035901374,HoldemNoLimit,1,SENECA DR,"2009-07-0614:16:32(ET)
+",6,1.50,6,,False,False
+852,853,3035931098,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:16:42(ET)
+",9,2.50,6,,False,False
+853,854,3035902164,HoldemNoLimit,1,SENECA DR,"2009-07-0614:16:50(ET)
+",6,8,1,"['7c', 'Qh', 'Qc', '9d', '8s']",False,False
+854,855,3035901778,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:16:52(ET)
+",6,55.50,4,"['9h', 'Qd', '4s', '10h', 'Kd']",False,False
+855,856,3035932198,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:17:01(ET)
+",9,2.50,7,,False,False
+856,857,3035902128,HoldemNoLimit,1,PEARL DR,"2009-07-0614:17:04(ET)
+",8,10,7,"['7h', '6h', '8d', 'Qc']",False,False
+857,858,3035933582,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:17:24(ET)
+",9,2.50,8,,False,False
+858,859,3035901272,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:17:36(ET)
+",5,2.50,6,,False,False
+859,860,3035905022,HoldemNoLimit,1,SENECA DR,"2009-07-0614:17:42(ET)
+",6,3.50,2,,False,False
+860,861,3035934618,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:17:43(ET)
+",8,2.50,9,,False,False
+861,862,3035901934,HoldemNoLimit,1,MARION AVE,"2009-07-0614:17:52(ET)
+",8,181.50,5,"['6h', '10h', 'Jd', '8h', '3c']",False,False
+862,863,3035905954,HoldemNoLimit,1,SENECA DR,"2009-07-0614:17:58(ET)
+",6,75.20,3,"['2c', '7h', '2s', 'Qd', 'Ac']",False,False
+863,864,3035902208,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:17:59(ET)
+",6,10.50,2,"['6c', '9h', 'Js']",False,False
+864,865,3035904934,HoldemNoLimit,1,PEARL DR,"2009-07-0614:18:02(ET)
+",9,2.50,8,,False,False
+865,866,3035905040,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:18:12(ET)
+",6,10.50,5,"['9s', '3d', '8h']",False,False
+866,867,3035936636,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:18:17(ET)
+",9,3.50,2,,False,False
+867,868,3035905946,HoldemNoLimit,1,PEARL DR,"2009-07-0614:18:23(ET)
+",9,3,9,"['Qh', '7c', '7d', '2s']",False,False
+868,869,3035904592,HoldemNoLimit,1,MARION AVE,"2009-07-0614:18:48(ET)
+",7,2.50,6,,False,False
+869,870,3035906708,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:18:49(ET)
+",6,100,6,"['5d', '9d', '7s', 'Jh', '10']",False,False
+870,871,3035938694,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:18:52(ET)
+",9,2,3,"['8s', '2h', '9h']",False,False
+871,872,3035909248,HoldemNoLimit,1,SENECA DR,"2009-07-0614:19:01(ET)
+",5,1.50,4,,False,False
+872,873,3035909986,HoldemNoLimit,1,SENECA DR,"2009-07-0614:19:11(ET)
+",5,6.50,5,,False,False
+873,874,3035905584,HoldemNoLimit,1,MARION AVE,"2009-07-0614:19:11(ET)
+",7,2.50,7,,False,False
+874,875,3035940502,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:19:23(ET)
+",8,17.50,4,"['8c', '7s', 'Qd']",False,False
+875,876,3035911418,HoldemNoLimit,1,SENECA DR,"2009-07-0614:19:40(ET)
+",5,2.50,1,,False,False
+876,877,3035909440,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:19:50(ET)
+",6,13,1,"['6d', '2c', '10']",False,False
+877,878,3035912104,HoldemNoLimit,1,SENECA DR,"2009-07-0614:19:51(ET)
+",5,15.50,2,"['Qs', 'Ah', '8h', '7d']",False,False
+878,879,3035907362,HoldemNoLimit,1,MARION AVE,"2009-07-0614:19:52(ET)
+",7,11,9,"['8c', '9c', 'Kc', '5h', '3d']",False,False
+879,880,3035943366,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:20:04(ET)
+",8,13,6,"['7h', 'Ad', '3c', '9s']",False,False
+880,881,3035913296,HoldemNoLimit,1,SENECA DR,"2009-07-0614:20:16(ET)
+",5,6.50,3,"['As', 'Jc', '5s', 'Jd', 'Ks']",False,False
+881,882,3035911726,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:20:43(ET)
+",5,10.50,2,"['As', '9c', '8h']",False,False
+882,883,3035946732,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:20:58(ET)
+",9,15.50,7,"['7s', '4s', 'Jh', 'Kh', 'Qh']",False,False
+883,884,3035947110,HoldemNoLimit,1,REVERE DR,"2009-07-0614:21:04(ET)
+",9,3.50,4,,False,False
+884,885,3035911306,HoldemNoLimit,1,MARION AVE,"2009-07-0614:21:19(ET)
+",7,15,1,"['8d', '2h', '10h', '10d', '6s']",False,False
+885,886,3035913528,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:21:25(ET)
+",5,1.50,3,,False,False
+886,887,3035949058,HoldemNoLimit,1,REVERE DR,"2009-07-0614:21:31(ET)
+",9,2.50,5,,False,False
+887,888,3035949482,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:21:38(ET)
+",9,2.50,8,"['5s', 'Jd', '5c']",False,False
+888,889,3035949986,HoldemNoLimit,1,REVERE DR,"2009-07-0614:21:45(ET)
+",9,34,6,"['5h', '6h', 'Qs', '5d', 'Jd']",False,False
+889,890,3035914758,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:21:52(ET)
+",6,2.50,5,,False,False
+890,891,3035951134,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:22:03(ET)
+",9,2.50,9,,False,False
+891,892,3035915868,HoldemNoLimit,1,SENECA DR,"2009-07-0614:22:10(ET)
+",5,2,4,,False,False
+892,893,3035952394,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:22:24(ET)
+",9,4,1,"['Ah', 'As', '5c', '7c']",False,False
+893,894,3035916434,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:22:29(ET)
+",5,6,6,"['10h', '3c', '8c']",False,False
+894,895,3035916744,HoldemNoLimit,1,SENECA DR,"2009-07-0614:22:29(ET)
+",5,1.50,5,,False,False
+895,896,3035952980,HoldemNoLimit,1,REVERE DR,"2009-07-0614:22:30(ET)
+",8,3.50,7,,False,False
+896,897,3035914584,HoldemNoLimit,1,MARION AVE,"2009-07-0614:22:36(ET)
+",8,3,2,,False,False
+897,898,3035917212,HoldemNoLimit,1,SENECA DR,"2009-07-0614:22:38(ET)
+",5,71.50,1,"['6c', '9d', '8d', '5d', 'Ks']",False,False
+898,899,3035954694,HoldemNoLimit,1,REVERE DR,"2009-07-0614:22:54(ET)
+",8,330.50,8,"['Ac', '6c', '10d', 'Js', '2h']",False,False
+899,900,3035917716,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:22:58(ET)
+",5,11.16,1,"['5h', '2c', '7h', 'Kc']",False,False
+900,901,3035954996,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:23:00(ET)
+",9,6.50,2,"['2c', '10h', '5h', '6s']",False,False
+901,902,3035916576,HoldemNoLimit,1,MARION AVE,"2009-07-0614:23:22(ET)
+",8,1.50,3,,False,False
+902,903,3035957286,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:23:29(ET)
+",9,4,3,"['9h', '9c', 'Js']",False,False
+903,904,3035917516,HoldemNoLimit,1,MARION AVE,"2009-07-0614:23:43(ET)
+",8,5.50,4,,False,False
+904,905,3035921088,HoldemNoLimit,1,SENECA DR,"2009-07-0614:23:48(ET)
+",6,8.50,2,"['7d', 'Kh', 'Qh']",False,False
+905,906,3035958922,HoldemNoLimit,1,REVERE DR,"2009-07-0614:23:54(ET)
+",9,2.50,1,,False,False
+906,907,3035921154,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:24:13(ET)
+",6,2.50,2,,False,False
+907,908,3035960502,HoldemNoLimit,1,REVERE DR,"2009-07-0614:24:17(ET)
+",8,12.50,2,"['5s', 'Jc', '4s', '6c', 'Qd']",False,False
+908,909,3035960856,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:24:24(ET)
+",9,2.50,4,,False,False
+909,910,3035923364,HoldemNoLimit,1,SENECA DR,"2009-07-0614:24:32(ET)
+",5,14,3,"['5h', '8d', '3d', 'Jd', '10']",False,False
+910,911,3035922080,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:24:35(ET)
+",6,219,3,"['6c', '5s', 'Ah', 'Jh', '2s']",False,False
+911,912,3035962068,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:24:42(ET)
+",9,13.50,5,"['9c', '9s', 'Ah', 'Js', 'Kh']",False,False
+912,913,3035920140,HoldemNoLimit,1,MARION AVE,"2009-07-0614:24:43(ET)
+",8,30,5,"['Ad', '5s', '3d']",False,False
+913,914,3035962672,HoldemNoLimit,1,REVERE DR,"2009-07-0614:24:50(ET)
+",8,3.50,3,,False,False
+914,915,3035963696,HoldemNoLimit,1,REVERE DR,"2009-07-0614:25:06(ET)
+",8,16,4,"['Qd', 'Qh', 'Jc', '2s', '4c']",False,False
+915,916,3035925260,HoldemNoLimit,1,SENECA DR,"2009-07-0614:25:09(ET)
+",6,2.50,4,,False,False
+916,917,3035926122,HoldemNoLimit,1,SENECA DR,"2009-07-0614:25:27(ET)
+",6,15,5,"['10h', '4c', '4h', 'Ad', '10']",False,False
+917,918,3035965802,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:25:41(ET)
+",9,3.50,6,"['Jh', 'Ah', '6s']",False,False
+918,919,3035925480,HoldemNoLimit,1,PEARL DR,"2009-07-0614:25:44(ET)
+",8,9,1,"['8c', 'As', '10']",False,False
+919,920,3035966786,HoldemNoLimit,1,REVERE DR,"2009-07-0614:25:55(ET)
+",8,8.50,5,"['10s', '4h', '6c', '7d']",False,False
+920,921,3035923668,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:25:56(ET)
+",6,15.50,4,"['6c', '8d', '5s', '4h', '7c']",False,False
+921,922,3035928508,HoldemNoLimit,1,SENECA DR,"2009-07-0614:26:13(ET)
+",6,2.50,6,,False,False
+922,923,3035967960,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:26:15(ET)
+",9,2.50,7,,False,False
+923,924,3035968640,HoldemNoLimit,1,REVERE DR,"2009-07-0614:26:25(ET)
+",8,4.50,6,"['9d', 'Jc', 'Kc', '6h', '9s']",False,False
+924,925,3035929098,HoldemNoLimit,1,SENECA DR,"2009-07-0614:26:27(ET)
+",6,33.50,1,"['9d', '10s', '6c', 'Jd']",False,False
+925,926,3035927130,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:26:29(ET)
+",6,2.50,4,"['4d', '8h', 'Ac']",False,False
+926,927,3035925044,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:26:30(ET)
+",6,18.50,5,"['3h', '5h', '4s', 'Qh', '8d']",False,False
+927,928,3035925082,HoldemNoLimit,1,MARION AVE,"2009-07-0614:26:31(ET)
+",8,2.50,6,,False,False
+928,929,3035969360,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:26:36(ET)
+",9,2.50,8,,False,False
+929,930,3035970362,HoldemNoLimit,1,REVERE DR,"2009-07-0614:26:52(ET)
+",9,6.50,7,"['7c', 'Kc', 'Kh', '3d', 'Jd']",False,False
+930,931,3035930678,HoldemNoLimit,1,SENECA DR,"2009-07-0614:26:56(ET)
+",6,24.50,2,"['4h', '7s', 'Qd', 'Kc', '5d']",False,False
+931,932,3035971042,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:27:02(ET)
+",9,196.08,9,"['9s', 'Kh', '2c', 'Js', '6c']",False,False
+932,933,3035926488,HoldemNoLimit,1,MARION AVE,"2009-07-0614:27:02(ET)
+",8,8,7,"['7c', '10h', '6s', '5d', '10']",False,False
+933,934,3035929212,HoldemNoLimit,1,PEARL DR,"2009-07-0614:27:02(ET)
+",8,20,2,"['Jh', 'Qd', 'Qs', '9c', '9d']",False,False
+934,935,3035927644,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:27:26(ET)
+",6,8.50,6,"['Jh', '4c', 'Jd']",False,False
+935,936,3035972776,HoldemNoLimit,1,REVERE DR,"2009-07-0614:27:30(ET)
+",9,3.50,8,,False,False
+936,937,3035932460,HoldemNoLimit,1,SENECA DR,"2009-07-0614:27:32(ET)
+",6,15,3,"['5d', '6s', '5c']",False,False
+937,938,3035930096,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:27:37(ET)
+",6,3,5,"['10h', '6h', '7c']",False,False
+938,939,3035974044,HoldemNoLimit,1,REVERE DR,"2009-07-0614:27:48(ET)
+",9,82,9,"['6s', 'Qc', 'Js', 'Qs', '3c']",False,False
+939,940,3035928640,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:27:50(ET)
+",6,1.50,1,,False,False
+940,941,3035929134,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:28:00(ET)
+",6,22.50,2,"['6h', 'Kh', 'Js']",False,False
+941,942,3035974756,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:28:02(ET)
+",8,0,1,,False,False
+942,943,3035932054,HoldemNoLimit,1,PEARL DR,"2009-07-0614:28:06(ET)
+",8,2.50,3,,False,False
+943,944,3035929696,HoldemNoLimit,1,MARION AVE,"2009-07-0614:28:11(ET)
+",8,85.50,9,"['Kc', '3d', '2c', '8h', '6s']",False,False
+944,945,3035975958,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:28:17(ET)
+",8,2,2,"['8d', '7c', 'Ah']",False,False
+945,946,3035934720,HoldemNoLimit,1,SENECA DR,"2009-07-0614:28:17(ET)
+",6,1.50,4,,False,False
+946,947,3035932866,HoldemNoLimit,1,PEARL DR,"2009-07-0614:28:27(ET)
+",9,71.76,4,"['8c', '7d', '2h', 'Qd', 'Js']",False,False
+947,948,3035932728,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:28:38(ET)
+",6,7.50,6,"['2h', '5s', '9c', '6s', '4s']",False,False
+948,949,3035931158,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:28:44(ET)
+",6,2.50,3,,False,False
+949,950,3035977764,HoldemNoLimit,1,REVERE DR,"2009-07-0614:28:47(ET)
+",8,3.50,1,,False,False
+950,951,3035978320,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:28:54(ET)
+",9,18.66,3,"['10s', '8h', '2h', '4h', 'Ac']",False,False
+951,952,3035978796,HoldemNoLimit,1,REVERE DR,"2009-07-0614:29:03(ET)
+",8,2.50,2,,False,False
+952,953,3035931976,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:29:04(ET)
+",6,10.50,4,,False,False
+953,954,3035934218,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:29:12(ET)
+",6,6,1,"['7s', '3d', 'Qd']",False,False
+954,955,3035979446,HoldemNoLimit,1,REVERE DR,"2009-07-0614:29:14(ET)
+",7,2.50,3,,False,False
+955,956,3035980404,HoldemNoLimit,1,REVERE DR,"2009-07-0614:29:29(ET)
+",7,2.50,6,,False,False
+956,957,3035935276,HoldemNoLimit,1,SENECA DR,"2009-07-0614:29:34(ET)
+",6,2.50,5,,False,False
+957,958,3035981082,HoldemNoLimit,1,REVERE DR,"2009-07-0614:29:37(ET)
+",8,128.30,7,"['10h', 'Jh', '6d', '4h', 'Qd']",False,False
+958,959,3035935862,HoldemNoLimit,1,SENECA DR,"2009-07-0614:29:48(ET)
+",6,1.50,6,,False,False
+959,960,3035934098,HoldemNoLimit,1,MARION AVE,"2009-07-0614:29:53(ET)
+",8,31.50,1,"['2d', 'Jh', '9s', '6d', 'Kd']",False,False
+960,961,3035982190,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:29:55(ET)
+",8,9.50,4,"['9c', '7d', 'Qc', 'Ac']",False,False
+961,962,3035936230,HoldemNoLimit,1,SENECA DR,"2009-07-0614:29:55(ET)
+",6,16,1,"['7d', 'Jh', 'Jc', '6h', 'Jd']",False,False
+962,963,3035936248,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:30:00(ET)
+",6,25,2,,False,False
+963,964,3035937472,HoldemNoLimit,1,PEARL DR,"2009-07-0614:30:14(ET)
+",8,10.50,5,"['9h', '8d', 'As']",False,False
+964,965,3035984992,HoldemNoLimit,1,QUEENS PL,"2009-07-0614:30:37(ET)
+",8,3.50,5,,False,False
+965,966,3035984700,HoldemNoLimit,1,REVERE DR,"2009-07-0614:30:41(ET)
+",9,22.50,8,"['10h', '6h', '4d', '6d']",False,False
+966,967,3035938568,HoldemNoLimit,1,SENECA DR,"2009-07-0614:30:49(ET)
+",6,2.50,2,"['10d', '9c', '3s']",False,False
+967,968,3035938690,HoldemNoLimit,1,WARDELL ST,"2009-07-0614:30:52(ET)
+",8,5.20,7,"['9d', 'Js', '4h']",$0.15,False
+968,969,3035939156,HoldemNoLimit,1,PEARL DR,"2009-07-0614:30:53(ET)
+",9,3,6,"['Kc', 'Ac', '6c']",False,False
+969,970,3035939002,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:30:57(ET)
+",6,1.50,3,,False,False
+970,971,3035937136,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:31:05(ET)
+",6,7.50,1,"['3h', '7s', '10']",False,False
+971,972,3035939996,HoldemNoLimit,1,SENECA DR,"2009-07-0614:31:22(ET)
+",6,89.40,3,"['Js', '7s', 'Qd', '2c', '4s']",False,False
+972,973,3035940178,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:31:24(ET)
+",6,2.50,4,"['8s', 'Ks', 'Ac']",False,False
+973,974,3035940986,HoldemNoLimit,1,PEARL DR,"2009-07-0614:31:29(ET)
+",9,3.50,7,,False,False
+974,975,3035938214,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:31:32(ET)
+",6,211.50,2,"['7c', 'Qs', '10s', '3s', '3h']",False,False
+975,976,3035941432,HoldemNoLimit,1,WARDELL ST,"2009-07-0614:31:51(ET)
+",8,11.60,9,"['Kd', 'As', 'Ks']",$0.15,False
+976,977,3035941936,HoldemNoLimit,1,SENECA DR,"2009-07-0614:32:01(ET)
+",6,1.50,4,,False,False
+977,978,3035942204,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:32:04(ET)
+",6,2,5,"['3s', '6h', '7h']",False,False
+978,979,3035939710,HoldemNoLimit,1,MARION AVE,"2009-07-0614:32:05(ET)
+",8,2.50,2,,False,False
+979,980,3035942616,HoldemNoLimit,1,SENECA DR,"2009-07-0614:32:15(ET)
+",6,7.50,5,"['6d', '8h', '10']",False,False
+980,981,3035942810,HoldemNoLimit,1,WARDELL ST,"2009-07-0614:32:21(ET)
+",8,61.50,1,"['9d', '10h', '3d', 'Kh', '6c']",$0.15,False
+981,982,3035943942,HoldemNoLimit,1,PEARL DR,"2009-07-0614:32:34(ET)
+",9,9,8,,False,False
+982,983,3035943850,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:32:41(ET)
+",6,2.50,6,,False,False
+983,984,3035942030,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:32:57(ET)
+",6,10,3,"['6s', 'As', '8c', 'Kh']",False,False
+984,985,3035944688,HoldemNoLimit,1,SENECA DR,"2009-07-0614:33:07(ET)
+",6,8.50,6,"['8h', 'Jc', '10h', '8s', '3d']",False,False
+985,986,3035945332,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:33:12(ET)
+",6,3.50,1,,False,False
+986,987,3035946460,HoldemNoLimit,1,PEARL DR,"2009-07-0614:33:24(ET)
+",9,2.50,9,,False,False
+987,988,3035946070,HoldemNoLimit,1,WARDELL ST,"2009-07-0614:33:39(ET)
+",8,51.45,2,"['10s', 'Kc', '4s', '6d', 'Js']",$0.15,False
+988,989,3035946488,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:33:40(ET)
+",5,2.50,2,,False,False
+989,990,3035944368,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:33:42(ET)
+",6,14,4,"['5d', '3h', 'Jc']",False,False
+990,991,3035946634,HoldemNoLimit,1,SENECA DR,"2009-07-0614:33:51(ET)
+",6,56,1,"['Jc', '6c', '7h', 'Ad', '3c']",False,False
+991,992,3035947418,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:33:59(ET)
+",6,12.50,4,"['10c', 'Kh', '9h']",False,False
+992,993,3035948174,HoldemNoLimit,1,PEARL DR,"2009-07-0614:34:00(ET)
+",9,32,1,"['3d', '5c', 'Ac', '10c', '2s']",False,False
+993,994,3035945954,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:34:14(ET)
+",6,38.50,5,"['Ac', '8d', 'Jh', 'Ad', 'Qd']",False,False
+994,995,3035948602,HoldemNoLimit,1,BRADBURN RD,"2009-07-0614:34:25(ET)
+",6,3,3,"['8h', '9c', '3s']",False,False
+995,996,3035948514,HoldemNoLimit,1,WARDELL ST,"2009-07-0614:34:34(ET)
+",7,33.15,3,"['Qc', '3d', '2c']",$0.15,False
+996,997,3035950754,HoldemNoLimit,1,PEARL DR,"2009-07-0614:34:52(ET)
+",9,8,2,"['2h', '6d', 'Qh']",False,False
+997,998,3035950654,HoldemNoLimit,1,BRADBURN RD,"2009-07-0614:35:10(ET)
+",6,7.50,4,"['Qh', 'Ac', 'Jd', 'Kh', '5c']",False,False
+998,999,3035950698,HoldemNoLimit,1,GUAM AVE,"2009-07-0614:35:11(ET)
+",5,1.50,5,,False,False
+999,1000,3035948810,HoldemNoLimit,1,AURELIA PL,"2009-07-0614:35:21(ET)
+",6,2,6,,False,False
